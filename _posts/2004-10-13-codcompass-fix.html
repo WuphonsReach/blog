@@ -1,0 +1,14 @@
+---
+layout: post
+title: CoD:Compass Fix
+date: '2004-10-13T08:53:00.000-04:00'
+author: Wuphon's Reach
+tags:
+- '2004'
+- CallOfDuty
+modified_time: '2010-08-04T14:54:42.752-04:00'
+blogger_id: tag:blogger.com,1999:blog-3097974.post-113975961750908550
+blogger_orig_url: http://wuphonsreach.blogspot.com/2004/10/codcompass-fix.shtml
+---
+
+Yes, and I *think* I have properly mod'd GSC files for the maps/gametypes affected. I've played through all combinations on my personal test server and it seems to work fine. However, I'm probably going to be out of town this weekend, so I don't have time to play test it extensively. It's even possible that the PK3 file is not pakscaped properly and there's no readme file yet.<br /><br />Now, if I haven't driven you off yet, attached is a PK3 file that fixes the issue (or seems to). The fix is exceedingly trivial and I didn't get into anything advanced like adjusting the compass range for a particular gametype (BEL / HQ / SD / RE would all benefit from a slightly more focused compass).<br /><br />The gory technical details are over at the CA Forums, but basically I've added lines to Ponyri, Cassino, Stanjel, and Sicily's GSC files, and patched up the SpawnPlayer() function in the old-style gametype GSC files.<br /><br />Last night was the only night that I had to muck with it this week, so if it doesn't work I can't promise a fix until the middle of next week.

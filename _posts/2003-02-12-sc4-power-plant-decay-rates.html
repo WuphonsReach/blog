@@ -1,0 +1,58 @@
+---
+layout: post
+title: SC4 Power Plant Decay Rates
+date: '2003-02-12T17:56:00.000-05:00'
+author: Wuphon's Reach
+tags:
+- SimCity4
+- '2003'
+modified_time: '2010-08-04T14:34:15.048-04:00'
+blogger_id: tag:blogger.com,1999:blog-3097974.post-88997645
+blogger_orig_url: http://wuphonsreach.blogspot.com/2003/02/sc4-power-plant-decay-rates.shtml
+---
+
+(copy of what I posted on the Maxis' BBS)
+<br /> 
+<br />Well, I did some testing and it's interesting - sometimes a power plant (only tested coal-gas-oil) lasted for 70 years before hitting the 50% efficiency level, the second time I ran the series it only lasted ~45 years before hitting 50% efficiency. I'm going to say that it's related to the overall percent usage of the power system - because all of the gas-coal-oil power plants decayed at exactly the same rate (in fact all 6 blew up at the same instant when they wore out halfway through year 54). Higher utilization levels results in power plants wearing out faster. 
+<br />Efficiency also impacts the monthly cost that you're paying for the power plant. A plant at 50% efficiency costs an extra 50% to maintain, which means the cost per MWh is 300% more then a brand new power plant. 
+<br />
+<br />Here are the decay values for a coal power plant where the percent utilization of all plants was always greater then 95% (selling off the excess power to the neighboring cities). 
+<br />
+<br />year $/mo $/MWh MWhCapacity PercentEfficiency
+<br />+00 $250 $0.0417 6000 100%
+<br />+10 $253 $0.0431 5868 97%
+<br />+20 $256 $0.0447 5729 95%
+<br />+30 $271 $0.0509 5326 88%
+<br />+40 $320 $0.0760 4213 70%
+<br />+45 $375 $0.1203 3118 51%
+<br />+50 $518 $0.3124 1658 27%
+<br />+51 $573 $0.4569 1254 20%
+<br />+52 $616 $0.6505 947 15%
+<br />+53 $664 $1.1160 595 9%
+<br />+54 $719 $3.7254 193 3% 
+<br />
+<br />In my test city, I went from making +$3k per month to losing $3k per month within a 10 year span as the (6) test power plants (2 each of coal-gas-oil) hit the end of their lifecycle. So there is a serious cost impact once you let your power plants get below ~75% efficiency (that gets exponentially worse). 
+<br />
+<br />On a side note - Wind Power plants seem to last a lot longer then coal-gas-oil plants, so their intial $/MWh of $0.20 may not be as high as it seems (Coal plants start at $0.04/MWh.) I'm not sure if Wind Power plants ever wear out (have not tested this yet). 
+<br />
+<br />If you replace your power plants at year 40 (70% utilization), using the above decay rate, here are approximate costs per MWh for coal-gas-oil (anyone have the proper calculations for this? these are back-of-envelope figures and are probably 5% high): 
+<br />
+<br />Coal - $10k to build
+<br />produces 211,360 MWh over 40 years
+<br />maint costs are $11k over 40 years
+<br />($10,000 + $11,000) / 211,360 = $0.0994 $/MWh 
+<br />
+<br />Gas - $9k to build
+<br />produces 106,000 MWh over 40 years
+<br />maint costs are $17,600 over 40 years
+<br />($17,600 + $9,000) / 106,000 = $0.2509 $/MWh 
+<br />
+<br />Oil - $17k to build
+<br />produces 246,590 MWh over 40 years
+<br />maint costs are $26,420 over 40 years
+<br />($26,420 + $17,000) / 246,590 = $0.1761 $/MWh 
+<br />
+<br />Summary: 
+<br />
+<br />Coal still seems like a very cheap power source... If you're going be selling your excess power, make sure you're getting at least $0.10/MWh if you want to make money doing the deal (most deals I've had are $0.10 to $0.14 for selling power to a neighbor). 
+<br />

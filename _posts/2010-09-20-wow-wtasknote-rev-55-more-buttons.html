@@ -1,0 +1,15 @@
+---
+layout: post
+title: 'WoW: wTasknote rev 55 (more buttons)'
+date: '2010-09-20T16:42:00.002-04:00'
+author: Wuphon's Reach
+tags:
+- wTaskNote
+- WoWInterface
+- '2010'
+modified_time: '2010-09-20T16:53:24.054-04:00'
+blogger_id: tag:blogger.com,1999:blog-3097974.post-7825976550619361813
+blogger_orig_url: http://wuphonsreach.blogspot.com/2010/09/wow-wtasknote-rev-55-more-buttons.html
+---
+
+Here's what things look like as of rev #55 in the source code tree:<br /><br />svn://svn.wowace.com/wow/wtasknote/mainline/trunk<br /><br /><a href="http://www.wuphonsreach.org/Games/WoW/wTaskNote/wTaskNote-rev-55.jpg"><img src="http://www.wuphonsreach.org/Games/WoW/wTaskNote/thumb640/wTaskNote-rev-55.jpg" width="640" height="416"></a><br /><br />Not happy with the title, but it will do for now.  I'll have to get some folks to word-smith that.<br /><br />This revision was mostly about moving the (3) buttons in the lower left to match up with the artwork.  Yes, the "Delete..." button is wider then the others, no I don't care at the moment.  (grin)<br /><br />The basic design at this point is that you create a master frame (f), then create a smaller invisible panel (f_lowerleft) that stretches across the button area in the lower left.  While not required, it does make it easier to layout the buttons and shows how you would prep for a re-sizable frame.  This frame is only 307x26 and gets attached (anchored) to the bottom-left corner of the master frame (f).  Button #1 gets anchored to the left edge of the sub-frame, button #3 gets anchored to the right edge of the sub-frame.  Button #2 then gets anchored to the left/right edges of #1 and #3 at which point it automatically sizes itself to fill the gap between #1 and #3.  That's why we do "b_new:SetWidth(1)" in the code, because the width doesn't matter if you use a pair of SetPoint() calls.<br /><br />If that doesn't make sense... test out what happens if you screw up the SetPoint() lines for the b_new button.  At one point, I screwed up the right-side SetPoint() and had the "New..." button stretch across the entire screen until it hit the right edge.  That's because I anchored to UIParent by accident due to a typo.  Another attempt and "New..." stretched all the way to the right edge of the control frame and overlapped the "Copy" button.  In that case, I had my left/right mixed up and was anchoring to the right end of "Copy" instead of the left end.<br /><br />I've been reading up on scroll frames - and it almost makes sense.<br /><br />Goals for this week:<ul><li>Make the frame draggable<br /><li>Save the frame position<br /><li>Layout the right-side portion of the note frame</ul>

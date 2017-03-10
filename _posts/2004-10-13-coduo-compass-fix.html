@@ -1,0 +1,14 @@
+---
+layout: post
+title: CoD:UO Compass Fix
+date: '2004-10-13T10:52:00.000-04:00'
+author: Wuphon's Reach
+tags:
+- '2004'
+- CallOfDuty
+modified_time: '2010-08-04T14:54:42.750-04:00'
+blogger_id: tag:blogger.com,1999:blog-3097974.post-113975957054189137
+blogger_orig_url: http://wuphonsreach.blogspot.com/2004/10/coduo-compass-fix.shtml
+---
+
+Okay, taking some stabs at a fix. Looking at the basic structure of every gametype GSC file (e.g. "maps\mp\gametypes\bas.gsc", "maps\mp\gametypes\dm.gsc", etc).<br /><br />A) main() function always has the following (3) lines, identical for all game types:<br />CODE<br />if(!isDefined(game["compass_range"]))  // set up the compass range.<br />   game["compass_range"] = 1024;  <br />setCvar("cg_hudcompassMaxRange", game["compass_range"]);<br /><br />B) SpawnPlayer() function only contains the following (2) lines on the BAS/CTF/DOM gametype GSC files.<br />CODE<br />// make sure that the client compass is at the correct zoom specified by the level<br />self setClientCvar("cg_hudcompassMaxRange", game["compass_range"]);<br /><br />C) All of the maps in UO also have GSC files (e.g. "maps\mp\mp_arnhem.gsc", "maps\mp\mp_foy.gsc"). In them, the main() function always has the following line, unless it's supposed to use the default 1024 units for the compass.<br />CODE<br />game["compass_range"] = 2816;    //How far the compass is zoomed in<br /><br /><br />The bug seems to be comprised of two parts:<br /><br />1) mp_cassino, mp_ponyri, mp_sicily and mp_uo_stanjel do not set a compass_range. Looking at the following map sizes:<br /><br />Arnhem 6100x3800 (compass_range = 2816)<br />Berlin 8550x5550 (compass_range = 2816)<br />Cassino 7550x3850 (compass_range = NONE SET)<br />Foy 11250x18550 (compass_range = 6124)<br />Italy 14900x20100 (compass_range = 13000)<br />Kharkov 11050x17700 (compass_range = 6124)<br />Kursk 15650x20500 (compass_range = 13000)<br />Ponyri 14300x16000 (compass_range = NONE SET)<br />RhineValley 16550x21000 (compass_range = 12500)<br />Sicily 8850x7100 (compass_range = NONE SET)<br />Stanjel(UO) 5550x5500 (compass_range = NONE SET)<br /><br />Brecourt - 8100x5900<br />Bocage - 8600x13200<br />Dawnville - 10500x6800<br /><br />Ponyri should probably use a range of 12500, Sicily at 4096, Cassino and Stanjel at 2816. Simply adding the missing line (shown in part C above) will fix the issue for those (4) maps.<br /><br />2) The old-style game types are missing the line shown in part B in their SpawnPlayer() function. Simply adding that missing line that sets the client-side cvar when the player spawns should fix the issue.

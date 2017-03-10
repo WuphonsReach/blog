@@ -1,0 +1,15 @@
+---
+layout: post
+title: 'FONV: Changing the take-all or confirm buttons in the UI'
+date: '2010-11-11T21:39:00.003-05:00'
+author: Wuphon's Reach
+tags:
+- Fallout3
+- '2010'
+- FalloutNV
+modified_time: '2010-11-11T21:53:21.195-05:00'
+blogger_id: tag:blogger.com,1999:blog-3097974.post-7964707992353654964
+blogger_orig_url: http://wuphonsreach.blogspot.com/2010/11/fonv-changing-take-all-or-confirm.html
+---
+
+An annoying feature in Fallout 3 (and Fallout New Vegas) is that "take all" from a container is mapped to the same key as the "ok" button on the select quantity screen.  By default, both are assigned to the letter "A" on the PC.  This means you end doing things like:<br /><br />1. Left-click an item from a container.<br />2. If there are 6 or more and the item has weight, you get prompted how many you want to take.<br />3. Press [A] to confirm the quantity.<br />4. Select another item that has 5 or less, left-click it.<br />5. Goof and hit the [A] key because you forget and you end up taking everything out of the container.<br /><br /><a href="http://www.wuphonsreach.org/Games/FalloutNewVegas/DarnUIChangeQuantityMenu/DarnUI-1600x900-QuantityConfirmationKeyOfA.jpg"><img src="http://www.wuphonsreach.org/Games/FalloutNewVegas/DarnUIChangeQuantityMenu/thumb640/DarnUI-1600x900-QuantityConfirmationKeyOfA.jpg" width="640" height="360" alt="Fallout New Vegas - DarNified UI v04 - Default take-all key of A and quantity confirmation key of A"></a><br /><br />To fix this, you have to edit the menu XML files.  Personally, I use DarN's UI, but otherwise you will need to download FOMM and extract the following file from the BSA archives.  It should be placed in your Fallout New Vegas "Data" folder under a "menus" sub-folder.<br /><br />quantity_menu.xml<br /><br />First, look for the following line:<br /><br />&lt;_PCButton_A&gt; QM_OKButton &lt;/_PCButton_A&gt;<br /><br />You will change that to <br /><br />&lt;_PCButton_F&gt; QM_OKButton &lt;/_PCButton_F&gt;<br /><br />In addition, you also need to change the following line:<br /><br />&lt;_PCButtonText&gt; &-sPCMenuHintA; &lt;/_PCButtonText&gt; <br /><br />Changing it to:<br /><br />&lt;_PCButtonText&gt; &-sPCMenuHintF; &lt;/_PCButtonText&gt; <br /><br />Now it should work so that you use [F] to confirm quantities rather then [A].<br /><br /><a href="http://www.wuphonsreach.org/Games/FalloutNewVegas/DarnUIChangeQuantityMenu/DarnUI-1600x900-ChangeQuantityConfirmationKeyToF.jpg"><img src="http://www.wuphonsreach.org/Games/FalloutNewVegas/DarnUIChangeQuantityMenu/thumb640/DarnUI-1600x900-ChangeQuantityConfirmationKeyToF.jpg" width="640" height="360" alt="Fallout New Vegas - DarNified UI v04 - Change quantity confirmation key to F"></a>

@@ -1,0 +1,15 @@
+---
+layout: post
+title: 'WoW: wTaskNote status'
+date: '2010-09-15T14:35:00.004-04:00'
+author: Wuphon's Reach
+tags:
+- wTaskNote
+- WoWInterface
+- '2010'
+modified_time: '2010-09-16T17:23:06.029-04:00'
+blogger_id: tag:blogger.com,1999:blog-3097974.post-5330065978430475163
+blogger_orig_url: http://wuphonsreach.blogspot.com/2010/09/wow-wtasknote-status.html
+---
+
+Been doing some more <a href="http://www.wowace.com/addons/wtasknote/files/">hacking on wTaskNote</a> this week.  At this point I have code that:<br /><br />- creates the addon<br />- sticks a button on the minimap<br />- sets some defaults and has a basic config box<br />- initializes our data tables with some dummy data if the user has nothing yet<br />- walks the table structure and spits out the contents<br />- displays a window that does nothing except appear/vanish when told to<br /><br />Which sounds like <a href="http://www.wowace.com/addons/wtasknote/files/39-r41/">a whole lot of nothing</a>, but it lays groundwork for future functionality.  Especially nailing down things like what the data is going to look like, how it gets stored, and doing it in a way that I can leverage Lua functions instead of reinventing the wheel.<br /><br />Next steps:<br /><br />- write the sorting functions (or rather, the compare function needed in order to tell Lua how to sort)<br />- verify that we can sort the data in the arrays without it getting jumbled<br />- test sorting by category name<br />- test sorting by note subject within each category<br />- start putting buttons onto a barren frame<br />- figure out how to construct and display the 2-level tree view<br />- figure out how to populate the edit side of the frame and save data after edit<br />- figure out how to insert new notes<br />- figure out how to delete notes<br />- test what happens if I have no notes, or no categories<br />- figure out how to delete categories<br /><br />Then I get to fix things when Cataclysm ships later this year.  I don't think much, if anything, will break in my addon.  But the underlying Ace3 libraries might need to be updated.<br /><br /><b>Update - revision 49</b><br /><br />Here's what things look like as of rev #49 in the source code tree:<br /><br />svn://svn.wowace.com/wow/wtasknote/mainline/trunk<br /><br /><a href="http://www.wuphonsreach.org/Games/WoW/wTaskNote/wTaskNote-rev-49.jpg"><img src="http://www.wuphonsreach.org/Games/WoW/wTaskNote/thumb640/wTaskNote-rev-49.jpg" width="640" height="419"></a><br /><br />Simple, elegant, now I need to figure out how to fix the flaw with the icon in the upper left and how to lay in the controls.  But it's a start.

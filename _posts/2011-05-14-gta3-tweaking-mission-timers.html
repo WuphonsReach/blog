@@ -1,0 +1,14 @@
+---
+layout: post
+title: 'GTA3: Tweaking the mission timers'
+date: '2011-05-14T20:21:00.005-04:00'
+author: Wuphon's Reach
+tags:
+- GTA3
+- '2011'
+modified_time: '2011-05-15T12:10:34.741-04:00'
+blogger_id: tag:blogger.com,1999:blog-3097974.post-3377860602536161613
+blogger_orig_url: http://wuphonsreach.blogspot.com/2011/05/gta3-tweaking-mission-timers.html
+---
+
+Feh, I'm old and slow and pissed off.  If you can't stand the "spend 20 minutes, fail" style of GTA3 (who has time unless they're a kid?), then you'll have to use <a href="http://sannybuilder.com/downloads/">Sanny Builder</a> and make some tweaks to the scripts.<br /><br />0) Make a backup of your "main.scm" file<br />1) Install Sanny Builder 3<br />2) Run it<br />3) Left-click on the lower-right corner of the main Sanny window and change the game<br />4) Decompile the SCM<br />5) Tweak it<br />6) Recompile and test<br /><br />Some key strings to search for in the GTA3 SCM decompile:<br /><br />:DIABLO4_1367 - This is the "Big n' Veiny" mission.  By default, every time you pickup a new magazine you gain 1300ms (1.3 sec).  So by changing this value to 1500 or 2000, you will make the mission a lot easier.<br /><br />$KENJI2_TIMER - The 2nd "Kenji" mission in Staunton (Grand Theft Auto) where you have to steal three cars in six minutes.  Changing this from 361000 (361 sec) to 481000 gives you an extra 2 minutes.  The mission is barely doable in six minutes, I came close the first time but after that I was always short.<br /><br />$2626 - Asuka's 4th mission "Payday For Ray", the default timer is "$2626 = 211000", way too short.  About 50% longer would be 301000 (5 minutes) and is actually a bit too long with almost a minute to spare.<br /><br />$ASUSB2_TIMER = 470000 - Asuka's 2nd set of missions, "Espresso-2-Go".  The default timer is 7m50s.  To increase this to 9m50s, you'd change this line to 590000.<br /><br />$4302 = 421000 - Final mission (Catalina's), default timer is 7 minutes.

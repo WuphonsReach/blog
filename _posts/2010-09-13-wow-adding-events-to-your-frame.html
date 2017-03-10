@@ -1,0 +1,14 @@
+---
+layout: post
+title: 'WoW: Adding events to your frame'
+date: '2010-09-13T10:15:00.002-04:00'
+author: Wuphon's Reach
+tags:
+- WoWInterface
+- '2010'
+modified_time: '2010-09-13T10:26:44.868-04:00'
+blogger_id: tag:blogger.com,1999:blog-3097974.post-5113836667065368572
+blogger_orig_url: http://wuphonsreach.blogspot.com/2010/09/wow-adding-events-to-your-frame.html
+---
+
+Here is an extremely basic concept, that is worth demoing.  Let's assume that you have an Addon created to the point where you can show/hide your frame with a minimap button or slash command in the chat window.  Now you want to tie into some <a href="http://www.wowwiki.com/Widget_handlers">event handlers for your frame widget</a>.<br /><br />First, you will need to create (2) functions in your Lua file:<br /><pre>function MyFrame_OnShow(self)<br />    PlaySound("igQuestLogOpen");<br />end<br /><br />function MyFrame_OnHide(self)<br />    PlaySound("igQuestLogClose");<br />end</pre>The actual function names don't matter much here.  You could have gone with "MyFrame.OnShow(self)", "MyFrame_DoOnShowStuff(self)", or a number of other versions.  As long as you match up with the right function name in the next section, you'll be fine.  <br /><br />The other half of this is calling the "SetScript()" function in the Lua code where you are creating your frame.  Most Addons have a function that does nothing but create the frame and populate it with controls and artwork.  So, sometime after calling "CreateFrame()" and before you call "Show()", you'll want to insert the following two lines to call your event handling functions:<br /><pre>f:SetScript("OnShow",MyFrame_OnShow)<br />f:SetScript("OnHide",MyFrame_OnHide)</pre>Your frame will now make pretty quest log noises when it appears and disappears from the user's view.  Make sure you pick something soothing and easy to listen to or it will get annoying very quickly.

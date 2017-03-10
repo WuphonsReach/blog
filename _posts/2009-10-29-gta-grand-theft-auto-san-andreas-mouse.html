@@ -1,0 +1,14 @@
+---
+layout: post
+title: 'GTA: Grand Theft Auto San Andreas - Mouse does not always work correctly'
+date: '2009-10-29T01:10:00.003-04:00'
+author: Wuphon's Reach
+tags:
+- '2009'
+- GTA3
+modified_time: '2009-11-02T08:19:54.673-05:00'
+blogger_id: tag:blogger.com,1999:blog-3097974.post-7815824985637239113
+blogger_orig_url: http://wuphonsreach.blogspot.com/2009/10/gta-grand-theft-auto-san-andreas-mouse.shtml
+---
+
+This drove me up the wall for a while tonight.  I recently dug up my copy of Grand Theft Auto: San Andreas (Second Edition) and installed it.  The problem is that in the menus, the left mouse button (LMB) could not be used to click on the menu options.  In addition, when C.J. is out walking around, you cannot use the mouse to look around.<br /><br />(Actually, you can't use the mouse to look around at all, even when driving a vehicle or bike.  It's just that when you're on foot, with options set to "mouse + keyboard", the camera no longer automatically swings around to face the same way as C.J. is.)<br /><br />The issue seems to be multifaceted:<br /><br />1) It occurs most often in Windows XP on systems with multiple CPUs or multiple cores (such as the AMD X2 / X3 / X4 / Phenom or the Intel dual-core or quad-core offerings).  If, after launching the game, you go into Task Manager and manually set the process affinity to force it to run on only one of the cores, the mouse generally works.  If you can find a copy of WinLauncherXP, you can use this to launch GTA:SA and it will set the affinity for you.  (You just have to create a new program entry and turn off all of the other CPUs except for CPU #1.)<br /><br />2) USB mice seem to be more prone to the problem.  I have a Microsoft Intellimouse Explorer 3.0 Optical USB mouse, hooked up to the USB port.  Rumor has it that if I switched to the USB to PS/2 adapter, it might work better.  But setting task affinity worked for me.<br /><br />Even with the above fixes, often you'll have to hit [Esc] to go to the menu, then [Esc] again to get back into the game.  At which point the mouse will often start working again.  If it doesn't work the first time, try try again.  Hit [Esc] twice, then wiggle the mouse to see if it worked.  Rinse and repeat as needed.  The most it's ever taken me is about a dozen tries to get the mouse to work, but usually it only takes a handful of attempts.<br /><br />(I tried a bunch of searches tonight.  Things like "mouse problem", "mouse not working", "can't look around".  Took a long time to stumble onto the posts that mentioned issues with multiple CPUs.)

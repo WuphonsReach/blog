@@ -1,0 +1,14 @@
+---
+layout: post
+title: 'KSP: 0.90 Remote Tech early strategies'
+date: '2015-03-17T16:21:00.002-04:00'
+author: Wuphon's Reach
+tags:
+- '2015'
+- KerbalSpaceProgram
+modified_time: '2015-03-17T16:21:45.903-04:00'
+blogger_id: tag:blogger.com,1999:blog-3097974.post-2873422809230264678
+blogger_orig_url: http://wuphonsreach.blogspot.com/2015/03/ksp-090-remote-tech-early-strategies.html
+---
+
+Bootstrapping your initial network around Kerbin with RT (Remote Tech) can be tricky until you get a few satellites up and are assured of constant ground communications.<br /><br /><b>Method #1 - Single KEO satellite</b><br /><br />You will need a vessel capable of reaching KEO and then  circularizing before being out of view of the KSC.&nbsp; That means designing  with a goal of about 6000 dV.&nbsp; Note that this can be a very difficult launch to do with a 30 part count limit.<br /><br />Each satellite should have:<br /><br />(1) DP-10<br />(1) Comm-16<br />(2) DTS-M1<br /><br />Power draw = 0.01 + 0.13 + (2x 0.82) = 1.78<br />Battery capacity of at least 2200 (~3000 is better)<br /><br />Solar power required = at least three OX-STAT panels pointed at the star at all times, plan on 12 OX-STAT  panels laid out in a way that 3 of them always point towards Kerbol.<br /><br />For the DTS-M1 assignments:<br />#1 - Points at Mission Control<br />#2 - Points at "Active Vessel"<br /><br /><br />Launch steps:<br />a) Launch and go straight up to 75km<br />b) Deploy and activate the DTS-M1 that points to Mission Control<br />c) Tip over to about 10-20 degrees until 2000km altitude<br />d) Circularize at 2869.75km with an orbital period of 6h00m00s<br /><br />If you do it properly, you should end up with a satellite that remains stationary over KSC without being too far ahead/behind.&nbsp; Now you have something that the rest of the vessels can point a DTS-M1 antenna at to maintain KSC connection while they are within view of your KEO sat.<br /><br /><b>Method #2 - Multiple LKO satellites</b><br /><br />Another option is to put up (4) satellites with Comm-16 antennas at 776km orbits.&nbsp; These do not need DTS-M1 antennas, so they have lower power needs.&nbsp; Six OX-STAT solar panels are enough along with 110 battery capacity.<br /><br />The downside of this method is that with (4) satellites to space out at roughly 90 degree increments, it can be difficult to get setup and satellites drift over time.&nbsp; But the satellites are really inexpensive and have low part counts until you unlock something better then the OX-STAT solar panels.<br /><br />

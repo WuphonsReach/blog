@@ -1,0 +1,14 @@
+---
+layout: post
+title: 'Baldur''s Gate: Black box bug on NVIDIA cards'
+date: '2009-12-26T12:27:00.002-05:00'
+author: Wuphon's Reach
+tags:
+- '2009'
+- BaldursGate
+modified_time: '2009-12-26T12:36:09.649-05:00'
+blogger_id: tag:blogger.com,1999:blog-3097974.post-1495666081908428731
+blogger_orig_url: http://wuphonsreach.blogspot.com/2009/12/baldurs-gate-black-box-bug-on-nvidia.shtml
+---
+
+So I got the Baldur's Gate 4-in-1 boxset recently and installed it on my Windows XP box.  Everything works fine (unlike some other older games), except that the sprite overlay animations (butterflies, birds flying overhead) would display as black boxes.  This is due to a bug in the NVIDIA display drivers that has never been fixed.  I'm using a GeForce 8800 GT 512MB pair of cards in SLI mode.<br /><br /><img src="http://www.wuphonsreach.org/Games/BaldursGate/BaldursGate-BlackBoxBugOnNVIDIACards-1.jpg" width="640" height="480" /><br /><br /><img src="http://www.wuphonsreach.org/Games/BaldursGate/BaldursGate-BlackBoxBugOnNVIDIACards-2.jpg" width="640" height="480" /><br /><br />One solution to this is to use the <a href="http://github.com/jlanger/nvidia_ddraw_fix/downloads">NVIDIA DDraw Fix by JLanger (nvidia_ddraw_fix_1.0.3.zip)</a>.  You place the DLL and EXE file in your Baldur's Gate directory, then patch the BGMain2.exe file.  The downside of this fix is that it will prevent you from using other patching type modifications of the original game executable (such as trying to use the widescreen mod via WeiDU).<br /><br />Note: Baldur's Gate 2 uses OpenGL for rendering and not DirectDraw, so it will not encounter this problem.

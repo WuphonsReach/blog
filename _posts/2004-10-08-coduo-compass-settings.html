@@ -1,0 +1,14 @@
+---
+layout: post
+title: CoD:UO Compass Settings
+date: '2004-10-08T10:51:00.000-04:00'
+author: Wuphon's Reach
+tags:
+- '2004'
+- CallOfDuty
+modified_time: '2010-08-04T14:54:42.755-04:00'
+blogger_id: tag:blogger.com,1999:blog-3097974.post-113975951988263904
+blogger_orig_url: http://wuphonsreach.blogspot.com/2004/10/coduo-compass-settings.shtml
+---
+
+The default range for all maps in UO is still 1024 units (I think that's the same as old CoD). Tried changing the cvar (cg_hudCompassMaxRange) for the compass when connected to a UO server, but it is flagged as read-only.<br /><br />Only a few maps use a different value in UO. Look in the GSC files for those two maps for:<br /><br />game["compass_range"] = 13000;<br /><br />Here's the maps that I've found that override whatever the default is:<br /><br />mp_arnhem - 2816<br />mp_berlin - 2816<br />mp_foy - 6124<br />mp_italy - 13000<br />mp_kharkov - 6124<br />mp_kursk - 13000<br />mp_rhinevalley - 12500<br /><br />Notice that Ponyri does not have a default value! Which means that Ponyri is using a compass range of 1024 units, even for BAS/CTF/DOM.<br /><br />Anyone know what would have to be done server-side to override or add new values to the game's GSC files? Or is it better to do a server-side mod that puts an upper limit on the compass size?<br /><br />Or maybe someone knows where to change the default compass size setting?<br /><br />So the current rules for compass range are:<br /><br />1. defaults to 1024<br />2. Unless the map is one of the above<br />3. Gets reset to 1024 if the game type is BEL, DM, HQ, RE, SD, or TDM<br /><br />That means on a map like Italy, all of the new types (BAS, CTF, DOM) will use a compass range of 13000 units, while any of the old game types end up with a compass range of 1024 units.

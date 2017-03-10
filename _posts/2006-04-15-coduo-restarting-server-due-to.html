@@ -1,0 +1,12 @@
+---
+layout: post
+title: CoD:UO - Restarting server due to numSnapshotEntities wrapping
+date: '2006-04-15T14:36:00.000-04:00'
+author: Wuphon's Reach
+tags: 
+modified_time: '2010-07-19T10:16:12.692-04:00'
+blogger_id: tag:blogger.com,1999:blog-3097974.post-2122634156829170056
+blogger_orig_url: http://wuphonsreach.blogspot.com/2006/04/coduo-restarting-server-due-to.html
+---
+
+Here's the error message that occurs when you run a server 24/7 without rotating to a different map.  The only way to avoid this error is to either:<br /><br />1) Rotate to a different map every few hours<br /><br />2) Restart your server daily and hope that you don't hit the error before the next restart<br /><br /><a href="http://svn.icculus.org/quake3/trunk/code/server/sv_main.c?rev=2&view=markup">http://svn.icculus.org/quake3/trunk/code/s...v=2&view=markup</a><br /><br />CODE:<br /><br />// this can happen considerably earlier when lots of clients play and the map doesn't change<br />if ( svs.nextSnapshotEntities >= 0x7FFFFFFE - svs.numSnapshotEntities ) {<br />SV_Shutdown( "Restarting server due to numSnapshotEntities wrapping" );<br />Cbuf_AddText( "vstr nextmap\n" );<br />return;<br />}<br /><br />Since this happens about every 30-48 hours on our test server, it might be good to restart the server daily.<br /><br />An alternate solution is to create an "intermission" map that only stays loaded for 5 minutes after every 10-15 rounds.

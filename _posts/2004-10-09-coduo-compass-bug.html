@@ -1,0 +1,14 @@
+---
+layout: post
+title: CoD:UO Compass Bug
+date: '2004-10-09T10:09:00.000-04:00'
+author: Wuphon's Reach
+tags:
+- '2004'
+- CallOfDuty
+modified_time: '2010-08-04T14:54:42.753-04:00'
+blogger_id: tag:blogger.com,1999:blog-3097974.post-109776317526886702
+blogger_orig_url: http://wuphonsreach.blogspot.com/2004/10/coduo-compass-bug.shtml
+---
+
+One of the more annoying bugs in Call of Duty: United Offensive is with the range scale on the compass that shows where you are in relation to teammates or objectives.  On some maps, it's set to a pretty high value (13000) which lets you see where things are pretty far away (otherwise they cluster at the edge of the compass).  Older maps which are much smaller use a tiny value like 1024 so that you can see individual markers for people in the same room.<br /><br />Well, I spent most of the past week trying to learn how to fix the bug in the game's script files.  I think I know what's going on, but I'll have to muck with it next week to see if I can implement a fix.  Looks like it's simply error of omission, where they forgot to set range values on certain maps and some of the gametypes don't properly initialize the player's compass on the client side.
