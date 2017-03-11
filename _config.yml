@@ -131,6 +131,7 @@ exclude:
   - Gruntfile.js
   - gulpfile.js
   - LICENSE
+  - linkchecker-out.html
   - log
   - node_modules
   - package.json
