@@ -50,44 +50,43 @@ $type-size-8                : 0.625em !default;  // ~10px
 $gray                       : #7a8288 !default;
 $dark-gray                  : mix(#000, $gray, 40%) !default;
 $darker-gray                : mix(#000, $gray, 60%) !default;
-$medium-gray                : mix(#fff, $gray, 20%) !default;
 $light-gray                 : mix(#fff, $gray, 50%) !default;
 $lighter-gray               : mix(#fff, $gray, 90%) !default;
 
-$body-color                 : #000 !default;
-$background-color           : #062f4f !default;
-$code-background-color      : mix(#000, $background-color, 30%) !default;
+$body-color                 : #fff !default;
+$background-color           : #fff !default;
+$code-background-color      : #fafafa !default;
 $code-background-color-dark : $light-gray !default;
-$text-color                 : $light-gray !default;
-$border-color               : $dark-gray !default;
+$text-color                 : $dark-gray !default;
+$border-color               : $lighter-gray !default;
 
 $primary-color              : #7a8288 !default;
 $success-color              : #62c462 !default;
 $warning-color              : #f89406 !default;
 $danger-color               : #ee5f5b !default;
-$info-color                 : #aaf !default;
+$info-color                 : #52adc8 !default;
 
 /* brands */
-$behance-color              : $medium-gray !default;
-$dribbble-color             : $medium-gray !default;
-$facebook-color             : $medium-gray !default;
-$flickr-color               : $medium-gray !default;
-$foursquare-color           : $medium-gray !default;
-$github-color               : $medium-gray !default;
-$google-plus-color          : $medium-gray !default;
-$instagram-color            : $medium-gray !default;
-$lastfm-color               : $medium-gray !default;
-$linkedin-color             : $medium-gray !default;
-$pinterest-color            : $medium-gray !default;
-$rss-color                  : $medium-gray !default;
-$soundcloud-color           : $medium-gray !default;
-$stackoverflow-color        : $medium-gray !default;
-$tumblr-color               : $medium-gray !default;
-$twitter-color              : $medium-gray !default;
-$vimeo-color                : $medium-gray !default;
-$vine-color                 : $medium-gray !default;
-$youtube-color              : $medium-gray !default;
-$xing-color                 : $medium-gray !default;
+$behance-color              : #1769FF !default;
+$dribbble-color             : #ea4c89 !default;
+$facebook-color             : #3b5998 !default;
+$flickr-color               : #ff0084 !default;
+$foursquare-color           : #0072b1 !default;
+$github-color               : #171516 !default;
+$google-plus-color          : #dd4b39 !default;
+$instagram-color            : #517fa4 !default;
+$lastfm-color               : #d51007 !default;
+$linkedin-color             : #007bb6 !default;
+$pinterest-color            : #cb2027 !default;
+$rss-color                  : #fa9b39 !default;
+$soundcloud-color           : #ff3300 !default;
+$stackoverflow-color        : #fe7a15 !default;
+$tumblr-color               : #32506d !default;
+$twitter-color              : #55acee !default;
+$vimeo-color                : #1ab7ea !default;
+$vine-color                 : #00bf8f !default;
+$youtube-color              : #bb0000 !default;
+$xing-color                 : #006567 !default;
 
 
 /* links */
