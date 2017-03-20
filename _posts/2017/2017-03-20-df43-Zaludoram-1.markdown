@@ -1,0 +1,143 @@
+---
+layout: post
+title: 'DF 0.43: Zaludoram World'
+date: '2017-03-20T12:41:00.000-04:00'
+author: Wuphon's Reach
+category:
+- DwarfFortress
+tags:
+- DF0.43
+- Zaludoram
+
+gallery1ec:
+  - image_path: /imgs/df/zaludoram/evisc-chambers-defeat.png
+    alt: "DF2014: Eviscerated Chambers (Zaludoram)"
+    url: /imgs/df/zaludoram/evisc-chambers-defeat.png
+
+gallery1eb:
+  - image_path: /imgs/df/zaludoram/eviscerated-bolt-defeat.png
+    alt: "DF2014: Eviscerated Bolt (Zaludoram)"
+    url: /imgs/df/zaludoram/eviscerated-bolt-defeat.png
+
+gallery1ss:
+  - image_path: /imgs/df/zaludoram/salves-of-skinning-defeat.png
+    alt: "DF2014: Salves of Skinning (Zaludoram)"
+    url: /imgs/df/zaludoram/salves-of-skinning-defeat.png
+
+gallery1oc:
+  - image_path: /imgs/df/zaludoram/zalu-old-clasps-defeated.png
+    alt: "DF2014: Old Clasps (Zaludoram)"
+    url: /imgs/df/zaludoram/zalu-old-clasps-defeated.png
+
+gallerymap:
+  - image_path: /imgs/df/zaludoram/Zaludoram-00750-01-01-world_map.png
+    alt: "DF2014: World Map (Zaludoram)"
+    url: /imgs/df/zaludoram/Zaludoram-00750-01-01-world_map.png
+
+
+---
+
+Welcome to Zaludoram (The Future World), year 750.  This is a [medium sized custom generated world](/blog/imgs/df/zaludoram/Zaludoram-world_gen_param.txt) for Dwarf Fortress 43.05.  Minor historical figures were culled and history is hidden by default, so there will be limited details available prior to getting into the game.
+
+{% include gallery id="gallerymap" %}
+
+Current population in year 750:
+
+    2469 Dwarves
+	2770 Humans
+	555 Elves
+	64710 Goblins
+	2054 Kobolds
+
+	Total: 72558
+
+There were nine dwarven civilizations at the start of recorded history.  At least four of them have been wiped out.
+
+- The Destined Labor
+- The Eviscerated Bolt (defeated)
+- The Eviscerated Chambers (defeated)
+- The Gray Citadel
+- The Mine of Gleams
+- The Old Clasps (defeated)
+- The Salves of Skinning (defeated)
+- The Silvers of Muting
+- The Simple Smith
+
+## The Destined Labor
+
+Seems to be a healthy dwarven civilization, with a dwarven fortress named "Bodicebored" (south portion of the map).  It was settled at the dawn of time and the dwarves attempted to settle a few other sites, all of which have fallen.  The most recent interesting event was the creation of "The Mountainhome: A Quandary" by "Mestthos Sanctumwhip". 
+
+    "Bodicebored", fortress
+	Owner: The Bells of Gripping, dwarves
+	Parent Civ: The Destined Labor, dwarves
+	277 dwarves
+
+## The Eviscerated Bolt (defeated)
+
+{% include gallery id="gallery1eb" %}
+
+## The Eviscerated Chambers (defeated)
+
+{% include gallery id="gallery1ec" %}
+
+## The Gray Citadel
+
+These dwarves created "Walledtoes" and "Treasuremined" and were close neighbors to the Silvers of Muting along the northwest map edge.  Both fortresses survive to this day.
+
+    Adilnin, "Walledtoes", fortress
+	Owner: The Knowing Sling, dwarves
+	Parent Civ: The Gray Citadel, dwarves
+	193 dwarves
+
+    "Treasuremined", fortress
+	Owner: The Pulley of Flanking, dwarves
+	Parent Civ: The Gray Citadel, dwarves
+	248 dwarves
+
+## The Mine of Gleams
+
+Founded the fortress, "Ringbend", right in the center of the map, taken over in year 40 by the forgotten beast "Shethel Sewerzealot the Glumness of Fragments".  The hillock, Oilyodor, fell to a dragon named "Kima Glowwarm the Fiery Flame" in year 40.  Looking through the list, I see a hillock named "Eaglecrafts", which is apparently a very rough place to live with the night creatures and were-humans constantly fighting with the dwarves.  The other hillock is Mirrorplans, and it also has similar problems.
+
+    "Eaglecrafts", hillocks
+	Owner: The Tongs of Wringing, dwarves
+	Parent Civ: The Mine of Gleams, dwarves
+	105 dwarves
+
+    "Mirrorplans", hillocks
+	Owner: The Blameless Smith, dwarves
+	Parent Civ: The Mine of Gleams, dwarves
+	96 dwarves
+
+Ah, here we go, the fortress named "Helmsummers" still exists, but I suspect it is infested by a forgotten beast, Ana Creviceechoed the Dead Suckers, that settled in 144.  Over a hundred years later, in 257, the elf Ola Wondrouschannels settled in Helmsummers and has been writing books for almost 500 years.  Other humans have settled here.  It's very odd that the forgotten beast has not attacked the humans and elves.
+
+    Zonisram, "Helmssummers", fortress
+	46 humans
+	2 elves
+	1 forgotten beast
+	1 goblin
+
+## The Old Clasps (defeated)
+
+{% include gallery id="gallery1oc" %}
+
+## The Salves of Skinning (defeated)
+
+{% include gallery id="gallery1ss" %}
+
+## The Silvers of Muting
+
+Another civilization with not much of note.  Their current fortress is "Inchedgravel", up in the northwest part of the map.  Close neighbors to the Grey Citadel.
+
+    "Inchedgravel", fortress
+	Owner: The Dominant Trumpet, dwarves
+	Parent Civ: The Silvers of Muting, dwarves
+	256 dwarves
+
+## The Simple Smith
+
+Founded Gorgedleaves (south edge).
+
+    Eribgovos, "Gorgeleaves", fortress
+	Owner: The Rumored Roof, dwarves
+	Parent Civ: The Simple Smith, dwarves
+	266 dwarves
