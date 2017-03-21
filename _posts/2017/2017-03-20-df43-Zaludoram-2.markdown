@@ -1,0 +1,139 @@
+---
+layout: post
+title: 'DF 0.43: Zaludoram, First Embark in 750'
+date: '2017-03-20T17:55:00.000-04:00'
+author: Wuphon's Reach
+category:
+- DwarfFortress
+tags:
+- DF0.43
+- Zaludoram
+
+galleryb:
+  - image_path: /imgs/df/zaludoram/750-biome-1.png
+    url: /imgs/df/zaludoram/750-biome-1.png
+    alt: "Embark - biome"
+  - image_path: /imgs/df/zaludoram/750-biome-2.png
+    url: /imgs/df/zaludoram/750-biome-2.png
+    alt: "Embark - biome"
+  - image_path: /imgs/df/zaludoram/750-biome-3.png
+    url: /imgs/df/zaludoram/750-biome-3.png
+    alt: "Embark - biome"
+
+galleryt:
+  - image_path: /imgs/df/zaludoram/750-cliffs.png
+    url: /imgs/df/zaludoram/750-cliffs.png
+    alt: "Embark - cliffs"
+  - image_path: /imgs/df/zaludoram/750-relative-elevation.png
+    url: /imgs/df/zaludoram/750-relative-elevation.png
+    alt: "Embark - biome"
+
+gallerye1:
+  - image_path: /imgs/df/zaludoram/750-embark-position-1.png
+    url: /imgs/df/zaludoram/750-embark-position-1.png
+    alt: "Embark - wagon position"
+
+gallerye2:
+  - image_path: /imgs/df/zaludoram/750-embark-flats-to-north.png
+    url: /imgs/df/zaludoram/750-embark-flats-to-north.png
+    alt: "Embark - no sign of the stream"
+
+gallerye3:
+  - image_path: /imgs/df/zaludoram/750-nobles.png
+    url: /imgs/df/zaludoram/750-nobles.png
+    alt: "Nobles"
+
+gallerye4:
+  - image_path: /imgs/df/zaludoram/750-status.png
+    url: /imgs/df/zaludoram/750-status.png
+    alt: "Initial status"
+
+gallerye5:
+  - image_path: /imgs/df/zaludoram/750-03-entrance.png
+    url: /imgs/df/zaludoram/750-03-entrance.png
+    alt: "Initial status"
+
+---
+
+So, based on the surviving civilization list, I'm leaning towards my first embark being from "The Simple Smith".  They have eight dieties, and a moderate length of kings.  I'm looking forward to basing a temple on "Dan the Glitter of Sparkles".
+
+```
+Worship List
+Arak, deity: earth, caverns, mountains, wealth, jewels
+The Worth of Shells, deity: fortresses, happiness
+Edëm, deity: volcanos, fire, the sun
+Dan the Glitter of Sparkles, deity: beauty, art
+Otik the Confusion of Dawns, deity: the moon, the sky
+Rovol Futureyearlings the Fresh Seeds, deity: creation, sacrifice, generosity
+útost Glitterglimmer, deity: light, day
+Genlath the Spider of Terrifying, deity: torture
+
+king List
+Etur Twilightdye (b.??? d. 5, Reign Began: 1), *** Original Line, Married (d. 32)
+    3 Children -- Ages at death: 2 1 0
+    Worshipped útost Glitterglimmer (29%)
+Bim Moltenlashes (b.??? d. 72, Reign Began: 6), *** New Line, Married
+    1 Child (out-lived) -- Ages at death:
+    Worshipped The Worth of Shells (52%)
+Avuz Gemhames (b.5 d. 175, Reign Began: 72), *** New Line, Married (d. 164)
+    12 Children (out-lived 9 of them) -- Ages at death: 112 108 (d. 116) 42
+    Worshipped Edëm (95%)
+Dastot Blazesseals (b.63 d. 215, Reign Began: 175), Inherited from father, Never Married
+    No Children
+    Worshipped Arak (73%)
+Stinthäd Posttests (b.188 d. 353, Reign Began: 215), *** New Line, Married
+    2 Children (out-lived 1 of them) -- Ages at death: 49
+    Worshipped Otik the Confusion of Dawns (84%)
+Iden Wheelswhip (b.304 d. 471, Reign Began: 353), Inherited from father, Never Married
+    No Children
+    Worshipped Otik the Confusion of Dawns (79%)
+Doren Soakwheeled (b.410 d. 574, Reign Began: 471), *** New Line, Married
+    3 Children (out-lived 2 of them) -- Ages at death: 44
+    Worshipped Otik the Confusion of Dawns (81%)
+Ingish Touchedbolted (b.530 d. 683, Reign Began: 574), Inherited from father, Never Married
+    No Children
+    Worshipped Otik the Confusion of Dawns (86%)
+Zon Voicechannels (b.659, Reign Began: 683), *** New Line, Never Married
+    No Children
+    Worships Otik the Confusion of Dawns (70%)
+```
+
+## Finding an embark
+
+Looking around the map, I'm going to settle in the northwest for the first fortress, away from towers and goblins.  But I'll be within range of elves and humans.  The area is a mix of shrubland, conifer forest and mountain.  Most of the area contains an aquifer that I will have to dig around, but there is none under the mountain tiles in the lower middle area and lower right corner.  I'll have sand, clay, soil, both shallow and deep metals and flux stone.
+
+{% include gallery id="galleryb" %}
+
+The terrain here is mountainous with steep cliffs.
+
+{% include gallery id="galleryt" %}
+
+The cliffs may make the initial embark a lot of fun as supplies may get lost, or the wagon might deconstruct, or other adventures might await.  It's difficult to say until I start the embark.
+
+## Embark
+
+The initial embark position for Avuzenol (Minegrizzle) is not too bad.  There is flat area to the east/west with trees on it and I'm nestled right up against the southern mountain flank.  The ground is frozen with snow still, so harvesting of plants will have to wait for a bit.  I should be able to get everything underground rather quickly.
+
+{% include gallery id="gallerye1" %}
+
+The land falls away down a ravine to the north, leading to a flat area in the north part of the embark.
+
+Water is going to be an immediate problem as there is no sign at all of the stream, Bewitched Silence.  However, there should be aquifers underground in the north/west portions, so I can tap into those for a secure water source.
+
+{% include gallery id="gallerye2" %}
+
+Nobles have been appointed
+
+{% include gallery id="gallerye3" %}
+
+Initial status
+
+{% include gallery id="gallerye4" %}
+
+I've issued the [orders for the start of each fortress]({{ site.baseurl }}{% link _posts/2017/2017-03-18-df43-CommandsAtStartOfEachFortress.markdown %}).  Looking around at the surface, I have peat, loam and sand within easy reach as well as galena and obisidian.  The obisidian is right on the surface and probably makes up layers 130-135 or so (or more), the wagon is up at Z138.  Above the wagon on the south slope is rock salt, gypsum, and tetrahedrite (copper).  There's andesite and peat up the south slope as well.
+
+After almost two months of digging, the entrance looks like this.
+
+{% include gallery id="gallerye5" %}
+
+I'm still missing a Mason's workshop, the bridge is not yet built, and there's still a ton of stuff to be hauled in from the wagon.  It feels like the obsidian that I'm digging into is making things go slow, but that could just be my perception with miners that are still low skill.
