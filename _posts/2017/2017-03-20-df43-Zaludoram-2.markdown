@@ -58,6 +58,11 @@ gallerye6:
     url: /imgs/df/zaludoram/750-migrants.png
     alt: "Initial status"
 
+gallerye7:
+  - image_path: /imgs/df/zaludoram/750-z95-magma-pool.png
+    url: /imgs/df/zaludoram/750-z95-magma-pool.png
+    alt: "Initial status"
+
 ---
 
 So, based on the surviving civilization list, I'm leaning towards my first embark being from "The Simple Smith".  They have eight dieties, and a moderate length of kings.  I'm looking forward to basing a temple on "Dan the Glitter of Sparkles".
@@ -146,3 +151,7 @@ I'm still missing a Mason's workshop, the bridge is not yet built, and there's s
 Migrants have arrived
 
 {% include gallery id="gallerye6" %}
+
+A bit of exploratory mining found a magma pool in the first cavern.
+
+{% include gallery id="gallerye7" %}
