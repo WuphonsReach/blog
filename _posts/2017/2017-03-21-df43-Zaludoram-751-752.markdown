@@ -1,0 +1,33 @@
+---
+layout: post
+title: 'DF 0.43: Zaludoram, Migrants in 750-752'
+date: '2017-03-21T19:15:00.000-04:00'
+author: Wuphon's Reach
+category:
+- DwarfFortress
+tags:
+- DF0.43
+- Zaludoram
+
+gallerym:
+  - image_path: /imgs/df/zaludoram/750-08-migrants.png
+    url: /imgs/df/zaludoram/750-08-migrants.png
+    alt: "Migrants - 750-08"
+  - image_path: /imgs/df/zaludoram/751-02-large-migrant-wave.png
+    url: /imgs/df/zaludoram/751-02-large-migrant-wave.png
+    alt: "Migrants - 751-02"
+  - image_path: /imgs/df/zaludoram/751-05-migrants.png
+    url: /imgs/df/zaludoram/751-05-migrants.png
+    alt: "Migrants - 751-05"
+  - image_path: /imgs/df/zaludoram/751-08-migrants.png
+    url: /imgs/df/zaludoram/751-08-migrants.png
+    alt: "Migrants - 751-08"
+  - image_path: /imgs/df/zaludoram/752-01-migrants.png
+    url: /imgs/df/zaludoram/752-01-migrants.png
+    alt: "Migrants - 752-01"
+---
+
+The first five migrant waves have arrived.  Things have been quiet in the fort during these migration waves, so there's not much to report.  But as with most forts, it's best to record your migrant waves in case that trouble pops up in the next few months (such as a vampire attack).  My population cap is set at 60 right now, so the 5th migration wave was small and is likely to be the last.
+
+{% include gallery id="gallerym" %}
+
