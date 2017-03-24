@@ -31,6 +31,8 @@ Looking through the dfHack labor management screen (which looks a bit like Dwarf
 
 {% include gallery id="galleryiton" %}
 
-The description has a possible giveaway, no thoughts of food, drink or sleep since arrival in the fort almost 6 months prior.  There were no witnesses to the crime, but the presense of the body in the dormitory (no individual bedrooms in the fortress yet) means that it was quickly discovered.  Since vampires have aliases, finding him or her in the world history would be difficult to impossible.  Engraving some walls or making some statues may provide clues as the engravers are telepathic.
+The description has a possible giveaway, no thoughts of food, drink or sleep since arrival in the fort almost 6 months prior.  There were no witnesses to the crime, but the presense of the body in the dormitory (no individual bedrooms in the fortress yet) means that it was quickly discovered.  Interestingly, even though there are no witnesses in the justice screen, he was horrified after seeing Tulon die.
+
+Since vampires have aliases, finding him or her in the world history would be difficult to impossible.  Engraving some walls or making some statues may provide clues as the engravers are telepathic.
 
 For now, I'm going to start carving out a set of permanent rooms for the vampire, whomever they are.  
