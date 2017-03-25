@@ -1,0 +1,23 @@
+---
+layout: post
+title: 'DF 0.43: Zaludoram, 753'
+date: '2017-03-24T23:10:00.000-04:00'
+author: Wuphon's Reach
+category:
+- DwarfFortress
+tags:
+- DF0.43
+- Zaludoram
+
+gallery1:
+  - image_path: /imgs/df/zaludoram/753-03-werelizard-dof-sudemodda.png
+    url: /imgs/df/zaludoram/753-03-werelizard-dof-sudemodda.png
+    alt: "Werelizard"
+
+---
+
+753 and 754 were quiet years for the fortress, except for the were-lizard that showed up in early 753.  It was put down somewhat quickly, but three dwarves were infected, isolated and eventually walled away or killed.
+
+{% include gallery id="gallery1" %}
+
+The magma forges have been setup under the first cavern layer, and melting and smelting has started.  It will be a year or two before I find enough iron to outfit a squad of axe or mace dwarves.  I have lots and lots of copper, lead, silver, zinc and nickel.
