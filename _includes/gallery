@@ -22,8 +22,10 @@
           "{{ img.url | absolute_url }}"
         {% endif %}
         {% if img.title %}title="{{ img.title }}"{% endif %}
-
-        data-lightbox="{{ include.id }}" data-title="My caption"
+        data-lightbox="{{ include.id }}" 
+        {% if include.caption %}
+          data-title="{{include.caption}}"
+        {% endif %}
       >
         <img src=
           {% if img.image_path contains "://" %}
