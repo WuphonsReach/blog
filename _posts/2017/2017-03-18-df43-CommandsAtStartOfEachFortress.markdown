@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 'DF 0.43: Orders settings at start of each fortress'
 date: '2017-03-18T23:00:00.000-04:00'
 author: Wuphon's Reach

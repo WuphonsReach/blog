@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 'DF 0.43: Dakasasob 753 Attack of the weretapir'
 date: '2017-03-14T23:47:00.000-04:00'
 author: Wuphon's Reach

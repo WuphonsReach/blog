@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 'DF 0.43: Dakasasob 750 (Colored Boards) Embark'
 date: '2017-03-11T19:17:00.000-05:00'
 author: Wuphon's Reach

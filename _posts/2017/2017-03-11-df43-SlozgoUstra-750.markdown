@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 'DF 0.43: Slozgo Ustra (The Universes of Forever) year 750'
 date: '2017-03-11T18:18:00.000-05:00'
 author: Wuphon's Reach

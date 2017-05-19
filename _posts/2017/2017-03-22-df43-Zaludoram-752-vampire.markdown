@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 'DF 0.43: Zaludoram, Vampire attack in 752'
 date: '2017-03-23T06:00:00.000-04:00'
 author: Wuphon's Reach

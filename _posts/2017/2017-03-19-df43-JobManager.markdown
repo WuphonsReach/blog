@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 'DF 0.43: Using the vanilla job manager'
 date: '2017-03-19T07:00:00.000-04:00'
 author: Wuphon's Reach

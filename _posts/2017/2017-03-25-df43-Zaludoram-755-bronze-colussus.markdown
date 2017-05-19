@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 'DF 0.43: Zaludoram, 755 Bronze Colossus'
 date: '2017-03-25T17:22:00.000-04:00'
 author: Wuphon's Reach
