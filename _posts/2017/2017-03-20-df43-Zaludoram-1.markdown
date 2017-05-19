@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: 'DF 0.43: Zaludoram World'
 date: '2017-03-20T12:41:00.000-04:00'
 author: Wuphon's Reach
@@ -39,7 +39,7 @@ gallerymap:
 
 Welcome to Zaludoram (The Future World), year 750.  This is a [medium sized custom generated world](/blog/imgs/df/zaludoram/Zaludoram-world_gen_param.txt) for Dwarf Fortress 43.05.  Minor historical figures were culled and history is hidden by default, so there will be limited details available prior to getting into the game.
 
-{% include gallery id="gallerymap" %}
+XX include gallery id="gallerymap" %}
 
 Current population in year 750:
 
@@ -74,11 +74,11 @@ Seems to be a healthy dwarven civilization, with a dwarven fortress named "Bodic
 
 ## The Eviscerated Bolt (defeated)
 
-{% include gallery id="gallery1eb" %}
+XX include gallery id="gallery1eb" %}
 
 ## The Eviscerated Chambers (defeated)
 
-{% include gallery id="gallery1ec" %}
+XX include gallery id="gallery1ec" %}
 
 ## The Gray Citadel
 
@@ -118,11 +118,11 @@ Ah, here we go, the fortress named "Helmsummers" still exists, but I suspect it 
 
 ## The Old Clasps (defeated)
 
-{% include gallery id="gallery1oc" %}
+XX include gallery id="gallery1oc" %}
 
 ## The Salves of Skinning (defeated)
 
-{% include gallery id="gallery1ss" %}
+XX include gallery id="gallery1ss" %}
 
 ## The Silvers of Muting
 

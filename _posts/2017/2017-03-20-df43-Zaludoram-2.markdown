@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: 'DF 0.43: Zaludoram, First Embark in 750'
 date: '2017-03-20T17:55:00.000-04:00'
 author: Wuphon's Reach
@@ -112,11 +112,11 @@ Zon Voicechannels (b.659, Reign Began: 683), *** New Line, Never Married
 
 Looking around the map, I'm going to settle in the northwest for the first fortress, away from towers and goblins.  But I'll be within range of elves and humans.  The area is a mix of shrubland, conifer forest and mountain.  Most of the area contains an aquifer that I will have to dig around, but there is none under the mountain tiles in the lower middle area and lower right corner.  I'll have sand, clay, soil, both shallow and deep metals and flux stone.
 
-{% include gallery id="galleryb" %}
+XX include gallery id="galleryb" %}
 
 The terrain here is mountainous with steep cliffs.
 
-{% include gallery id="galleryt" %}
+XX include gallery id="galleryt" %}
 
 The cliffs may make the initial embark a lot of fun as supplies may get lost, or the wagon might deconstruct, or other adventures might await.  It's difficult to say until I start the embark.
 
@@ -124,34 +124,34 @@ The cliffs may make the initial embark a lot of fun as supplies may get lost, or
 
 The initial embark position for Avuzenol (Minegrizzle) is not too bad.  There is flat area to the east/west with trees on it and I'm nestled right up against the southern mountain flank.  The ground is frozen with snow still, so harvesting of plants will have to wait for a bit.  I should be able to get everything underground rather quickly.
 
-{% include gallery id="gallerye1" %}
+XX include gallery id="gallerye1" %}
 
 The land falls away down a ravine to the north, leading to a flat area in the north part of the embark.
 
 Water is going to be an immediate problem as there is no sign at all of the stream, Bewitched Silence.  However, there should be aquifers underground in the north/west portions, so I can tap into those for a secure water source.
 
-{% include gallery id="gallerye2" %}
+XX include gallery id="gallerye2" %}
 
 Nobles have been appointed
 
-{% include gallery id="gallerye3" %}
+XX include gallery id="gallerye3" %}
 
 Initial status
 
-{% include gallery id="gallerye4" %}
+XX include gallery id="gallerye4" %}
 
 I've issued the [orders for the start of each fortress]({{ site.baseurl }}{% link _posts/2017/2017-03-18-df43-CommandsAtStartOfEachFortress.markdown %}).  Looking around at the surface, I have peat, loam and sand within easy reach as well as galena and obisidian.  The obisidian is right on the surface and probably makes up layers 130-135 or so (or more), the wagon is up at Z138.  Above the wagon on the south slope is rock salt, gypsum, and tetrahedrite (copper).  There's andesite and peat up the south slope as well.
 
 After almost two months of digging, the entrance looks like this.  The area being dug out now is where the dodge-me trap walkways will be, while the big open area with all the animals is the "long way around" for the trade wagons to come into the fortress.
 
-{% include gallery id="gallerye5" %}
+XX include gallery id="gallerye5" %}
 
 I'm still missing a Mason's workshop, the bridge is not yet built, and there's still a ton of stuff to be hauled in from the wagon.  It feels like the obsidian that I'm digging into is making things go slow, but that could just be my perception with miners that are still low skill.
 
 Migrants have arrived
 
-{% include gallery id="gallerye6" %}
+XX include gallery id="gallerye6" %}
 
 A bit of exploratory mining found a magma pool in the first cavern.
 
-{% include gallery id="gallerye7" %}
+XX include gallery id="gallerye7" %}

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: 'DF 0.43: Zaludoram, Vampire Quarantine'
 date: '2017-03-24T16:53:00.000-04:00'
 author: Wuphon's Reach
@@ -23,12 +23,12 @@ galleryiton:
 
 The vampire has been locked away in its quarters for the rest of its unnatural days.  I used a screw pump set on "pump manually" with îton as the only dwarf with that labor enabled, which helped quarantine it.
 
-{% include gallery id="gallery1" %}
+XX include gallery id="gallery1" %}
 
 It did manage to drain one additional dwarf before I finished digging, smoothing, engraving and stocking its lair.  The rooms are hopefully ornate enough to serve any future promotions.
 
 One room doubles as a temple to Sheñe, (deity: festivals, dance, revelry, music), the diety that it worships.  In retrospect, that probably should have been a giveaway as well.  A dwarf that worships one of the human dieties (Neutral Confederation).
 
-{% include gallery id="galleryiton" %}
+XX include gallery id="galleryiton" %}
 
 îton is now the job manager and bookkeeper.

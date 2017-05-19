@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: 'DF 0.43: Slozgo Ustra (The Universes of Forever) year 750'
 date: '2017-03-11T18:18:00.000-05:00'
 author: Wuphon's Reach
@@ -17,7 +17,7 @@ gallery1:
 
 Slozgo Ustra (The Universes of Forever) is a medium world created by a custom configuration in Dwarf Fortress 0.43.05 in Linux 64bit.  I've been waiting for v0.43 to stabilize for quite a while, and DFHack for 0.43 has finally entered beta testing.
 
-{% include gallery id="gallery1" %}
+XX include gallery id="gallery1" %}
 
 # Population
 

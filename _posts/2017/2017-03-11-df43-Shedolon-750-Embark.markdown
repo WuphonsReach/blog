@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: 'DF 0.43: Dakasasob 750 (Colored Boards) Embark'
 date: '2017-03-11T19:17:00.000-05:00'
 author: Wuphon's Reach
@@ -28,11 +28,11 @@ gallery3:
 
 I've embarked.  It's been about two years since I've played DF, so I'm really rusty.
 
-{% include gallery id="gallery1" %}
+XX include gallery id="gallery1" %}
 
 I'm a bit daunted by everything that I need to do in order to build a functional fort.
 
-{% include gallery id="gallery2" %}
+XX include gallery id="gallery2" %}
 
 The embark area is pretty quiet. North half is flat, with a stream or brook, while the south half is more hilly. The wagon is right up against the edge the southern hills. That should make it easy to get everything buttoned up quickly.
 
@@ -52,7 +52,7 @@ Since I'm starting rusty, I'll change my data/init/d_init.txt file to have the f
 
 The goal there is that I won't end up with a 100 dwarf fort before I'm ready for it. Or a bunch of babies, or children in quantities that outnumber the adults.
 
-{% include gallery id="gallery3" %}
+XX include gallery id="gallery3" %}
 
 After a bit of digging and the first migrant wave, the entrance area is starting to come together. It's very insecure at the moment, but the egg layers are locked away with nest boxes and the pigs are in the upper left. The draft animals that hauled the wagon have been butchered.
 
