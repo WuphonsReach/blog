@@ -18,6 +18,6 @@ gallery1:
 
 753 and 754 were quiet years for the fortress, except for the were-lizard that showed up in early 753.  It was put down somewhat quickly, but three dwarves were infected, isolated and eventually walled away or killed.
 
-XX include gallery id="gallery1" %}
+{% include gallery id="gallery1" %}
 
 The magma forges have been setup under the first cavern layer, and melting and smelting has started.  It will be a year or two before I find enough iron to outfit a squad of axe or mace dwarves.  I have lots and lots of copper, lead, silver, zinc and nickel.

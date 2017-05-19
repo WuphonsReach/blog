@@ -91,7 +91,7 @@ The interesting thing is that the spouse of one of the victims knew their spouse
 
 After that, I was attacked by a human weretapir named "Pibang Bugijoñu".
 
-XX include gallery id="gallery1" %}
+{% include gallery id="gallery1" %}
 
 Four dwarves were involved in the fight:
 
@@ -102,10 +102,10 @@ Four dwarves were involved in the fight:
 
 Medtob died nearly instantly (well, after the puppy), then the weretapir spent a long time attempting to beat the stonecrafter to death.  With a sock.
 
-XX include gallery id="gallery2" %}
+{% include gallery id="gallery2" %}
 
 The leatherworker had severe injuries and is still being treated.  Given the low skill level of the medical care around the fort, the prognosis is poor.
 
-XX include gallery id="gallery3" %}
+{% include gallery id="gallery3" %}
 
 The stonecrafter, on the other hand, is already out of the hospital after being bandaged.  But the 'z'-'h' health screen shows that some of the neck wounds are infected.

@@ -36,25 +36,25 @@ One downside of using the job manager is that there is no way to tell the condit
 
 ## Creating skull totems
 
-XX include gallery id="gallery1" %}
+{% include gallery id="gallery1" %}
 
 The Craftdwarf's Workshop should be pulling from a refuse pile where the skulls are stored.  This will only create totems if you have at least 20 skulls laying around the fortress (the check does not verify that the needed quantity is in the input stockpile).
 
 ## Keep a stock of at least 20 rock doors
 
-XX include gallery id="gallery2" %}
+{% include gallery id="gallery2" %}
 
 These same settings could be used to produce flood gates, thrones, tables, coffins, slabs, statues, armor stands, weapon racks, coffers, and cabinets.
 
 ## Lavish meals
 
-XX include gallery id="gallery3" %}
+{% include gallery id="gallery3" %}
 
 I usually have two kitchens setup with a workshop profile order like this.  One only kicks in when the number of raw materials is above 500 and pulls from anywhere in the fortress.  The other turns on when there is 100+ raw materials as shown above, but that kitchen has limited input stockpiles.
 
 ## Cloth socks
 
-XX include gallery id="gallery4" %}
+{% include gallery id="gallery4" %}
 
 This recipe can also be used for cloaks and hoods.
 
