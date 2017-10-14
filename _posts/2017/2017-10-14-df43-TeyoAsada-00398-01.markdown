@@ -1,0 +1,33 @@
+---
+layout: post
+title: 'DF 0.43: Teyo Asada (398)'
+date: '2017-10-14T14:06:00.000-04:00'
+author: Wuphon's Reach
+category:
+- DwarfFortress
+tags:
+- DF0.43
+- Teyo Asada
+
+---
+
+## Spring 398
+
+The animals are starting to get a little out of hand, but I'm not ready to start wholesale slaughter (or setup dfHack's autobutcher yet).
+
+I made a mistake in an earlier post about which Ilral gave birth.  The Ilral that gave birth was not the one with a lover, but is the Ilral married to Tun Uznil.  With three dwarves that have Ilral as a first name, confusion is likely to continue.
+
+Roofing of the "sun-well" continues.  As the bar stockpile near the construction site fills up, I designate 25-50 tiles worth of constructed floor to be placed.  Repeat in small chunks until the distance to the gniess blocks dramatically increases.
+
+The fortress was able to afford the purchase of cloth, silk, yarn and leather from the humana and dwarven caravans.  So production of leather shoes, leather trousers, and hoods, cloaks, tunics and dresses from silk/cloth/yarn has started. 
+
+Discovered the first cavern down on Z105.  Still searching for the next two and magma.  Found a magma pool shaft way down at Z55, but the level of the magma is at least 40 z-levels further down.  So not much of a help.
+
+## Fall 398
+
+Dwarven caravan has arrived, still no news about the two sites that were founded.
+
+Still searching for the actual magma pool.  I'm going to take another peek into the pool at Z15 by carving a fortification into the wall.  That's as low as I can see from my previous peek.  Ah, the magma surface is way down at Z1, with the magma sea a few more levels down (Z-11).  So my magma forges will be way down at Z2, with the surface at Z145.
+
+(FPS has dropped down to about 85 now that all the caverns and magma pool is revealed.)
+

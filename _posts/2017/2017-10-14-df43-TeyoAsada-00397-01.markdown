@@ -16,7 +16,7 @@ gallerymap1:
 
 ---
 
-Spring 397
+## Spring 397
 
 Elven caravan has arrived.  I plan on trading stone mechanisms for a few odds and ends.  I'm always on the lookout for either black or grizzly bears that can be bred for war purposes.  But they didn't bring anything interesting this year.
 
@@ -40,7 +40,7 @@ On the 7th of Malachite in the year 397, Ilral Kekimber gave birth to a girl, Ki
 
 The first militia squad has been created.  The draftees are the two dwarves that I gave high skills to at the start (Tobul Rashnish and Cilob Bokbonled), plus Tun Uznil (a ranger, removed from hunting duties) and Tirist Urdimgusil.  I actually want to find a fifth, but there is no eligible male dwarf that can be drafted at the moment.  They will train from Moonstone to Obsidian (the three winter months) across from the main entrance.
 
-Militia Uniform:
+#### Militia Uniform:
 
 - metal mail shirts
 - (2) leather cloaks
