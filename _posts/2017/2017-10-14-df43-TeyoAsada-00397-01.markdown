@@ -1,0 +1,61 @@
+---
+layout: post
+title: 'DF 0.43: Teyo Asada (397)'
+date: '2017-10-14T08:40:00.000-04:00'
+author: Wuphon's Reach
+category:
+- DwarfFortress
+tags:
+- DF0.43
+- Teyo Asada
+
+gallerymap1:
+  - image_path: /imgs/df/TeyoAsada/00397-z140-entrance.png
+    alt: "DF2014: Teyo Asada (396) Armok Vision of Entrance"
+    url: /imgs/df/TeyoAsada/00397-z140-entrance.png
+
+---
+
+Spring 397
+
+Elven caravan has arrived.  I plan on trading stone mechanisms for a few odds and ends.  I'm always on the lookout for either black or grizzly bears that can be bred for war purposes.  But they didn't bring anything interesting this year.
+
+Copper weapons have been made (maces, warhammers and battle axes) and places into traps at key locations along the entrance paths.  
+
+{% include gallery id="gallerymap1" %}
+
+Laying out the fort design some more.
+
+- The winding route at the top is the eventual caravan entrance.  It also acts as a quarry for stone, ore and gems as it will be dug from Z140 down to about Z120 or Z110.  That will give a lot of raw materials to work with.
+- The blue box is the "sun well" area that has yet to be dug out from above.
+- Stairways that are 2x3 have been designated around the "sun well".
+- The entrance area where the dodge-this pit will be has been dug out.  I always smooths the walls of the pit to make it more difficult for enemies to climb back out if they survive the fall.
+- The dodge-me pit also serves as a stone quarry since it will be about 20-30 Z-levels down with a large area dug out.
+
+Two more migrants arrive in the Spring 397.  Aban Letethvabok and Tirist Urdimgusil.  Aban is related to Tholtig Atheldakas, but Tirist has no relatives in our fortress.  That brings us up to our target population of 15.
+
+The surface traps are helping to keep the local monkey population down.  It also helps that the surface stockpiles are just stone blocks, which are low value and we don't care if they get stolen.  I place the traps at corners where the monkeys will pass by and get struck down.
+
+On the 7th of Malachite in the year 397, Ilral Kekimber gave birth to a girl, Kikrost Kiravucar.  Ilral has taken Dastot Logemkoma as her lover, but it is unknown yet whether the couple will wed.  Because Ilral is now caring for a child, she gets her hauling labors disabled and will be focused on miscellaneous crafts and lever pulling duties.
+
+The first militia squad has been created.  The draftees are the two dwarves that I gave high skills to at the start (Tobul Rashnish and Cilob Bokbonled), plus Tun Uznil (a ranger, removed from hunting duties) and Tirist Urdimgusil.  I actually want to find a fifth, but there is no eligible male dwarf that can be drafted at the moment.  They will train from Moonstone to Obsidian (the three winter months) across from the main entrance.
+
+Militia Uniform:
+
+- metal mail shirts
+- (2) leather cloaks
+- (1) plant fiber cloak
+- (2) leather hoods
+- (1) plant fiber hood
+- leather trousers
+- leather gloves
+- leather mittens
+- metal high boots
+- wooden shield
+- copper crossbow
+
+This uniform is not great protection, but it serves well enough for now and should be light enough not to slow down the dwarves too much.  The primary purpose of a militia uniform is to protect the dwarves against minor critters and minor mishaps.
+
+As I build up stocks of leather and copper bars, I plan on drafting the rest of the dwarves (except for woodcutters, miners and hunters) into militia squads.
+
+No news from the dwarven liason this year.  So I'm not sure how the two new sites are faring.
