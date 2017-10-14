@@ -1,0 +1,54 @@
+autobutcher start
+autobutcher autowatch
+autobutcher sleep 6000
+autobutcher target 3 3 0 0 new
+autobutcher target 5 5 5 3 ALPACA
+autobutcher watch ALPACA
+autobutcher target 10 10 8 4 BIRD_PEAFOWL_BLUE
+autobutcher watch BIRD_PEAFOWL_BLUE
+autobutcher target 5 10 3 5 CAT
+autobutcher watch CAT
+autobutcher target 3 3 0 0 CAVY
+autobutcher watch CAVY
+autobutcher target 10 10 5 3 BIRD_CHICKEN
+autobutcher watch BIRD_CHICKEN
+autobutcher target 0 0 0 0 SNAPPING TURTLE
+autobutcher watch SNAPPING TURTLE
+autobutcher target 2 2 0 0 COW
+autobutcher watch COW
+autobutcher target 10 10 5 15 DOG
+autobutcher watch DOG
+autobutcher target 3 3 0 0 DONKEY
+autobutcher watch DONKEY
+autobutcher target 10 10 5 3 BIRD_DUCK
+autobutcher watch BIRD_DUCK
+autobutcher target 0 0 0 0 ECHIDNA
+autobutcher watch ECHIDNA
+autobutcher target 10 10 5 3 BIRD_GOOSE
+autobutcher watch BIRD_GOOSE
+autobutcher target 3 3 0 0 GOAT
+autobutcher watch GOAT
+autobutcher target 15 15 15 15 BEAR_GRIZZLY
+autobutcher watch BEAR_GRIZZLY
+autobutcher target 10 10 5 3 BIRD_GUINEAFOWL
+autobutcher watch BIRD_GUINEAFOWL
+autobutcher target 2 2 0 0 HORSE
+autobutcher watch HORSE
+autobutcher target 3 3 0 0 LLAMA
+autobutcher watch LLAMA
+autobutcher target 3 3 0 0 MULE
+autobutcher watch MULE
+autobutcher target 15 15 10 5 PIG
+autobutcher watch PIG
+autobutcher target 3 3 0 0 RABBIT
+autobutcher watch RABBIT
+autobutcher target 2 2 0 0 REINDEER
+autobutcher watch REINDEER
+autobutcher target 3 3 0 0 SHEEP
+autobutcher watch SHEEP
+autobutcher target 10 10 10 5 BIRD_TURKEY
+autobutcher watch BIRD_TURKEY
+autobutcher target 3 3 0 0 WATER_BUFFALO
+autobutcher watch WATER_BUFFALO
+autobutcher target 2 2 0 0 YAK
+autobutcher watch YAK
