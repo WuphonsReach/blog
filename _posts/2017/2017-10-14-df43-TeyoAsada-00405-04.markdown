@@ -1,0 +1,41 @@
+---
+layout: post
+title: 'DF 0.43: Teyo Asada (405-)'
+date: '2017-10-15T15:30:00.000-04:00'
+author: Wuphon's Reach
+category:
+- DwarfFortress
+tags:
+- DF0.43
+- Teyo Asada
+
+gallerymap1:
+  - image_path: /imgs/df/TeyoAsada/armok-vision-00405.jpg
+    alt: "DF2014: Teyo Asada (405) Armok Vision of Entrance"
+    url: /imgs/df/TeyoAsada/armok-vision-00405.jpg
+
+gallerymap2:
+  - image_path: /imgs/df/TeyoAsada/forgotten-beast-Ugosh-405.png
+    alt: "DF2014: Teyo Asada (405) Ugosh"
+    url: /imgs/df/TeyoAsada/forgotten-beast-Ugosh-405.png
+
+---
+
+## Summer 405
+
+The perimeter walls are starting to take shape.  I like to put a 3-tile wide paved road around the outside of the perimeter wall to keep trees from growing up and providing a way over the wall.  You could also do a 5-tile wide perimeter road if you want.
+
+{% include gallery id="gallerymap1" %}
+
+I'm probably only to have three ways inside the perimeter wall.  One in the very southeast corner of the embark, one along the northwest side and one on the west side.  A few judiciously placed weapon traps to deal with mundane troubles will keep me mostly safe without having to burrow.
+
+Note: Weapon traps, even with regular weapons (not trap components) are still bugged in 43.05.  If your weapon wears out, the game will crash.  So you need to monitor your weapon traps periodically (every few years?) with the '`t`' key and replace any weapon traps that have damaged weapons.
+
+## Autumn 405
+
+As I start up the cloth industry and the metal industry, I think it's getting to the point where I need to import more labor.
+
+{% include gallery id="gallerymap2" %}
+
+The forgotten beast, Ugosh, has come!  This one throws webs.
+

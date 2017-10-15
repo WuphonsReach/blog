@@ -1,0 +1,46 @@
+---
+layout: post
+title: 'DF 0.43: Teyo Asada (399)'
+date: '2017-10-14T16:27:00.000-04:00'
+author: Wuphon's Reach
+category:
+- DwarfFortress
+tags:
+- DF0.43
+- Teyo Asada
+
+gallerymap1:
+  - image_path: /imgs/df/TeyoAsada/armok-vision-00399.jpg
+    alt: "DF2014: Teyo Asada (399) Armok Vision of Entrance"
+    url: /imgs/df/TeyoAsada/armok-vision-00399.jpg
+
+gallerymap2:
+  - image_path: /imgs/df/TeyoAsada/forgotten-beast-399-maga-boradoto.png
+    alt: "DF2014: Teyo Asada (399) Forgotten Beast Maga Boradoto"
+    url: /imgs/df/TeyoAsada/forgotten-beast-399-maga-boradoto.png
+
+---
+
+## Spring 399
+
+Start of another year.  The sun-well has been floored over and a perimeter wall has been started.  This means I can start building out the first level of the sun-well with industry.
+
+{% include gallery id="gallerymap1" %}
+
+The elves have yet to bring anything interesting such as black bears or grizzly bears.
+
+{% include gallery id="gallerymap2" %}
+
+The Forgotten Beast, Maga Boradoto, has come.  A moderately worrisome beast, but at least it only has a poison sting and not a breath weapon.
+
+Ilral Kekimber has given birth again to a girl, Oddom Geshudmeban.  Her husband, Tun Uznil feels adoration and is blissful at becoming again at the age of sixty-one.  Ilral is fify-nine years old.  If they keep this up, I'm going to have a population explosion in a few years.
+
+Ilral Kekimber is now the bookkeeper and manager of the fortress.
+
+## Autumn 399
+
+The liason brings news.
+
+Oarrein, reclaimed by The Clear Bodices (leader Arceth Imagerivers, mayor Ratha Chilledsour).
+
+The mass-slaughter of animals has started.  It will probably take 2-3 years to catch up.

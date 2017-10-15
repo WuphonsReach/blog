@@ -1,0 +1,166 @@
+---
+layout: post
+title: 'DF 0.43: Teyo Asada (400-405)'
+date: '2017-10-14T16:27:00.000-04:00'
+author: Wuphon's Reach
+category:
+- DwarfFortress
+tags:
+- DF0.43
+- Teyo Asada
+
+gallerymap1:
+  - image_path: /imgs/df/TeyoAsada/forgotten-beast-sitsu-marcestngopex-400.png
+    alt: "DF2014: Teyo Asada (400) Sitsu Marcestngopex"
+    url: /imgs/df/TeyoAsada/forgotten-beast-sitsu-marcestngopex-400.png
+
+gallerymap2:
+  - image_path: /imgs/df/TeyoAsada/forgotten-beast-muved-sarekidash-401.png
+    alt: "DF2014: Teyo Asada (401) Muved Sarekidash"
+    url: /imgs/df/TeyoAsada/forgotten-beast-muved-sarekidash-401.png
+
+gallerymap3:
+  - image_path: /imgs/df/TeyoAsada/forgotten-beast-thiliri-rethivafice-nethitha-enira-401.png
+    alt: "DF2014: Teyo Asada (401) Thiliri Rethivafice Nethitha Enira"
+    url: /imgs/df/TeyoAsada/forgotten-beast-thiliri-rethivafice-nethitha-enira-401.png
+
+gallerymap4:
+  - image_path: /imgs/df/TeyoAsada/forgotten-beast-ustxu-akon-ngoso-402.png
+    alt: "DF2014: Teyo Asada (402) Ustxu Akon Ngoso"
+    url: /imgs/df/TeyoAsada/forgotten-beast-ustxu-akon-ngoso-402.png
+
+gallerymap5:
+  - image_path: /imgs/df/TeyoAsada/forgotten-beast-arak-403.png
+    alt: "DF2014: Teyo Asada (403) Arak"
+    url: /imgs/df/TeyoAsada/forgotten-beast-arak-403.png
+
+gallerymap6:
+  - image_path: /imgs/df/TeyoAsada/magma-channels-403.png
+    alt: "DF2014: Teyo Asada (403) Magma channels to power forges"
+    url: /imgs/df/TeyoAsada/magma-channels-403.png
+
+gallerymap7:
+  - image_path: /imgs/df/TeyoAsada/forgotten-beast-Usu-Tegalaslem-Wuvul-Amsir-404.png
+    alt: "DF2014: Teyo Asada (404) Usu Tegalaslem Wuvul Amsir"
+    url: /imgs/df/TeyoAsada/forgotten-beast-Usu-Tegalaslem-Wuvul-Amsir-404.png
+
+gallerymap8:
+  - image_path: /imgs/df/TeyoAsada/forgotten-beast-Ngopex-405.png
+    alt: "DF2014: Teyo Asada (405) Ngopex"
+    url: /imgs/df/TeyoAsada/forgotten-beast-Ngopex-405.png
+
+---
+
+## Spring 400
+
+Mostly ignoring the caravans this year as I focus on building out the sun-well.  The refuse pile, butcher shop and assorted industries are now in place.  The leather and cloth workshops are also up and running and making things on a JIT basis.
+
+I keep toggling the butcher labor on/off on the militia commander.  If I let him do his thing, the output stockpiles will overflow and the results of the butchering process will just rot in the butcher shop.
+
+I have about 300+ animals to be butchered, so this will be a multi-year project if I don't raise the population cap.  FPS is around 70 at the moment, so I really need to get these animals to the slaughterhouse.
+
+## Autumn 400
+
+{% include gallery id="gallerymap1" %}
+
+The forgotten beast, Sitsu Marcestngopex, has come!  This one is a blob of flame which is going to produce lots of !!FUN!! as it lights the caverns on fire.
+
+Or at least, that's what I'm expecting.
+
+Yeah, it's lighting the Z91 cavern on fire.
+
+Oh dear, it also breathes fire and throws balls of fire.
+
+I think the troglodytes managed to kill it with a lucky punch.  There's now a named trog, Buznithpobe, in the caverns.
+
+## Winter 400
+
+Wow, this is the first year that I got snow and the pond and brook froze over. I'm going to have to prioritize an underground cistern in the spring.
+
+## Summer 401
+
+{% include gallery id="gallerymap2" %}
+
+The forgotten beast, Muved Sarekidash, has come.  This one has poisonous vapors which will be all kinds of fun.
+
+It didn't last too long down in the caverns, the crundles made short work of it within the summer season.
+
+## Autumn 401
+
+I've started creating the quantum stockpiles for the various types of stones after doing a mass-forbid of everything in the two large quarry pits.  Still trying to clean out my cistern of loose stone / gems / ores.
+
+With only 15 dwarves, this will take a while, but I'm really in no rush to get to 20+ dwarves.
+
+## Winter 401
+
+The first kobold thief fell prey to a marksdwarf at the start of Moonstone 401.  The four-strong squad of militia does 3+ training for the final three months of the year.  The first year it was dodge training, lately it's been just individual training.  I likely need to draft a fifth into the squad to get reliable group training going each year.
+
+I've slaughtered about 100 animals so far, FPS is back up to about 80 (from 70-75) now.
+
+{% include gallery id="gallerymap3" %}
+
+The forgotten beast, Thiliri Rethivafice Nethitha Enira, has come.  Another one that breathes fire, but not made of fire.  So it should fare better then the last one (good for it, bad for my FPS).  However, it will not set the cavern on fire unless it's in combat.
+
+Hah, the amphibian people in the cavern managed to get it to dodge into the magma tube.  Even though it can breathe fire, it is taking damage from swimming around in the magma at the bottom of the tube.  All the fat has been burned off and its teeth have been mangled beyond recognition.
+
+It's climbing back up the walls of the magma tube, and took revenge on the amphibian people.  So it survived the magma bath.  Its major weapon now is the fire breath.
+
+## Spring 402
+
+The elves are here again, with not much of value.  I'm also not getting an elven diplomat, so maybe there's a problem with the elven civilization near me.
+
+Humans haven't sent a diplomat either recently.
+
+It's possible that they aren't visiting because I have less then 20 dwarves (or some other criteria is not met).  Or there's been some sort of trouble with their home.
+
+## Autumn 402
+
+No news from the dwarven liason this year.
+
+{% include gallery id="gallerymap4" %}
+
+The forgotten beast, Ustxu Akon Ngoso, has come.  This one only has a poisonous bite and is down around Z52.
+
+About 150 animals slaughtered so far.
+
+## Spring 403
+
+{% include gallery id="gallerymap5" %}
+
+The forgotten beast, Arak, has come.
+
+Meanwhile, still ignoring the caravans and digging out the sun-well and eventual trade depot location.  About 200 animals slaughtered to-date.
+
+## Autumn 403
+
+Starting to fill the large cistern and clear out the well room above (which was used for early metalworking).  FPS has dropped to 80 while I'm filling the cistern.
+
+Kikrost Kirarvucar is now six years old (the oldest child in my fortress).  A few more years and she'll be eligible to labor for the future of Uzol Og (Oil of Clubs)!
+
+## Winter 403
+
+{% include gallery id="gallerymap6" %}
+
+The magma pipes to power the forges are just about completed.  I have a pair of gabbro bridges to the right, and a gabbro floodgate behind them.  All are hooked to the levers in the left room via gabbro mechanisms.
+
+Note all the extra gabbro doors leading out of the magma pipe area.  That will help prevent accidents.
+
+To actually flood the pipe, I have to channel out the last block from above, then floor it over.  That gives a secure source of magma frome the magma pool when combined with the two bridges acting as a magma-lock.
+
+## Autumn 404
+
+{% include gallery id="gallerymap7" %}
+
+The forgotten beast, Usu Tegalaslem Wuvul Amsir, has come.
+
+After catching up on the animal slaughter, my FPS is back up to 110.
+
+## Spring 405
+
+The best that the elves have brought so far are cougars, and usually just one.  I guess war-cougars could be a thing, but I had my heart set on black or grizzly bears.
+
+Work continues on the various industries, setting up the soap production chain has been difficult due to how things get counted.  Architecture seems to be a bottleneck as well.
+
+{% include gallery id="gallerymap8" %}
+
+The forgotten beast, Ngopex, has come.  This one has deadly vapors, which is always a source of fun.
