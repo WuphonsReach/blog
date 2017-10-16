@@ -96,12 +96,12 @@ The king is currently Urdim Shipstrong (living in Paintedname), born 262, became
 
 Dieties
 
-  Tobul Ochremine, deity: minerals
-  Limar, deity: wealth
-  Rodem, deity: metals, fire, the sun, nature, the rain
-  Avuz the Blue Saffron, deity: jewels
-  The Help of Gates, deity: fortresses
-  Erib the Tower of Fountains, deity: mountains, volcanos
+- Tobul Ochremine, deity: minerals
+- Limar, deity: wealth
+- Rodem, deity: metals, fire, the sun, nature, the rain
+- Avuz the Blue Saffron, deity: jewels
+- The Help of Gates, deity: fortresses
+- Erib the Tower of Fountains, deity: mountains, volcanos
 
 So, a small diety list compared to some fortresses (I've had up to 10).  Rodem is possibly the most interesting of the bunch.
 

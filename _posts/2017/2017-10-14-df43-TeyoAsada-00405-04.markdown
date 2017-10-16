@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DF 0.43: Teyo Asada (405-)'
+title: 'DF 0.43: Teyo Asada (405-408)'
 date: '2017-10-15T15:30:00.000-04:00'
 author: Wuphon's Reach
 category:
@@ -39,3 +39,80 @@ As I start up the cloth industry and the metal industry, I think it's getting to
 
 The forgotten beast, Ugosh, has come!  This one throws webs.
 
+## Winter 405
+
+Boosting the population cap to 25, which means I need to prepare for a baron to be appointed.  I've already started digging out the marble layer to create rooms and tombs.
+
+## Spring 406
+
+The elves didn't bring much of value, except three large grazers that I bought and butchered.  They're offering up wolves this year, which are interesting but can't be trained for war purposes.
+
+Migrants have arrived:
+
+- Onol Odasen (Trapper), husband of Led, Asen Lertethvutok is his sister
+- Ineth Vushcilob (Bone Carver), no relationships
+- Limul Veltulon (Farmer), related to Onget Asumer and Sakzul Tathtatzaneg
+- Vabok Asmelkir (Farmer), related to Asen and Sakzul
+- Led Shembomrek (Brewer), wife of Onul
+- Olin Odkol (Potash Maker), related to Tholtig Atheldakas
+- Avuz Logmlektad (Surgeon), daughter of Onul and Led
+- Mistem Sibrekostuk (Child), son of Onul and Led
+
+Ineth Vushcilob is the most concerning because she is sixty-three years old, with zero relationships other then the diety Rodem (a dwarven diety of The Dreamy Wall).  This is after spending many years working in the tavern at Orbsalve.
+
+She is a talented (level 6) persuader, judge of intent, intimidator, pacifier and conversationalist.  But she has no other skills besides Bone Carving.  So high social skills, but possibly not that much out of line.
+
+That brings the fortress population up to 25 dwarves (3 children).
+
+## Summer 406
+
+I've chosen my baron.  Ilral Koangen (Wheelfair) is age eighty-two as she was born in 324.  She has a lover, Dastot Logemkoma (Miner), but no other familial relationships.  She likes linen fabric and coins.  Both of which should be easy enough to produce in order to keep her happy.
+
+As a noble, that means she gets added to the 1st Militia squad.
+
+Ilral Risenalmosh (Miner) has created the first artifact.  A gneiss weapon rack named Tinothlaluth Ob Kifed.  That will come in handy for the baron's quarters.
+
+## Spring 407
+
+Raising the population cap to 35.
+
+A lot more forgotten beasties have shown up in the caverns, too many to count at this point since they arrive at a rate of 2-3 per year.  One fell to its death and exploded on impact.  Another one is a flyer with noxious dust.
+
+Searching for more cassiterite that I can combine with the tetrahedrite in order to make more bronze.  Seems like the only veins that I've found so far are on Z108.
+
+Nine new dwarves have emigrated:
+
+- Ast Konosroldeth
+- Edem Abirfikod
+- Aban Sedurushat
+- Cog Alathneth
+- Sigun Nethrimtar
+- Erush Alakfikod
+- Rigoth Idromid
+- Kib Amuddakost (child)
+- Bembul Olonimaz (child)
+
+## Autumn 407
+
+Ilral Kolangen has been nominated to the position of baroness.
+
+I've started production of green glass windows and cabinets for individualized bedrooms.  The glass windows are useful in providing limited line-of-sight for spotting vampire activity.
+
+Oh dear, right after Kolangen was suggested as a potential baroness, she was posessed by the will of Armok.  Very nice result, she made Alathnum Bakust Ezneth (a tetrahedrite mechanism).
+
+FPS is kind of low at the moment, only 40.  The animals have gotten up above 200 again, with a lot of them unpastured.  Time to create a huge 300+ tile no-barrel meat/fish/tallow/prepared food stockpile.  Then start making meals non-stop and butchering non-stop.  
+
+## Summer 408
+
+The first six temples have been created, with a silver statue in each related to the diety.
+
+- Tobul Ochremine, deity: minerals (The Twinkling Church)
+- Limar, deity: wealth (The Bejeweled Shrine)
+- Rodem, deity: metals, fire, the sun, nature, the rain (The Abbey of Soaking)
+- Erib the Tower of Fountains, deity: mountains, volcanos (The Curch of Purifying)
+- Avuz the Blue Saffron, deity: jewels (The Cathedral of Jades)
+- The Help of Gates, deity: fortresses (The Abbey of Ownership)
+
+The dwarf, Ilral Kolangen, has been appointed as the baroness of Oil of Clubs.  She's now demanding her rooms be prepared.
+
+Now that we have a baroness, the humans are meeting with us.  Puti Isacsina, the human law-giver is meeting with Ilral.  Puti vomits a huge pile of updates at us (multiple pages).  I'm not going to list all that out except to note that the humans and goblins are at war.
