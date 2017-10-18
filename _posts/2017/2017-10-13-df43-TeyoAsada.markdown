@@ -105,6 +105,16 @@ Dieties
 
 So, a small diety list compared to some fortresses (I've had up to 10).  Rodem is possibly the most interesting of the bunch.
 
+#### Founders
+
+- Ilral Risenalmosh (Coalgleamed), miner
+- Kadol Delerior (Steeltools), miner
+- Dastot Logemkoma (Paintedspread), miner
+- Ilral Kolangen (Wheelfair), woodcutter
+- Fath Ezumsosh (Hamesandals), expedition leader
+- Tobul Rashnish (Deathtraded), peasant
+- Cilob Bokbonied (Heatherracks), peasant
+
 #### Initial Embark
 
 Our embark location will be a bit north of Girderrealm (an empty site of The Sizzling Lashes) by the Savegall brook in the Plain of Blood.  It will have sand, a small soil layer, shallow metal, deep metals and flux stone.  I'm hoping to also find shallow magma, but it's not a guarantee.  I like to have an embark size of 4x4 so that I have options.  The home fortress is a fair ways to the southwest on the other side of the eastern mountains.
