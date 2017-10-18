@@ -21,6 +21,7 @@ gallerymap2:
 
 ---
 
+
 We have embarked at the mouth of the Savegall brook.  The land is mostly flat (but rises to the west) and there are some trees, but it is not densely forested.  The only critters at embark are a skunk and echidna.  We have humans, elves and dwarves as neighbors and are at peace with the goblins.  There should be flux stone, sand and both shallow and deep metals on the map.  Initial digging reveals the presence of copper ore (tetrahedrite) which is likely the shallow metal.
 
 {% include gallery id="gallerymap1" %}
@@ -41,5 +42,26 @@ Draft animals have already been butchered, tanned and processed into raw food.  
 
 I haven't decided whether to build a dodge-me bridge to the west of the main crossroads.  I'll probably prep one, but may also put bridges in place to make it a five wide tile entrance bridge that can be turned into three narrow dodge-me bridges as needed.
 
+#### Founders
 
+- Ilral Risenalmosh (Coalgleamed), miner
+- Kadol Delerior (Steeltools), miner
+- Dastot Logemkoma (Paintedspread), miner
+- Ilral Kolangen (Wheelfair), woodcutter
+- Fath Ezumsosh (Hamesandals), expedition leader
+- Tobul Rashnish (Deathtraded), peasant
+- Cilob Bokbonied (Heatherracks), peasant
 
+## Winter 396
+
+Migrants so far:
+
+- Tholtig Atheldakas, carpenter
+- Tun Uznil, militia commander
+- Ilral Kekimber, leatherworker
+- Onget Asumer, stonecrafter
+- Aban Lertethvabok, herbalist
+- Asen Lertethvutok, planter
+- Sakzul Tathtatzaneg, wood burner
+- Tirist Urdimgusil, recruit
+- Kikrost Kiravucar, baby
