@@ -1,0 +1,145 @@
+---
+layout: post
+title: 'DF 0.43: Teyo Asada (408-410)'
+date: '2017-10-16T10:19:00.000-04:00'
+author: Wuphon's Reach
+category:
+- DwarfFortress
+tags:
+- DF0.43
+- Teyo Asada
+
+---
+
+## Autumn 408
+
+Thirty adults and five children in the fortress.  Let's take a look and find all of our married couples:
+
+- Onget Asumer (M) / Sakzul Tathtatzaneg (F)
+- Tun Uznil (M) / Ilral Kekimber (F)
+- Onol Odasen (M) / Led Shembomrek (F)
+- Edem Abirfikod (M) / Aban Sedurushat (F)
+- Oddom Atisast (M, not present) / Cog Alathneth (F)
+- Ubbul Fikodedtul (M, not present) / Asen Lertethvutok (F)
+
+So of my six husband/wife pairings, two do not have their husband in the fortress.  I'll have to raise the population cap slightly and see if they migrate to our fortress.
+
+There's also the scandal of Ilral Kolangen (baroness) and Dastot Logemkoman (miner) being lovers, but not marrying.
+
+## Winter 408
+
+Boosting the population limit to 45 dwarves.
+
+Feb Kubuksebir, a dwarf chemist, has arrived and is visting the temple of Rodem.
+
+## Spring 409
+
+We get told off by the elves because we've been harvesting trees.
+
+Uzol Og has been made into a duchy.  Now the duchess wants improved lodgings and the manufacture of coins.
+
+Migrants:
+
+- Urvad Eteserith (husband of Atis Zefonducim)
+- Atis Zefonducim (wife of Urvad)
+- Endok Alathtangath
+- Nil Vutokfeb
+- Solon Othilgusil
+- Stinthad Morulsefol 
+- Kulet Cattenmuthir
+- Urvad Rithrithzam (child of Urvad and Atis)
+
+Sadly, neither Oddom or Ubbul (husbands of Cog and Asen) have migrated.
+
+## Summer 409
+
+Mistem Sibrekostuk has grown up to be an adult dwarf.  She'll get assigned to furnaces and possibly the minting of coins for the realm.
+
+The human diplomat, Puti Isacsina, reports that the Sins of Gilding (goblins) are still pillaging Gemtusk.
+
+Kikrost Kirarvucar has also grown up.
+
+## Winter 409
+
+I have filled up the first militia squad with ten dwarves.  Also started a second squad and filled that with 10 dwarves.  I'll do a third miltia squad next year.
+
+## Spring 410
+
+The elven diplomat, Enina Inirenisa, has arrived.  I'm sure they will yell at me for tree cutting.  They gave us a quota of 119 trees this year.
+
+Also another wall of text.  There is an army called the Lie of Covens marching around, but it's not clear whether it's a human / goblin / dwarf army since it's led by the elf, Masami Mobbedsatins the Stale Guilt, Dourness of Walks.
+
+Elves brought a grizzly bear!  To the trade depot!  Guess I'll buy the cougar as well.  But before I do either, I need to check my dfHack autobutcher settings.  My default settings are such that adults of any new species are instantly butchered and only 3 male and 3 female young are allowed to live.
+
+Eh, the cougar is not war-trainable.  To the slaughterhouse with it.
+
+The female grizzly bear will be assigned to the duchess, who is in charge of training it for war.  I really hope the elves bring a male grizzly next year.
+
+## Autumn 410
+
+Hoping to trade with the dwarven caravan for lots of steel, iron and bronze items that can be melted.  
+
+Boosting the population cap to 65.
+
+Thirty dwarves now in militia squads.
+
+My budget for the number of animals on the `z` screen is about 120.  Higher then that and I run into issues with FPS.  At the moment, due to buying out the caravan I have a count of 347 animals.
+
+Female egglayers are not too bad on FPS, because they can be auto-assigned to nestboxes pastures (1x1 pasture zones over a nestbox).
+
+Budget:
+
+- 18 pigs (5f+5m piglets, 5 adult female, 3 adult male)
+- 11 cats (3f+3m kittens, 2 adult females, 3 adult males)
+- 20 dogs (5f+5m puppies, 3 adult females, 7 adult males)
+- 20 turkeys (7f+3m poults, 7 adult females, 3 adult males)
+- 20 peafowl (7f+3m peachicks, 7 adult females, 3 adult males)
+- 5 of other birds (only 5 adult females are allowed to live)
+- 15 alpacas (4f+2m young, 5 adult female, 3 adult male)
+- 15 sheep (4f+2m young, 5 adult female, 3 adult male)
+- 15 llamas (4f+2m young, 5 adult female, 3 adult male)
+- 20 grizzly bears (5f+5m cubs, 3 adult females, 7 adult males)
+
+These are all used as dfHack `autobutcher` targets and put on the watch list.
+
+## Winter 410
+
+A werelizard, Tira Tisewama (elf), has shown up.  Killed three of the dwarves before the gates could shut it out.
+
+- Stinthad Morulsefol (civilian)
+- Endok Alathtangath (civilian)
+- Tholtig Atheldaka (marksdwarf)
+
+I'm not surprised that Endok and Stinthad died, they had no armor.  The recruit, Tholtig, gave up a bit more of a fight but lost hold of the crossbow early on and had to depend on an iron shield for protection.
+
+Still, they managed to hold a (poorly fought) delaying action allowing the reset of the dwarves to get inside.
+
+I need to setup watch towers along the main approaches soon.  Or at least pasture a wardog along each route in.
+
+## Deceased
+
+#### Endok Alathtangath (civilian)
+
+Arrived at Uzol Og on the 24th of Granite, 409.  No family or close friends.
+
+#### Tholtig Atheldaka (marksdwarf)
+
+Daughter of Sarvesh Dostobkadol (mother) and Solon Koltath (father), neither have migrated to Uzol Og.  Relatives at Uzol Og are:
+
+- Atir Atolalath (brother)
+- Led Shembomrek (aunt)
+- Ilral Kekimber (aunt, fort manager)
+- Onul Odasen (uncle)
+- Tun Uznil (uncle, militia commander)
+- Olin Odkol (uncle)
+- Aban Lertethvabok (niece)
+- Avuz Logemiektad (cousin)
+- Mistem Sibrekostuk (cousin)
+- Kikrost Kiravucar (cousin)
+- Oddom Geshudmeban (cousin)
+
+It's a very big family.  The brother, Atir, is a macedwarf that is visiting The Abbey of Soaking (our temple to Rodem) and who is also curious about The Church of Purifying (our temple to Erib the Tower of Fountains).
+
+#### Stinthad Morulsefol (civilian)
+
+Also arrived on the 24th of Granite, 409.  No family or friends that I can find.
