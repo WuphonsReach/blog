@@ -124,7 +124,9 @@ Arrived at Uzol Og on the 24th of Granite, 409.  No family or close friends.
 
 #### Tholtig Atheldaka (marksdwarf)
 
-Daughter of Sarvesh Dostobkadol (mother) and Solon Koltath (father), neither have migrated to Uzol Og.  Relatives at Uzol Og are:
+Daughter of Sarvesh Dostobkadol (mother) and Solon Koltath (father), neither have migrated to Uzol Og.  She migrated in the [year 396]({{ site.baseurl }}{% post_url 2017/2017-10-13-df43-TeyoAsada-396-Embark %}) (one of the first migrants).
+
+Relatives at Uzol Og are:
 
 - Atir Atolalath (brother)
 - Led Shembomrek (aunt)

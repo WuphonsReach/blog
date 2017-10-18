@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DF 0.43: Teyo Asada (396) Starting'
+title: 'DF 0.43: Teyo Asada (396) Autumn'
 date: '2017-10-14T06:25:00.000-04:00'
 author: Wuphon's Reach
 category:
@@ -15,6 +15,8 @@ gallerymap1:
     url: /imgs/df/TeyoAsada/armok-vision-00396.jpg
 
 ---
+
+## Autumn 396
 
 {% include gallery id="gallerymap1" %}
 

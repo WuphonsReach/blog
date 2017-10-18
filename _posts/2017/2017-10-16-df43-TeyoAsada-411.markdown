@@ -1,0 +1,25 @@
+---
+layout: post
+title: 'DF 0.43: Teyo Asada (411-)'
+date: '2017-10-17T22:19:00.000-04:00'
+author: Wuphon's Reach
+category:
+- DwarfFortress
+tags:
+- DF0.43
+- Teyo Asada
+
+---
+
+## Spring 411
+
+Nil Votokfeb has been drafted to replace the deceased Tholtig Atheldaka.  Nil already has level 4 armor skills and has the highest armor skill of anyone in the fortress.
+
+The only caravan that I'm really interested in this year is the elves, if they bring a male grizzly bear.
+
+I'll still probably do light trading with the humans and dwarves, but I'm drowning in roasts at the moment and behind on a lot of hauling.
+
+Stinthad and Endok have had slabs engraved, but were not well-known enough to warrant pride of place.  So their slabs will be placed next to their tombs.  Tholtig Atheldaka, a faithful worshiper of [Erib the Tower of Fountains]({{ site.baseurl }}{% post_url 2017/2017-10-13-df43-TeyoAsada-Dieties %}), will have hers placed in the temple.
+
+
+

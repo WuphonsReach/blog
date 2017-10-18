@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DF 0.43: Teyo Asada (396) First Embark'
+title: 'DF 0.43: Teyo Asada (396) Embark'
 date: '2017-10-13T22:41:00.000-04:00'
 author: Wuphon's Reach
 category:
@@ -21,6 +21,54 @@ gallerymap2:
 
 ---
 
+#### Initial Embark
+
+Our embark location will be a bit north of Girderrealm (an empty site of The Sizzling Lashes) by the Savegall brook in the Plain of Blood.  It will have sand, a small soil layer, shallow metal, deep metals and flux stone.  I'm hoping to also find shallow magma, but it's not a guarantee.  I like to have an embark size of 4x4 so that I have options.  The home fortress is a fair ways to the southwest on the other side of the eastern mountains.
+
+Fortress name: Uzol Og (Oil of Clubs)
+Group name: Utharuzol Og (The First Oil of Clubs)
+Symbol: The Clasps of Roughness (image of a circle and stones)
+
+Preparations:
+
+- 3 picks, 1 battle axe, 1 iron anvil
+- 10 of each of the four types of dwarven drink
+- 10 pig tail and plump helmet seeds, 5 of the others
+- 2 thread, 2 rope, 2 cloth
+- 5 gypsum powder
+- 1 each of various 2 point meats (about 15-25 pieces, different animals)
+- 4 copper bars, 30 pieces of gabbro
+
+Skills:
+
+- Three miners
+- One woodcutter
+- One dwarf with no item preferences boosted with social skills (probable mayor is Fath Ezumsosh)
+
+Animals:
+
+- 2 female / 2 male dogs
+- 2 female / 2 male cats
+- 3 female / 2 male pigs
+- 3 female / 2 male turkeys
+- 3 female / 2 male peacocks
+
+At this point, I have about 230 points left.  I spend about 130 points on training up three of the dwarves (not miner / wood cutter) with armor / shield / archery / dodge / teacher skills.
+
+The rest I spend on copper bars (ended up with ten).  That will let me create armor for the two dwarves with military training quickly.
+
+#### First steps
+
+Immediately pause and issue some orders:
+
+- `o-m` to turn off mixing of things in the same barrel/pot/bag
+- `o-h` so that only farmers harvest
+- `o-r-o-v` to gather refuse from outside (and get vermin cleaned up)
+- `o-F` and turn off everything except "Claim your dead"
+- `o-W` and turn off collection of webs
+- `o-z` and set fishing to zone-only
+
+## Spring 396
 
 We have embarked at the mouth of the Savegall brook.  The land is mostly flat (but rises to the west) and there are some trees, but it is not densely forested.  The only critters at embark are a skunk and echidna.  We have humans, elves and dwarves as neighbors and are at peace with the goblins.  There should be flux stone, sand and both shallow and deep metals on the map.  Initial digging reveals the presence of copper ore (tetrahedrite) which is likely the shallow metal.
 
