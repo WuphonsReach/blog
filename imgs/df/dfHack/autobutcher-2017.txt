@@ -4,7 +4,7 @@ autobutcher sleep 6000
 autobutcher target 3 3 0 0 new
 autobutcher target 5 5 5 3 ALPACA
 autobutcher watch ALPACA
-autobutcher target 10 10 8 4 BIRD_PEAFOWL_BLUE
+autobutcher target 10 10 5 3 BIRD_PEAFOWL_BLUE
 autobutcher watch BIRD_PEAFOWL_BLUE
 autobutcher target 5 10 3 5 CAT
 autobutcher watch CAT

@@ -1,0 +1,127 @@
+---
+layout: post
+title: 'DF 0.43: Teyo Asada (413-)'
+date: '2017-10-17T22:19:00.000-04:00'
+author: Wuphon's Reach
+category:
+- DwarfFortress
+tags:
+- DF0.43
+- Teyo Asada
+
+gallerymap1:
+  - image_path: /imgs/df/TeyoAsada/family-tree-tirist-413.png
+    alt: "DF2014: Teyo Asada (413) Urdim/Tirist Family Tree"
+    url: /imgs/df/TeyoAsada/family-tree-tirist-413.png
+
+---
+
+## Spring 413
+
+Once again, the elves fail to bring me a grizzly bear.
+
+Meanwhile, I'm learning that having a king means lots and lots of demands.
+
+Two migrants arrived:
+
+- Stakud Nobalrigoth
+- Oddom Zonam (relative of Tirist, see below)
+
+Both are refugees from Paintedname.
+
+## Legends
+
+Because one of our dwarves inherited the title of king, let's find out what is going on in the world.
+
+> In early winter of 412, Urdim was struck down by the goblin Abi Cavernflays the Brushed Cactus of Acting in Paintedname 
+
+Urdim was the king of The Dreamy Wall from 282-412, a very long lived ruler.  It's his son, Tirist (b308), that migrated from Paintedname to Oil of Clubs in [397]({{ site.baseurl }}{% post_url 2017/2017-10-14-df43-TeyoAsada-397 %}).  
+
+{% include gallery id="gallerymap1" %}
+
+As you can see, one of the related dwarves has a nickname of 'Woodsy' because she's a woodcutter in Oil of Clubs.  Tirist's brother, Sigun, is also a resident of Oil of Clubs, migrated in [407]({{ site.baseurl }}{% post_url 2017/2017-10-14-df43-TeyoAsada-405 %}).  And Oddom has just migrated in spring of 413.
+
+I need to get Tirist married off, with children, in order to continue the line of succession.  He's already over one hundred years old and his brother, Sigun, is even older.  
+
+#### Abi Cavernflays the Brushed Cactus of Acting
+
+A goblin lasher, born in 145, overlord of The Strong Rounded Doom (since 412).
+
+> In early winter of 412, The Sins of Gilding defeated The Square Flag of The Dreamy Wall and took over Paintedname. The new government was called The Strong Rounded Doom
+
+> In early winter of 412, the goblin Abi Cavernflays the Brushed Cactus of Acting became overlord of The Strong Rounded Doom
+
+#### The Gory Conflict (411-)
+
+The Dreamy Wall has been defending against The Sins of Gilding (goblin) since 411.  The dwarven diplomat that we get every year completely failed to mention that.
+
+Paintedname (the fortress) fell in 412.  Orbsalve is also under attack starting in 412 and will likely fall soon.
+
+That means I need to get serious about defenses at Oil of Clubs, pointed spikes on repeat currently work in 43.05 while weapon traps do not (due to the wear bug).
+
+#### Books Authored
+
+I've already had five books authored in the fortress.  Even though I don't have scholars or scribes assigned.
+
+- *Time Spent With the Lens* was authored by the dwarf Kivish Channeltreasures 
+- *Classic Moving Sun* was authored by the dwarf Kivish Channeltreasures
+- *First Practicing Surgery, Then The World!* was authored by the dwarf Logem Knotgloves
+- *Tides and the Moon Questioned* was authored by the dwarf Unib Stilltheaters
+- *The Journey into Animals and the Climate* was authored by the elf Opi Taupemarkets
+
+The elf, Opi, arrived in early summer of 411 and left in early winter 412 for Diamondaura.  He had previously created 15 books over the previous one hundred years.
+
+Kivish, a dwarf, visited for about half a season (Winter 412) and created two books before leaving for Orbsalve.  He had previously written two books at Orbsalve in 388 and 390.
+
+Logem is another prolific author, writing five books before visiting Oil of Clubs to write her sixth.  She also departed and has settled in Orbsalve.
+
+Unib has written four books before writing her fifth in Oil of Clubs.
+
+I'm hoping that Unib applies for citizenship, and that Kivish and Logem come back.
+
+#### Royal Guard
+
+I'm going to reorganize my squads a little bit.  All of the "royalty" are going to get trained up heavily and armored in full steel and silk.
+
+Best fighters:
+
+- Tun Uznil (militia commander)
+- Nil Vutokfeb (best armor user)
+- Aban Sedurushat (best teacher)
+
+The royals:
+
+- Tirist Urdimgusil (king)
+- Rigoth Idromid (mayor)
+- Fath Ezumsosh (broker)
+- Ilral Kolangen (duchess)
+- Sigun Nethrimtar (brother of the king)
+- Vabok Asmelkir (niece of the king)
+
+They will still be a crossbow squad, but with steel/iron/bronze bolts.
+
+#### Future
+
+I was considering retiring this fortress, but now we're (nearly) the last bastion of The Dreamy Wall.  So I'm going to have to get serious about butchering critters and reducing clutter.  Current FPS is 28, I need to claw that back up to 30-35 if possible.
+
+Not sure if I will even get a dwarven caravan this year.
+
+#### Lessons learned
+
+- Butcher shops, kitchens, etc. are all good to put in sun-well designs in order to reduce/eliminate miasma.  Even if the area has a roof over it, but was exposed to sunlight at some point, miasma will not form.
+
+- QSPs (quantum stockpiles) are still very powerful.
+
+- DF 43.05 still prioritizes which stockpiles get work on a LIFO basis.  The most recent stockpile gets checked first, earlier stockpiles will get checked last.  If you are behind on hauling, this can cause breakdowns of critical industries.
+
+- Animals are evil on frame-rate.  Keep them below 100-120.  Egg-layers, if assigned to 1x1 pastures with dfHacks `autonestbox` are not too terrible.  And animals can also be stuffed in cages.
+
+- It's better to bring the magma up, then to take materials down.
+
+## Summer 413
+
+A single migrant, Shem Eribnicat, has arrived.  Another refugee from The Square Flag (site government of Paintedname).
+
+## Autumn 413
+
+Eh, I'm going to retire this fort and embark again.

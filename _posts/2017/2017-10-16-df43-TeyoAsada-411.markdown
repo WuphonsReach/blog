@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DF 0.43: Teyo Asada (411-)'
+title: 'DF 0.43: Teyo Asada (411-412)'
 date: '2017-10-17T22:19:00.000-04:00'
 author: Wuphon's Reach
 category:
@@ -21,5 +21,105 @@ I'll still probably do light trading with the humans and dwarves, but I'm drowni
 
 Stinthad and Endok have had slabs engraved, but were not well-known enough to warrant pride of place.  So their slabs will be placed next to their tombs.  Tholtig Atheldaka, a faithful worshiper of [Erib the Tower of Fountains]({{ site.baseurl }}{% post_url 2017/2017-10-13-df43-TeyoAsada-Dieties %}), will have hers placed in the temple.
 
+Elves have arrived, but with nothing interesting.  Just a badger sow, cob swan, duck and kestrel.
 
+#### Migrants
 
+Bringing the fortress population up to 48, with four children.
+
+- Kib Okirinod
+- Catten Monangkonos
+- Morul Oddomnoram
+- Nil Custithrovod
+- Kib Kosothegul
+- Logem Atisgosmer
+
+None of these migrants have relations with existing fortress members.
+
+#### Birth
+
+After a few years with no births, Aban Dedurushat gave birth to a girl, Tobul Tadlokum.  Aban is married to Edem Abirfikod, and they have two other kids, Bembul Olonimaz (son) and Kib Amuddakost (daughter).  Aban and Tobul migrated as part of the year [407]({{ site.baseurl }}{% post_url 2017/2017-10-14-df43-TeyoAsada-405 %}) migrant wave.
+
+## Summer 411
+
+Migrants have arrived:
+
+- Rimtar Solonkoman 
+- Lor Letmossirab
+- Tosid Athelnosim 
+- Meng Dolushrakust
+- Asmel Oltakalan
+
+The ettin, Botun Komunaza Sor Loma, has come.  
+
+It's approaching from the northwest entrance, and will pass through the pasture with multiple war dogs first.  The thirty dwarves in squads are assembling in the paddock across from the main gate.  Other civilians have been told to go inside.
+
+This could be a really bad idea...
+
+Wow, it jumped over a wall to attack a pet gander rather then walk 10-15 steps around.  The war dogs were not much use.
+
+Okay, it's been wounded by one of my weapon traps with steel and bronze weapons.  Time to attack it with the marksdwarves.
+
+Oh, nevermind, it bled out.
+
+## Autumn 411
+
+Forty dwarves are now in militia squads.
+
+More migrants arrived:
+
+- Etur Uzoluvar
+- Stukos Rikkirzas 
+- Muthkat Endokbabin 
+- Onul Tulongeshud
+
+No relatives or relations with those already in Uzol Og.
+
+We have a mayor now, Rigoth Idromid, who likes to mandate that greaves be made.
+
+## Spring 412
+
+No grizzly bears in the elven caravan this year.
+
+Somehow, Feb Kubuksebir has perished in the temple.  Not sure what happened other then old age or failing to apply for citizenship.
+
+New migrants:
+
+- Aban Muzishmeng
+- Kol Nileszefon
+- Risen Daturathel
+- Mistem Zatthudber
+- Lorbam Likottoltot
+
+Brings the population up to sixty-three.
+
+## Autumn 412
+
+A single migrant, Thob Erushsod, arrives.  And gets drafted instantly into a militia squad (now 55 dwarves across 6 squads).
+
+Setting up my archery targets down in the depths near the magma forges.  I always set them up on single-tile wide "lanes" with open ground between them.  On the level below, I have a stockpile that will catch the metal bolts that miss.  These can be recycled into more bolts, saving me 50-90% of the metal I would need over the long term.
+
+Raising population cap to 75.  I need more haulers to get the stuff to the trade depot stockpiles.
+
+Two new migrants have arrived:
+
+- Kivish Gembishamost
+- Ingiz Orstistbomrek
+
+Starting a library named "The Tired Sandaled Library".
+
+## Winter 412
+
+Kicking the population cap up to 95.  I think my next fortress is going to make even less use of bins and might be only a 2x2 embark.
+
+Oh dear... Tirist Towercopper, being the rightful heir, has inherited the position of king of The Dreamy Wall.  He's one of the early migrants, arriving in the [year 397]({{ site.baseurl }}{% post_url 2017/2017-10-14-df43-TeyoAsada-397 %}).
+
+Ergh, this king wants large gems made.
+
+Oh, maybe...
+
+> As of 43.03, you can direct your dwarves to cut shell, horn and ivory into a large gem. This can be done at a craftsdwarf's workshop.
+
+I need to figure out how to bring magma up to the surface.  This set of workshops that is 145+ levels below the surface is a bit of a FPS and efficiency killer.
+
+Deduk Tegirerith, countess consort of Blunthatchet, wishes to become a citizen for the purpose of study.  For the first year or two after approving the petition, I don't think I can assign her any labors.
