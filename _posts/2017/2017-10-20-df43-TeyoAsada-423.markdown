@@ -1,13 +1,18 @@
 ---
 layout: post
 title: 'DF 0.43: Teyo Asada (423-) Logemsamam'
-date: '2017-10-16T21:19:00.000-04:00'
+date: '2017-10-20T21:41:00.000-04:00'
 author: Wuphon's Reach
 category:
 - DwarfFortress
 tags:
 - DF0.43
 - Teyo Asada
+
+gallerymap1:
+  - image_path: /imgs/df/TeyoAsada/armok-vision-00423.jpg
+    alt: "DF2014: Teyo Asada (423) Armok Vision of Entrance"
+    url: /imgs/df/TeyoAsada/armok-vision-00423.jpg
 
 ---
 
@@ -39,4 +44,26 @@ Couples:
 - Edem Abirfikod (husband) / Aban Sedurushat (wife), with two daughters (Kib and Tobul) and one son (Bembul)
 - Kivish Gembishamost (husband) / Erush Alakfikod (wife), with one daughter (Cog)
 - Thob Inethdodok (female) / Erith Vucarziril (female)
+
+#### Overview of walls
+
+{% include gallery id="gallerymap1" %}
+
+As can be seen, there is still a lot of above ground work to be done on the walls.  For the outer walls, I'm allowing 11 open squares between the map edge and the wall.  The inner five squares will be covered by the road to prevent trees from growing up.  It also provides a road around the site for caravans to get to the two primary entrances.
+
+There will be one entrance as the northwest corner and one at the southeast corner.  Raising bridges will act as the gates for those two locations.  I may eventually put bridges at the other two corners.
+
+The river has been floored over to prevent something from swimming under the wall via the river channel.  All bridges going over the river inside the wall will be raising bridges that retract to the north.  That area south of the river is going to be kind of an outer courtyard.
+
+The outer wall is planned to be 3-4 Z levels tall.  The interior is 2-tiles wide, and the level above ground level will have shooting fortifications.  It's not ideal that shooting galleries are two-tiles wide (novice marksdwarves won't shoot), but it makes it easier for dwarves to move around up there.
+
+The outer wall will not be considered "secure" territory.  It's there so that marksdwarves can get a vantage point to shoot down on enemy armies.  The wall section south of the river will be separate from north of the river.  This is because the area south of the river may become the "kill-box" for invading armies.  (Lure them in, shut the gates.)
+
+I've started on the marksdwarf training range (just east of the main tunnel entrance) and I may even force invaders to path underneath it.  Otherwise it will be setup so that dwarves in the training area can see the main entrance.
+
+
+
+
+
+
 
