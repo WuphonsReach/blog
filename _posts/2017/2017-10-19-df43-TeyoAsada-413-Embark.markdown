@@ -162,3 +162,5 @@ All six are competent or better dodgers, but the armor user skill is taking a wh
 Erush Alakfikod gave birth to a girl, Cog Ustutheral.  The father is Kivish Gembishamost.
 
 Tobul Tadiokum will grow up soon to be a peasant.  That brings us to fifteen working dwarves, plus the dwarven baby.
+
+### [Next Page]({{ site.baseurl }}{% post_url 2017/2017-10-20-df43-TeyoAsada-423 %})

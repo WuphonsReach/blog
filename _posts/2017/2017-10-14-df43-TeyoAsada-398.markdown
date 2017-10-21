@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DF 0.43: Teyo Asada (398)'
+title: 'DF 0.43: Teyo Asada (398) Uzol Og'
 date: '2017-10-14T14:06:00.000-04:00'
 author: Wuphon's Reach
 category:
@@ -31,3 +31,4 @@ Still searching for the actual magma pool.  I'm going to take another peek into 
 
 (FPS has dropped down to about 85 now that all the caverns and magma pool is revealed.)
 
+### [Next Page]({{ site.baseurl }}{% post_url 2017/2017-10-14-df43-TeyoAsada-399 %})

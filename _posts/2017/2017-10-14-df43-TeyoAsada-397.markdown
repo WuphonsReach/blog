@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DF 0.43: Teyo Asada (397)'
+title: 'DF 0.43: Teyo Asada (397) Uzol Og'
 date: '2017-10-14T08:40:00.000-04:00'
 author: Wuphon's Reach
 category:
@@ -59,3 +59,5 @@ This uniform is not great protection, but it serves well enough for now and shou
 As I build up stocks of leather and copper bars, I plan on drafting the rest of the dwarves (except for woodcutters, miners and hunters) into militia squads.
 
 No news from the dwarven liason this year.  So I'm not sure how the two new sites are faring.
+
+### [Next Page]({{ site.baseurl }}{% post_url 2017/2017-10-14-df43-TeyoAsada-398 %})

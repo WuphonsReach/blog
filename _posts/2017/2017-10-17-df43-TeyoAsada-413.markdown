@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DF 0.43: Teyo Asada (413-)'
+title: 'DF 0.43: Teyo Asada (413) Uzol Og'
 date: '2017-10-17T22:19:00.000-04:00'
 author: Wuphon's Reach
 category:
@@ -125,3 +125,5 @@ A single migrant, Shem Eribnicat, has arrived.  Another refugee from The Square 
 ## Autumn 413
 
 Eh, I'm going to retire this fort and embark again.
+
+### [Next Page]({{ site.baseurl }}{% post_url 2017/2017-10-19-df43-TeyoAsada-413-Embark %})

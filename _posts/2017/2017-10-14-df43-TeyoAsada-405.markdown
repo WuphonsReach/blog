@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DF 0.43: Teyo Asada (405-408)'
+title: 'DF 0.43: Teyo Asada (405-408) Uzol Og'
 date: '2017-10-15T15:30:00.000-04:00'
 author: Wuphon's Reach
 category:
@@ -116,3 +116,5 @@ The first six temples have been created, with a silver statue in each related to
 The dwarf, Ilral Kolangen, has been appointed as the baroness of Oil of Clubs.  She's now demanding her rooms be prepared.
 
 Now that we have a baroness, the humans are meeting with us.  Puti Isacsina, the human law-giver is meeting with Ilral.  Puti vomits a huge pile of updates at us (multiple pages).  I'm not going to list all that out except to note that the humans and goblins are at war.
+
+### [Next Page]({{ site.baseurl }}{% post_url 2017/2017-10-16-df43-TeyoAsada-408 %})

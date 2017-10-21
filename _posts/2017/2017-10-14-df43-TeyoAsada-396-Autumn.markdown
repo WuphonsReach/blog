@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DF 0.43: Teyo Asada (396) Autumn'
+title: 'DF 0.43: Teyo Asada (396) Uzol Og Autumn'
 date: '2017-10-14T06:25:00.000-04:00'
 author: Wuphon's Reach
 category:
@@ -49,3 +49,4 @@ Three more dwarves have arrived on the 9th of Sandstone (month 8).
 - Tholtig Atheldakas (niece of Ilral)
 - Ilral Kekimber (wife of Tun, niece of Asen Lertethvutok)
 
+### [Next Page]({{ site.baseurl }}{% post_url 2017/2017-10-14-df43-TeyoAsada-397 %})

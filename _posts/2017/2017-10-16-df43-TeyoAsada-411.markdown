@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DF 0.43: Teyo Asada (411-412)'
+title: 'DF 0.43: Teyo Asada (411-412) Uzol Og'
 date: '2017-10-16T21:19:00.000-04:00'
 author: Wuphon's Reach
 category:
@@ -123,3 +123,5 @@ Oh, maybe...
 I need to figure out how to bring magma up to the surface.  This set of workshops that is 145+ levels below the surface is a bit of a FPS and efficiency killer.
 
 Deduk Tegirerith, countess consort of Blunthatchet, wishes to become a citizen for the purpose of study.  For the first year or two after approving the petition, I don't think I can assign her any labors.
+
+### [Next Page]({{ site.baseurl }}{% post_url 2017/2017-10-17-df43-TeyoAsada-413 %})

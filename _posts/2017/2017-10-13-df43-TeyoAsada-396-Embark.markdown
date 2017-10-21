@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DF 0.43: Teyo Asada (396) Embark'
+title: 'DF 0.43: Teyo Asada (396) Uzol Og Embark'
 date: '2017-10-13T22:41:00.000-04:00'
 author: Wuphon's Reach
 category:
@@ -113,3 +113,5 @@ Migrants so far:
 - Sakzul Tathtatzaneg, wood burner
 - Tirist Urdimgusil, recruit
 - Kikrost Kiravucar, baby
+
+### [Next Page]({{ site.baseurl }}{% post_url 2017/2017-10-14-df43-TeyoAsada-396-Autumn %})

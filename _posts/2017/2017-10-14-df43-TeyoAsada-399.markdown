@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DF 0.43: Teyo Asada (399)'
+title: 'DF 0.43: Teyo Asada (399) Uzol Og'
 date: '2017-10-14T16:27:00.000-04:00'
 author: Wuphon's Reach
 category:
@@ -44,3 +44,5 @@ The liason brings news.
 Oarrein, reclaimed by The Clear Bodices (leader Arceth Imagerivers, mayor Ratha Chilledsour).
 
 The mass-slaughter of animals has started.  It will probably take 2-3 years to catch up.
+
+### [Next Page]({{ site.baseurl }}{% post_url 2017/2017-10-14-df43-TeyoAsada-400 %})

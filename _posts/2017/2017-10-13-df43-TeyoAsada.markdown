@@ -98,3 +98,4 @@ The king is currently Urdim Shipstrong (living in Paintedname), born 262, became
 
 See [the list of dieties]({{ site.baseurl }}{% post_url 2017/2017-10-13-df43-TeyoAsada-Dieties %}) in Teyo Asada.
 
+### [Next Page]({{ site.baseurl }}{% post_url 2017/2017-10-13-df43-TeyoAsada-396-Embark %})

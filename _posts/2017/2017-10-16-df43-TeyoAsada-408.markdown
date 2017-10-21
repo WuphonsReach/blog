@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DF 0.43: Teyo Asada (408-410)'
+title: 'DF 0.43: Teyo Asada (408-410) Uzol Og'
 date: '2017-10-16T10:19:00.000-04:00'
 author: Wuphon's Reach
 category:
@@ -145,3 +145,5 @@ It's a very big family.  The brother, Atir, is a macedwarf that is visiting The 
 #### Stinthad Morulsefol (civilian)
 
 Also arrived on the 24th of Granite, 409.  No family or friends that I can find.
+
+### [Next Page]({{ site.baseurl }}{% post_url 2017/2017-10-16-df43-TeyoAsada-411 %})
