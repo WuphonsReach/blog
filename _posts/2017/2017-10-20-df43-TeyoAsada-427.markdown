@@ -1,0 +1,81 @@
+---
+layout: post
+title: 'DF 0.43: Teyo Asada (427-) Logemsamam'
+date: '2017-10-21T12:30:00.000-04:00'
+author: Wuphon's Reach
+category:
+- DwarfFortress
+tags:
+- DF0.43
+- Teyo Asada
+
+gallerymap1:
+  - image_path: /imgs/df/TeyoAsada/armok-vision-00427.jpg
+    alt: "DF2014: Teyo Asada (427) Armok Vision of Entrance"
+    url: /imgs/df/TeyoAsada/armok-vision-00427.jpg
+
+---
+
+## Spring 427
+
+The first migrants in over ten years have arrived after we sent word to the mountainhomes that we were accepting applicants.
+
+- Dastot Logemkoman (M, age 95), left his lover, Ilral Kolangen behind
+- Aban Muzishmeng (M, age 76), migrated with his wife, Tosid
+- Onol Odasen (M, age 112), migrated without his wife, Led Shembomrek
+- Urvad Eteserith (M, age 99), migrated with his wife, Atis
+- Atis Zefonducim (F, 88), migrated with husband, Urvad
+- Aban Lertethvabok (F, 47)
+- Sigun Nethrimtar (M, 136), heir to the throne after his brother
+- Tosid Athelnosim (F, 80), migrated with husband, Aban
+
+Aban is going to be drafted, she has dabbling armor skills.  Sigun will be drafted as well, for his own protection.  Both will be assigned a war grizzly bear right away.
+
+My dfHack `autobutcher` counts for grizzly bears are - 8 male cubs, 8 female cubs, 10 adult females and 25 adult males.  If there's something I want an excess of running around, it's domesticated grizzly bears.
+
+Raising the population cap above 20 also means I start getting strange moods in the fort.  Etur Uzoluvar is the first, given that she claimed a leather workshop, I'm not hopeful.  Oh joy, a cougar leather face veil.
+
+## Summer 427
+
+More migrants, two couples:
+
+- Kol Nileszefon
+- Momuz Dishmabtomus (wife of Kib)
+- Bembul Dakostalis (husband of Logem)
+- Dastot Dastfeb
+- Tirist Zaludushat
+- Kib Kilrudzaled (husband of Momuz)
+- Logem Sebsuradil (wife of Bembul)
+- Aban Mezumustuth
+- Moldath Berbesmar
+
+Erush Alakfikod has claimed a glass furnace for her mood.
+
+## Autumn 427
+
+More migrants:
+
+- Athel Othsincatten
+- Dastot Emosus
+- Momuz Sedurkogan
+- Rigoth Oslaneral
+- Obok Nomallest
+- Tekkud Unalbomrek
+- Thob Lolokashok
+
+Interesting, these have no previous relationships.
+
+## Winter 427
+
+Atis Zefonducim (wife of Urvad Eteserith) gave birth to a baby girl, Momuz Uristorstist.
+
+{% include gallery id="gallerymap1" %}
+
+There are now only four shooting galleries for archery practice.  For maximum bolt recovery, lanes should be 20-25 tiles long (up to 30) and at least 2 tiles between them, but three or four would be better.  There is a bolt stockpile on the next layer down that only takes from links and does not have any bins assigned.  Any bolts that miss the targets will hit the back/side walls and fall down into the stockpile.
+
+Since bolts, when melted, are a 250% return on materials, melting down the single bolts can be a way to extend the amount of metal bars that you have.  You'll come out way ahead when your marksdwarves are poor shooters, but once they skill up you will start to lose bars (even with recycling).
+
+
+
+
+

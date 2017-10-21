@@ -65,11 +65,16 @@ I've started on the marksdwarf training range (just east of the main tunnel entr
 
 Erush Alakfikod has given birth to a boy, Erib Libadmeng.  This is the couple's second child within the past few years.
 
+## Winter 424
 
+Bumbul (sone of Edem and Aban) has been killed in a construction accident.  He was helping to assist in building a hospital for the fortress when he fell to his death.  Efforts were made to recover and save him, but the doctors were not fast enough.
 
+A slab will be engraved in his honor and placed at the entrance to the hospital.
 
+## Winter 426
 
+At this point, I think I have enough war trained grizzly bears running around to deal with most issues, and I need the dwarf-power.
 
+Raising the population cap to 35.  After thirteen years, I'm not sure who we'll get as migrants.
 
-
-
+### [Next Page]({{ site.baseurl }}{% post_url 2017/2017-10-20-df43-TeyoAsada-427 %})
