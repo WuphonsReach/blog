@@ -1,0 +1,54 @@
+---
+layout: post
+title: 'DF 0.43: Militia and Guard Uniforms'
+date: '2017-10-22T07:26:00.000-04:00'
+author: Wuphon's Reach
+category:
+- DwarfFortress
+tags:
+- DF0.43
+- Teyo Asada
+
+---
+
+## Royal Guard Uniform
+
+The "Royal Guard" squad has been promoted to all steel and silk armor.  Naturally, this makes them a bit slow at moving around.  Here's the uniform:
+
+- (19u) steel mail shirts
+- (16u) steel breastplates
+- (3u) 3x silk cloaks
+- (7u) steel helms
+- (<1u) 3x silk hoods
+- (1u) silk trousers
+- (22u) steel greaves
+- (<1u) silk gloves
+- (2u) steel gauntlets
+- (6u) steel high boots
+- (<1u) wood shields
+- (3u) steel crossbows
+
+Plus the extras that they carry:
+
+- (6u) quiver with 25-50 bolts, each bolt is 1u
+- (8u) flask
+
+That gives a Royal Guard uniform weight of 121u to 146u.
+
+## Militia Uniform
+
+Compare that to the new militia uniform:
+
+- (2u-8u) 2x cloaks (leather 1u, cloth 4u)
+- (7u) metal helms
+- (<1u) 2x hoods
+- (1u) trousers
+- (1u) leather armor
+- (1u) leather leggings
+- (<1u) gloves
+- (2u) metal gauntlets
+- (6u) metal high boots
+- (<1u) wood shields
+- (3u) copper crossbows
+
+Which is only a Militia uniform weight of 64u, up to 93u.  If I prevent them from carrying flasks, I save up to 8u of weight.  Limiting them to leather or silk cloaks would save another 6u of weight.

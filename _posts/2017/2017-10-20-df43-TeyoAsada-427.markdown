@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DF 0.43: Teyo Asada (427-) Logemsamam'
+title: 'DF 0.43: Teyo Asada (427-429) Logemsamam'
 date: '2017-10-21T12:30:00.000-04:00'
 author: Wuphon's Reach
 category:
@@ -101,4 +101,34 @@ Migrants:
 
 Nothing special about these three in terms of relations.
 
+## Autumn 428
 
+The liaison has asked us for a baron recommendation.  [As I thought about previously]({{ site.baseurl }}{% post_url 2017/2017-10-19-df43-TeyoAsada-413-Embark %}), the baroness will be Kib Amuddakost.
+
+Aban Mezumustuth has been appointed to mayor of Logemsamam and will need lodgings.  I already had the mayoral quarters created in the light well area (5x5 rooms), so that is easily taken care of.  I also want to give them a tomb down in the depths, but those are not dug out yet.
+
+## Spring 429
+
+Thikut Osirkonos is now the mayor, ousting Aban Mezumustuth.  Kib Amuddakost has been confirmed as the baroness of Logemsamam.
+
+The "Royal Guard" squad has been promoted to all [steel and silk armor]({% post_url 2017/2017-10-22-df43-Uniforms %}).  Naturally, this makes them a bit slow.  I've also [redesigned the militia uniform to be lighter]({% post_url 2017/2017-10-22-df43-Uniforms %}).
+
+The mayor, Thikut, wants crowns.  He's going to be dissapointed.  Kib, the baroness, wants windows.  She will get her wish because I can just put "create 3 glass windows per month" in the job manager and someone will make them every month.
+
+I'm sad, the war-trained grizzly bears are not standing up to the were-beasts that show up once or twice per year.  They are good for delaying actions, but I lose 2-4 bears per visit.
+
+## Summer 429
+
+Building out 1-tile wide walls on upper levels, with no floors on either side is tedious.  Maybe Toady will add the ability for dwarves to use step ladders to reach up to two tiles above the ground when constructing.
+
+The only upside is that I'm building 3 section of wall at the same time, so I can specify 3 blocks at a time, then wait for all three to be completed.
+
+The human diplomat is Gogol Radiobler.  Since this is the first year that we have a baroness, we get a wall of text.
+
+## Autumn 429
+
+We have been elevated to a duchy.
+
+The dwarven caravan has arrived, time to dump all of the excess eggs and other junk that has accumulated over the past year.  Plus lots of glass toys and trap components so that I can buy out all their steel, iron, bronze and gold/silver (in that order).
+
+### [Next Story Year]({{ site.baseurl }}{% post_url 2017/2017-10-20-df43-TeyoAsada-430 %})

@@ -117,4 +117,4 @@ The dwarf, Ilral Kolangen, has been appointed as the baroness of Oil of Clubs.  
 
 Now that we have a baroness, the humans are meeting with us.  Puti Isacsina, the human law-giver is meeting with Ilral.  Puti vomits a huge pile of updates at us (multiple pages).  I'm not going to list all that out except to note that the humans and goblins are at war.
 
-### [Next Page]({{ site.baseurl }}{% post_url 2017/2017-10-16-df43-TeyoAsada-408 %})
+### [Next Story Year]({{ site.baseurl }}{% post_url 2017/2017-10-16-df43-TeyoAsada-408 %})

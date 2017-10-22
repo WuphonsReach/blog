@@ -114,4 +114,4 @@ Migrants so far:
 - Tirist Urdimgusil, recruit
 - Kikrost Kiravucar, baby
 
-### [Next Page]({{ site.baseurl }}{% post_url 2017/2017-10-14-df43-TeyoAsada-396-Autumn %})
+### [Next Story Year]({{ site.baseurl }}{% post_url 2017/2017-10-14-df43-TeyoAsada-396-Autumn %})

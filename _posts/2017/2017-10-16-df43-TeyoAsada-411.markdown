@@ -124,4 +124,4 @@ I need to figure out how to bring magma up to the surface.  This set of workshop
 
 Deduk Tegirerith, countess consort of Blunthatchet, wishes to become a citizen for the purpose of study.  For the first year or two after approving the petition, I don't think I can assign her any labors.
 
-### [Next Page]({{ site.baseurl }}{% post_url 2017/2017-10-17-df43-TeyoAsada-413 %})
+### [Next Story Year]({{ site.baseurl }}{% post_url 2017/2017-10-17-df43-TeyoAsada-413 %})

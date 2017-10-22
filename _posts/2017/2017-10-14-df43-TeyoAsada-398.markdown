@@ -31,4 +31,4 @@ Still searching for the actual magma pool.  I'm going to take another peek into 
 
 (FPS has dropped down to about 85 now that all the caverns and magma pool is revealed.)
 
-### [Next Page]({{ site.baseurl }}{% post_url 2017/2017-10-14-df43-TeyoAsada-399 %})
+### [Next Story Year]({{ site.baseurl }}{% post_url 2017/2017-10-14-df43-TeyoAsada-399 %})

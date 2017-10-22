@@ -165,4 +165,4 @@ Work continues on the various industries, setting up the soap production chain h
 
 The forgotten beast, Ngopex, has come.  This one has deadly vapors, which is always a source of fun.
 
-### [Next Page]({{ site.baseurl }}{% post_url 2017/2017-10-14-df43-TeyoAsada-405 %})
+### [Next Story Year]({{ site.baseurl }}{% post_url 2017/2017-10-14-df43-TeyoAsada-405 %})

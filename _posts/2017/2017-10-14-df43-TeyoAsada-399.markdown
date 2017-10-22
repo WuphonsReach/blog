@@ -45,4 +45,4 @@ Oarrein, reclaimed by The Clear Bodices (leader Arceth Imagerivers, mayor Ratha 
 
 The mass-slaughter of animals has started.  It will probably take 2-3 years to catch up.
 
-### [Next Page]({{ site.baseurl }}{% post_url 2017/2017-10-14-df43-TeyoAsada-400 %})
+### [Next Story Year]({{ site.baseurl }}{% post_url 2017/2017-10-14-df43-TeyoAsada-400 %})

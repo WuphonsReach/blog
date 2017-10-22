@@ -126,4 +126,4 @@ A single migrant, Shem Eribnicat, has arrived.  Another refugee from The Square 
 
 Eh, I'm going to retire this fort and embark again.
 
-### [Next Page]({{ site.baseurl }}{% post_url 2017/2017-10-19-df43-TeyoAsada-413-Embark %})
+### [Next Story Year]({{ site.baseurl }}{% post_url 2017/2017-10-19-df43-TeyoAsada-413-Embark %})

@@ -49,4 +49,4 @@ Three more dwarves have arrived on the 9th of Sandstone (month 8).
 - Tholtig Atheldakas (niece of Ilral)
 - Ilral Kekimber (wife of Tun, niece of Asen Lertethvutok)
 
-### [Next Page]({{ site.baseurl }}{% post_url 2017/2017-10-14-df43-TeyoAsada-397 %})
+### [Next Story Year]({{ site.baseurl }}{% post_url 2017/2017-10-14-df43-TeyoAsada-397 %})
