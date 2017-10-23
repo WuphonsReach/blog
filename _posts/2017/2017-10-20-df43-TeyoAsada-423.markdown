@@ -77,4 +77,4 @@ At this point, I think I have enough war trained grizzly bears running around to
 
 Raising the population cap to 35.  After thirteen years, I'm not sure who we'll get as migrants.
 
-### [Next Story Year]({{ site.baseurl }}{% post_url 2017/2017-10-20-df43-TeyoAsada-427 %})
+### [Next Story Year]({{ site.baseurl }}{% post_url 2017/2017-10-21-df43-TeyoAsada-427 %})

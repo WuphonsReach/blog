@@ -1,0 +1,126 @@
+---
+layout: post
+title: 'DF 0.43: Teyo Asada (430-) Logemsamam'
+date: '2017-10-22T11:06:00.000-04:00'
+author: Wuphon's Reach
+category:
+- DwarfFortress
+tags:
+- DF0.43
+- Teyo Asada
+
+gallerymap1:
+  - image_path: /imgs/df/TeyoAsada/memorial-Dastot-Logemkoman.png
+    alt: "DF2014: Teyo Asada (430) Dastot Logemkoman Memorial"
+    url: /imgs/df/TeyoAsada/memorial-Dastot-Logemkoman.png
+
+---
+
+## Spring 430
+
+First birth of the new decade is by Amost Morullolok (husband: Mezbuth Rithneth), a daughter named Kumil Degonul.
+
+The elven diplomat is Enina Inirenisa.
+
+## Summer 430
+
+A were-panda rampaged through the entrance area, killing off six war grizzlies and a bunch of war dogs.  It took forever to turn back to normal.  On the upside, it cleaned out my bird explosion.  right now, I just burrow away the dwarves when one of these were-things comes visiting, and only go after it once it has converted back.
+
+The human diplomat is currently Gogol Radiobler (law-giver) from Gil Gocta.
+
+#### 28th Malachite Mining Accident
+
+Two miners were caught in a cave-in, on the 28th of Malachite, while digging out the light-well for a trade depot deep down.  Lokum Muthkatedan and Dastot Logemkoman were involved in the accident.  Dastot was struck in the neck by a piece of diorite and "the injured part explodes into gore".  Lokum looks to be injured in the left hand and arm along with the right lower leg.
+
+I do have a pair of level 5 (proficient) diagnosticians in the fortress.  Dastot Esmosus and Kib Kilrudzaled.  Kib gets appointed to be the Chief Medical Dwarf (replacing Stukos Amostuzol who was holding down multiple positions).  Both of them have been relieved of almost all hauling duties (except for food and trade goods).
+
+Rigoth Oslaneral and Aban Muzishmeng were dispatched to recover the wounded miners from the accident site.  Both miners were in bed within one day of the accident but Dastot expired in the hospital before treatment could begin.
+
+R.I.P. Dastot Logemkoman, migrated in 427 and felled in 430.  He was the lover of Ilral Kolangen in Uzol Og.  Ilral was the baroness / duchess when last we checked.
+
+{% include gallery id="gallerymap1" %}
+
+Note: This font is Vector_square_48x72.png
+
+Lokum Muthkatedan is being diagnosed by Kib.  Lokum (female) has a lover, Melbil Bomrekuvel (male).  Both came to the fortress in 413.
+
+Lokum's injuries are:
+
+- right lower leg, bone fracture
+- left lower arm, smashed apart
+
+There's a steady stream of specialists setting bones, suturing, dressing wounds to Lokum's bedside.  It's been about 6 days since the accident and she hasn't perished yet.  She was placed in a traction bench on the 3rd of Galena.
+
+Feeding and watering of the wounded is working out.  She's also being evaluated nearly daily by either Kib or Dastot.  Kib is being especially fussy on the 13th of Galena, repeatedly doing a diagnose patient.  (Kib gets XP every time she does this, so I'm not going to interfere.  Kib is almost to level 6.)  There's nothing else to do in terms of treatment until Lokum comes out of traction.
+
+Time to tend to the demands of the duchess, Kib Amuddakost (a different Kib).  She wants better lodgings, more chests, more weapon and armor racks, etc.
+
+18th Galena, Lokum is up and walking around.  She still has casts on, but is walking around without a crutch.
+
+## Autumn 430
+
+#### Metal bar inventory:
+
+- 564 copper
+- 146 bizmuth bronze
+- 172 bronze
+- 328 iron
+- 252 steel
+
+#### Decorative metal bars:
+
+- 608 silver
+- 1104 lead
+- 329 zinc
+- 58 tin
+
+Not sure what I'll do with all that lead.  Probably make something out of it that can be traded away to the caravans.  The tin can be combined with copper to create bronze.
+
+#### Forge Workshop Orders:
+
+- silver chain (5 per month, max 50, as long as we have 100+ silver)
+- silver bucket (5 per month, max 50, as long 100+ silver)
+
+Chains (Metalcrafter) and buckets (Blacksmith) can both be melted back down for 100% return on bars.  So they are good for queuing up in a way that workers will continue to churn them out (at most 5 per month).  It's hard to train up metalcrafters and blacksmiths, so you don't want their skills to go rusty.
+
+It's the same reason that I will make up to 25 steel picks and 25 steel war hammers.  Both melt down for 120% and both weapon types are very useful.  Those particular jobs will repeat daily as long as I have less than 25 made and at least 150 steel bars.  These jobs train up weaponsmiths without much risk of running out of metals.
+
+Metal bolts get made on the following conditions.  All of these conditions have 250 bolts (of metal type) as a limit.
+
+- Copper, 100+ bars
+- Bronze, 150+ bars
+- Bizmuth Bronze, 100+ bars
+- Iron, 250+ bars
+- Steel, 500+ bars
+
+For armor, gauntlets and high boots are both profitable to make, with melt returns of 120%.  Since I usually need dozens of those and would prefer masterpieces, I will make 25 of each as long as I have at least 100+ of that type of metal bar (bronze or steel).  This uses the armorsmith skill.
+
+Anything that isn't masterpiece or exceptional will get melted down on a seasonal basis.  Exceptional items get melted down whenever I feel like everyone is fitted out with masterpiece armor.
+
+## Winter 430
+
+Time to dig through the dwarf roster and see if there are any dwarves that I can add to squads.
+
+- Dastot Dastfeb, level 4 armor skill
+
+The Royal Guard squad is taking forever to train up armor skills, so they move like molasses in Moonstone.  I think this comes from them having crossbows in the uniform, so they spend their time learning archery instead of sparring.  I'm going to assign them steel war hammers.
+
+We'll see if that leads to sparring over the winter training months.
+
+Right now, I have 3 full squads of militia, plus a full squad of the Royal Guard.
+
+#### Winter births
+
+Logem Sebsuradil (wife of Bembul Dakostalis) has given birth to a daughter, Zulgar Gatizkeskal.  Atis Zefonducim (wife of Urvad Eteserith) has given birth to a duaghter, Mistem Astodthikut.  This is their third daughter.  
+
+Both couples were part of the [(427]{{ site.baseurl }}{% post_url 2017/2017-10-21-df43-TeyoAsada-427 %}) migration waves.
+
+Uh oh, Kivish Gembishamost has been stricken with melancholy.  He's wandering around the fortress, dehydrated.  He's the husband of Erush Alakfikod and father of Erib Libadmeng (son) and Cog Ustutheral (daughter).  He'll pass away in about a month.
+
+I think I had a failed strange mood.
+
+And now Kib Amuddakost, the duchess, has claimed a leather works.  I'm sure it will be some trivial bauble, but the fact that she grabbed rock and logs gives me a small hope.  
+
+Oh nice, she created Dudgothinstol, dog leather armor.
+
+### [Next Story Year]({{ site.baseurl }}{% post_url 2017/2017-10-22-df43-TeyoAsada-430 %})

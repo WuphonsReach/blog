@@ -131,4 +131,4 @@ We have been elevated to a duchy.
 
 The dwarven caravan has arrived, time to dump all of the excess eggs and other junk that has accumulated over the past year.  Plus lots of glass toys and trap components so that I can buy out all their steel, iron, bronze and gold/silver (in that order).
 
-### [Next Story Year]({{ site.baseurl }}{% post_url 2017/2017-10-20-df43-TeyoAsada-430 %})
+### [Next Story Year]({{ site.baseurl }}{% post_url 2017/2017-10-22-df43-TeyoAsada-430 %})
