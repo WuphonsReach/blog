@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DF 0.43: Teyo Asada (430-) Logemsamam'
+title: 'DF 0.43: Teyo Asada (430) Logemsamam'
 date: '2017-10-22T11:06:00.000-04:00'
 author: Wuphon's Reach
 category:
@@ -113,7 +113,7 @@ Right now, I have 3 full squads of militia, plus a full squad of the Royal Guard
 
 Logem Sebsuradil (wife of Bembul Dakostalis) has given birth to a daughter, Zulgar Gatizkeskal.  Atis Zefonducim (wife of Urvad Eteserith) has given birth to a duaghter, Mistem Astodthikut.  This is their third daughter.  
 
-Both couples were part of the [(427]{{ site.baseurl }}{% post_url 2017/2017-10-21-df43-TeyoAsada-427 %}) migration waves.
+Both couples were part of the [427]({{ site.baseurl }}{% post_url 2017/2017-10-21-df43-TeyoAsada-427 %}) migration waves.
 
 Uh oh, Kivish Gembishamost has been stricken with melancholy.  He's wandering around the fortress, dehydrated.  He's the husband of Erush Alakfikod and father of Erib Libadmeng (son) and Cog Ustutheral (daughter).  He'll pass away in about a month.
 
@@ -123,4 +123,4 @@ And now Kib Amuddakost, the duchess, has claimed a leather works.  I'm sure it w
 
 Oh nice, she created Dudgothinstol, dog leather armor.
 
-### [Next Story Year]({{ site.baseurl }}{% post_url 2017/2017-10-22-df43-TeyoAsada-430 %})
+### [Next Story Year]({{ site.baseurl }}{% post_url 2017/2017-10-22-df43-TeyoAsada-431 %})

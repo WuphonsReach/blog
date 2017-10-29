@@ -1,0 +1,117 @@
+---
+layout: post
+title: 'DF 0.43: Teyo Asada (450-) XXXXX'
+date: '2017-10-28T16:52:00.000-04:00'
+author: Wuphon's Reach
+category:
+- DwarfFortress
+tags:
+- DF0.43
+- Teyo Asada
+
+gallery1:
+  - image_path: /imgs/df/TeyoAsada/armok-vision-00453.jpg
+    alt: "DF2014: Teyo Asada (435) Dumaterith Armok Vision"
+    url: /imgs/df/TeyoAsada/armok-vision-00453.jpg
+
+gallery2:
+  - image_path: /imgs/df/TeyoAsada/front-entrance-453.jpg
+    alt: "DF2014: Teyo Asada (435) Dumaterith Main Entrance"
+    url: /imgs/df/TeyoAsada/front-entrance-453.jpg
+
+---
+
+## Summer 450
+
+While still at 18 dwarves, it is time to take stock of the fortress population and start thinking about ranged and melee militias. And other military matters.
+
+#### Mountainous Funerals (Royal Guard, War Hammers)
+
+The Royal Guard uniform is full steel, plus steel weapon, wooden shield, and silk under/over garments (3 cloaks, 3 hoods, tunic, trousers, gloves).
+
+- Zefon Ducimlinem
+- Ineth Kadoldodok
+- Eshtan Ushuldumat
+
+#### Hills of Mourning (melee training)
+
+The Hills of Mourning is a lightweight melee militia uniform with just a few metal pieces, leather shaped armor, and two layers of silk.  Dwarves will participate in this squad until they attain enough skill to be promoted to one of the Mountainous squads.
+
+- Inglish Adilzokun
+- Dobar Dakostging
+- Logem Sebsuradil
+- Goden Gamilrakust
+
+#### 1st/2nd Militia (ranged)
+
+The ranged militia all use leather shaped armor, a few metal pieces (helm, gauntlets, high boots) and the rest as whatever.
+
+- Aban Muzishmeng
+- Lor Gongiththikut
+- Bembul Dakostalis
+- Tosid Athelnosim
+- Zulgar Gatizkeskal
+
+#### Others
+
+Miners, woodcutters and hunters do not get assigned to squads.
+
+## Winter 452
+
+Current couples in the fortress:
+
+- Aban Muzishmeng / Tosid Athelnosim
+- Bembul Dakostalis / Logem Sebsuradil
+
+Time to open the floodgates to migrants.  Raising the population cap from 15 to 75 should result in a big migration wave.
+
+I have room right now to build out 72 bedrooms (18 per level, four levels).
+
+## Spring 453
+
+Migrants (brings us to forty dwarves):
+
+- Aban Sedurushat (wife of Edem Abirfikod)
+- Adil Oltaratol (husband of Lorbam Domasardes)
+- Atis Zefonducim (wife of Urvad Eteserith)
+- Cog Ustutheral
+- Dastot Esmosus (wife of Domas Usanerush)
+- Domas Usanerush (husband of Dastot Esmosus)
+- Edem Abirfikod (husband of Aban Sedurushat)
+- Geshud Koganlid (marksdwarf)
+- Led Shembomrek (wife of Onol Odasen )
+- Lokum Muthkatedan (wife of Melbil Bomrekuvel)
+- Lorbam Domasardes (marksdwarf, wife of Adil Oltaratol)
+- Melbil Bomrekuvel (husband of Lokum Muthkatedan)
+- Morul Vabokegul (marksdwarf, wife of Zefon Nazomdodok)
+- Nish Isulakrul (marksdwarf)
+- Onol Odasen (husband of Led Shembomrek)
+- Sigun Nethrimtar (fighter, melee)
+- Urvad Athellasgan (wife of Zuglar Kibromek)
+- Urvad Eteserith (melee, husband of Atis Zefonducim)
+- Zefon Melbilrab
+- Zefon Nazomdodok (marksdwarf, husband of Morul Vabokegul)
+- Zulgar Kibromek (husband of Urvad Athellasgan)
+
+Note: Sigun Nethrimtar is a close relative of the king, Tirist Urdimgusil.  At 164 years old, he will probably pass away soon.
+
+Possible barons:
+
+- Lor Gongiththikut (no item prefs)
+- Zulgar Gatizkeskal (gauntless, only age 23)
+
+## Summer 453
+
+{% include gallery id="gallery1" %}
+
+Current view of the fortress in Armok Vision.  The smaller 3-tile wide bridge on the right is the original entrance near where the wagon was.  
+
+The upper fortress has bridges connecting to the south and west "islands" on the embark.  Those bridges span a 25-30 tile drop to the river down in the chasm.  I went with five tile wide bridges for safety, and the outer tiles are marked as "restricted traffic".
+
+The hill around the upper fortress was flattened a bit and the natural rock walls of the fortress were smoothed to make it difficult or impossible to climb.
+
+{% include gallery id="gallery2" %}
+
+The larger entrance down on the lower plain is the current front gate.  It's not yet a high-security design, but it's a long way back into the mountain to get to the inner fortress.
+
+### [Next Story Year]({{ site.baseurl }}{% post_url 2017/2017-10-28-df43-TeyoAsada-450 %})

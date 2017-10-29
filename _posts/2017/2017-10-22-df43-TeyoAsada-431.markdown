@@ -1,0 +1,104 @@
+---
+layout: post
+title: 'DF 0.43: Teyo Asada (431-435) Logemsamam'
+date: '2017-10-22T22:41:00.000-04:00'
+author: Wuphon's Reach
+category:
+- DwarfFortress
+tags:
+- DF0.43
+- Teyo Asada
+
+gallerymap1:
+  - image_path: /imgs/df/TeyoAsada/armok-vision-00431.jpg
+    alt: "DF2014: Teyo Asada (431) Logemsamam Welcome Party"
+    url: /imgs/df/TeyoAsada/armok-vision-00431.jpg
+
+---
+
+## Spring 431
+
+As you can see, I have a few war-trained grizzly bears and dogs to welcome visitors to Logemsamam.  There are also two birds in nest boxes behind the glass wall above along with a hunting-trained grizzly bear to keep watch.  Supposedly, the hunting-trained animals can see farther.
+
+{% include gallery id="gallerymap1" %}
+
+## Summer 431
+
+News from the humans is that Struslot Blowdreamy replaced her older sister, Ngojo Hopefulblow, as lady of The Band of Confinement.
+
+## Winter 431
+
+Success on the training front.  My Royal Guard squad is sparring.  Hopefully this brings up their armor skill.
+
+## Spring 432
+
+Logem Sebsuradil (wife of Bembul Dakostalis) has given birth to a girl, Goden Gamilrakust.  This is the couple's second child.
+
+## Summer 432
+
+The Library of Courage was dedicated this year.  Our collection of books is only modest, but we have lots of room for growth and learning.
+
+A temple, The Slippery Chapel, was also founded this year.  It is dedicated to the [diety Rodem (rain, nature, sun, fire, metals)]({{ site.baseurl }}{% post_url 2017/2017-10-13-df43-TeyoAsada-Dieties %}).
+
+A pack of rhesus macaques visited the site this year, we hadn't seen any in a while.  They were met by the welcome wagon at the entrance and none made it too far inside.  On such a small embark, a hunter is not worth it, so I just dispatch the militia crossbow squads to kill critters.
+
+## Autumn 432
+
+Once the dwarven caravan is gone, I need to move the trade depot down to the new location in the depths of the fortress.  The ramp to get down there has been dug out and new stockpiles are being prepared to hold trade goods for export.
+
+I'm also preparing two more diety-specific temple areas.  One for Limar and one for Erib the Tower of Fountains.
+
+Temples so far:
+
+- The Chapel of Principles (no diety)
+- The Slippery Chapel (Rodem)
+- The Monestary of Gems (Limar)
+- The Warm Monestary (Erib the Tower of Fountains)
+
+## Autumn 433
+
+Raising the population cap to 75 dwarves.  Let's see if we get any migrants.  Nothing much has been happening in the fortress other then trying to burn down the excess stocks of things and unload them on the caravans.
+
+## Winter 433
+
+Created three more temples:
+
+- The Jade Cathedral (Avuz the Blue Saffron)
+- The Armored Temple (The Help of Gates)
+- The Ochre Sanctuary (Tobul Ochremine)
+
+## Autumn 434
+
+The fortress still has not attracted any migrants.  The dwarven caravan, however, has shown up just fine for the past two years including the liason.  Ah, possibly caused by the `u` screen showing almost 3000 dead units.  There's a dfHack script called `fix/dead-units` which will clear out that list.  It can be run from the dfHack window.
+
+Now there are only 14 missing/dead units in the list.  Let the migration start?
+
+## Spring 435
+
+Migrants!
+
+- Zefon Melbilrab
+- Mosus Thikutmistem (wife of Sarvesh Ezumust)
+- Urvad Athellasgan
+- Mosus Rmiadvutok (wife of Sibrek Loloklisid)
+- Zuglar Kibromek
+- Unib Zonnosim (widower father of Dobar Dakostging)
+- Sarvesh Ezumust (husband of Mosus Thikutmistem)
+- Dastot Tishisfath
+- Sibrek Loloklisid (husband of Mosus Rimadvutok)
+- Udil Nethducim
+- Kol Sakrithasmel
+- Reg Stukontun
+- Atesh Morulazin
+- Stukos Rutodatis
+- Lorbam Alathmishos
+- Dobar Dakostging (child of Unib Zonnosim)
+
+That brings us up to seventy-three citizens.
+
+## Autumn 435
+
+Getting close to 30 years.  I really want to go embark in that hilly area to the northeast.
+
+### [Next Story Year]({{ site.baseurl }}{% post_url 2017/2017-10-25-df43-TeyoAsada-435-Embark %})
+
