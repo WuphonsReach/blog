@@ -24,12 +24,18 @@ gallery3:
     alt: "DF2014: Teyo Asada (436) Dumaterith"
     url: /imgs/df/TeyoAsada/armok-vision-00436.jpg
 
+gallery4:
+  - image_path: /imgs/df/TeyoAsada/teyo-asada-Dumaterith-embark-site-435.png
+    alt: "DF2014: Teyo Asada (435) Dumaterith"
+    url: /imgs/df/TeyoAsada/teyo-asada-Dumaterith-embark-site-435.png
 
 ---
 
 ## Embark (Autumn 435)
 
 Going to embark at a new location, east of Uzol Og, still in the Plain of Blood.  This will be a 3x3 embark along two streams called, "The Permanency-Rot of Masters".
+
+{% include gallery id="gallery4" %}
 
 I'm embarking in an area with "extreme" cliffs (20+), but the very southeast corner is flat.  This could go horribly wrong right off the bat.  There is an aquifier in both biomes, with sand, shallow clay and very deep soil.  Plus shallow/deep metals and a flux layer.
 
