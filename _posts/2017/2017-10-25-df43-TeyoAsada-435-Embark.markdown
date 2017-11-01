@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DF 0.43: Teyo Asada (435) XXXXX Embark'
+title: 'DF 0.43: Teyo Asada (435-449) Dumaterith Embark'
 date: '2017-10-25T16:42:00.000-04:00'
 author: Wuphon's Reach
 category:

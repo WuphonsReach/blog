@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DF 0.43: Teyo Asada (450-) XXXXX'
+title: 'DF 0.43: Teyo Asada (450-453) Dumaterith'
 date: '2017-10-28T16:52:00.000-04:00'
 author: Wuphon's Reach
 category:
@@ -11,12 +11,12 @@ tags:
 
 gallery1:
   - image_path: /imgs/df/TeyoAsada/armok-vision-00453.jpg
-    alt: "DF2014: Teyo Asada (435) Dumaterith Armok Vision"
+    alt: "DF2014: Teyo Asada (453) Dumaterith Armok Vision"
     url: /imgs/df/TeyoAsada/armok-vision-00453.jpg
 
 gallery2:
   - image_path: /imgs/df/TeyoAsada/front-entrance-453.jpg
-    alt: "DF2014: Teyo Asada (435) Dumaterith Main Entrance"
+    alt: "DF2014: Teyo Asada (453) Dumaterith Main Entrance"
     url: /imgs/df/TeyoAsada/front-entrance-453.jpg
 
 ---
@@ -97,8 +97,8 @@ Note: Sigun Nethrimtar is a close relative of the king, Tirist Urdimgusil.  At 1
 
 Possible barons:
 
-- Lor Gongiththikut (no item prefs)
-- Zulgar Gatizkeskal (gauntless, only age 23)
+- Lor Gongiththikut (no item preferences)
+- Zulgar Gatizkeskal (gauntlets, only age 23)
 
 ## Summer 453
 
@@ -114,4 +114,57 @@ The hill around the upper fortress was flattened a bit and the natural rock wall
 
 The larger entrance down on the lower plain is the current front gate.  It's not yet a high-security design, but it's a long way back into the mountain to get to the inner fortress.
 
-### [Next Story Year]({{ site.baseurl }}{% post_url 2017/2017-10-28-df43-TeyoAsada-450 %})
+#### Migrants:
+
+- Sarvesh Ezumust (husband of Mosus Thikutmistem)
+- Mosus Thikutmistem (wife of Sarvesh Ezumust)
+- Udil Nethducim
+- Sibrek Loloklisid (husband of Mosus Rimadvutok)
+- Mosus Rimadvutok (wife of Sibrek Loloklisid)
+- Kol Nileszefon
+- Aban Lertethvabok
+- Rigoth Oslaneral
+
+I'll be starting a 3rd and possibly 4th militia crossbow squad next year.  With seventy-five dwarves, my goal is to have about 60-65 in military squads.
+
+## Autumn 453
+
+First mining injury.  Lokum Muthkatedan was injured in a small mining accident.  Both arms were involved in the accident.  Adil Oltaratol was also injured, probably just the left hand (the other injuries were deflected by the pig tail cloak).
+
+We do have a level 5 diagnostician, Dastot Esmosus.  She will be appointed as the chief medical dwarf.  I also have level 6 wound dresser and suturer, Udil Nethducim.
+
+Both dwarves were treated and released from the hospital within about two weeks.
+
+#### Migrants:
+
+- Dastot Tishifath
+- Melbil Asesdor (husband of Moldath Berbesmar)
+- Moldath Berbesmar (wife of Melbil Asesdor)
+- Tirist Zaludushat (wife of Thob Lolokashok)
+- Thob Lolokashok (husband of Tirist Zaludushat)
+- Dodok Tinothbim
+- Meng Logemimush
+- Libash Ingizlular
+- Doren Ulololtar
+- Stodir Tabarmosus
+
+#### New draftees
+
+- Dodok Tinothbim
+- Dastot Tishifath
+- Aban Lertethvabok
+- Geshud Koganlid
+
+## Winter 453
+
+Atis Zefonducim (wife of Urvad Eteserith), gave birth to a girl, Tulon Thikutadil.
+
+Another small mining accident with Zuglar Oslanner (left hand).
+
+The dwarven were-beast, Id Dorenbunem, is being setup in the execution chamber.  Death by marksdwarves is the sentence.  Id attacked the fortress a few seasons ago and was captured in a cage trap.  
+
+Another mining accident, Stodir Tabarmosus.
+
+Zulbar Kibromek has been elected as mayor of Dumaterith.
+
+### [Next Story Year]({{ site.baseurl }}{% post_url 2017/2017-10-28-df43-TeyoAsada-454 %})
