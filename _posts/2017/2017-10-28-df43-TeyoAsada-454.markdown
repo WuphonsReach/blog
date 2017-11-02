@@ -44,6 +44,11 @@ gallery7:
     alt: "DF2014: Teyo Asada (458) Dumaterith Entrance"
     url: /imgs/df/TeyoAsada/new-shooting-wing-458.jpg
 
+gallery8:
+  - image_path: /imgs/df/TeyoAsada/armok-vision-00460.jpg
+    alt: "DF2014: Teyo Asada (460) Dumaterith Armok Vision"
+    url: /imgs/df/TeyoAsada/armok-vision-00460.jpg
+
 ---
 
 ## Spring 454
@@ -396,10 +401,38 @@ Deaths:
 
 Alright, everyone go back to training.
 
+#### Memorial to Eshtân Lorbamôm
+
+> This is a masterful basalt memorial to Eshtân Lorbamôm created by Logem Sebsúradil.  It is decorated with exceptionally worked llama bone and encircled with bands of exceptionally worked alpaca bone.  This object menaces with spikes of exceptionally worked mussel shell.  
+
+> The slab reads "In memory of Eshtân Lorbamôm / Born 378 / Bled to death, slain by the goblin Smunstu Doomedwall with a copper pike in Sukxusmkök, "The Squeezing Assault" in the year 460 / Lover of pig tail fabric".
+
+> On the item is an exceptionally designed image of Dastot Clearedroom the dwarf and dwarves in pig hoof by Sibrek Loloklisid.  Dastot Clearedroom is surrounded by the dwarves.  The artwork relates to the appointment of the dwarf Dastot Clearedroom to the position of militia captain of The Splattered Road in the late autumn of 455. 
+
+> On the item is a masterfully designed image of Bearraw the Defensive Fists the brass battle axe in pig bone by Thob Lolokashok. 
+
+#### Memorial to Såkzul Logemmusar
+
+> This is a masterful basalt memorial to Såkzul Logemmusar created by Logem Sebsúradil.  This object menaces with spikes of exceptionally worked llama bone and masterfully worked mussel shell by Sibrek Loloklisid. 
+
+> On the item is an exceptionally designed image of a amphibian man in pig hoof by Sibrek Loloklisid. 
+
+> The slab reads "In memory of Såkzul Logemmusar / Born 370 / Suffocated, slain by the goblin Zolak Lionmenace with a iron whip in Sukxusmkök, "The Squeezing Assault" in the year 460".
+
 ## Summer 460
 
 The ettin, Taronitur Ceral Kal, has come.
 
 That could be a bit more fun then I want, so I'm going to order everyone inside and wait for it to hit a cage trap.
+
+Done, now I need to figure out what to do with it.
+
+## Autumn 460
+
+{% include gallery id="gallery8" %}
+
+Close-up of the archery target area.  I have four firing lanes setup that are about twenty tiles long.  The dwarves stand on the end with the red circle and fire to the right.  The archery target is at the end with the red "X" on each lane.
+
+Any bolts that miss the target will hit the side or back walls and fall down into the zero-bin stockpile.
 
 ### [Next Story Year]({{ site.baseurl }}{% post_url 2017/2017-10-28-df43-TeyoAsada-454 %})
