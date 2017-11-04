@@ -1,0 +1,311 @@
+---
+layout: post
+title: 'DF 0.43: Teyo Asada (456-459) Dumaterith'
+date: '2017-10-28T16:52:00.000-04:00'
+author: Wuphon's Reach
+category:
+- DwarfFortress
+tags:
+- DF0.43
+- Teyo Asada
+
+gallery2:
+  - image_path: /imgs/df/TeyoAsada/armok-vision-farms-456.jpg
+    alt: "DF2014: Teyo Asada (456) Dumaterith Surface Farm"
+    url: /imgs/df/TeyoAsada/armok-vision-farms-456.jpg
+
+gallery3:
+  - image_path: /imgs/df/TeyoAsada/armok-vision-00456.jpg
+    alt: "DF2014: Teyo Asada (456) Dumaterith Armok Vision"
+    url: /imgs/df/TeyoAsada/armok-vision-00456.jpg
+
+gallery4:
+  - image_path: /imgs/df/TeyoAsada/dreamy-wall-relationships-456.png
+    alt: "DF2014: Teyo Asada (456) Dreamy Relationships"
+    url: /imgs/df/TeyoAsada/dreamy-wall-relationships-456.png
+
+gallery5:
+  - image_path: /imgs/df/TeyoAsada/siege-457-10-08.png
+    alt: "DF2014: Teyo Asada (457) Dumaterith Siege"
+    url: /imgs/df/TeyoAsada/siege-457-10-08.png
+
+gallery6:
+  - image_path: /imgs/df/TeyoAsada/siege-457-10-16.png
+    alt: "DF2014: Teyo Asada (457) Dumaterith Siege"
+    url: /imgs/df/TeyoAsada/siege-457-10-16.png
+
+gallery7:
+  - image_path: /imgs/df/TeyoAsada/new-shooting-wing-458.jpg
+    alt: "DF2014: Teyo Asada (458) Dumaterith Entrance"
+    url: /imgs/df/TeyoAsada/new-shooting-wing-458.jpg
+
+gallery8:
+  - image_path: /imgs/df/TeyoAsada/armok-vision-00460.jpg
+    alt: "DF2014: Teyo Asada (460) Dumaterith Armok Vision"
+    url: /imgs/df/TeyoAsada/armok-vision-00460.jpg
+
+---
+
+
+## Spring 456
+
+Lokum Muthkatedan (wife of Melbil Bomrekuvel) has given birth to a boy, Cog Onelerush.
+
+Somewhere lies the body of Stodir Tabarmosus.  Stodir shows as dead in the unit list, but I cannot find a body anywhere.  Not even in the dfHack enhanced stocks list.  Well, I've order a slab to be engraved, maybe it will provide information:
+
+> This is a masterful basalt memorial to Stodir Tabarmosus created by Tosid Athelnosîm.  It is encircled with bands of exceptionally worked pig bone.  This object is adorned with hanging rings of exceptionally worked pig hoof and menaces with spikes of exceptionally worked blue peafowl bone.  
+>
+> On the item is a masterfully designed image of Rodem, the deity of the rain, nature, the sun, fire and metals, depicted as a female dwarf in dog bone by Zuglar Oslanner.  Rodem is laughing.  
+>
+> The slab reads "In memory of Stodir Tabarmosus / Born 363 / Went missing in the year 456 / Lover of armor stands".
+
+Well, not really informative.  Maybe a statue or some engraver somewhere will write down the story.
+
+#### Surface Farms
+
+{% include gallery id="gallery2" %}
+
+One thing that I'm liking about my wall design (two tiles wide inside) is that the interior can be used for surface farms.  I'm able to create a lot of 2x2 or 2x3 plots to farm the various surface crops like rope reeds, blueberries, etc.
+
+#### Fortress
+
+{% include gallery id="gallery3" %}
+
+The main surface fortress is starting to take shape.  The dwarves are building out the third level now and will soon start on the fourth.
+
+#### Food Stocks
+
+The fortress needs to start selling lavish meals (roasts) by the wagon load.  In the stocks screen, I see:
+
+- 7900 meat
+- 550 fish
+- 10800 eggs
+- 7000 plants
+- 675 cheese
+- 4100 leaves
+
+I'm going to have to run two kitchens year-round to maybe put a dent in that.
+
+#### Migrants
+
+- Mebzuth Keskalkodor
+- Oddom Daselalath
+- Ablel Oddomakrul
+- Mosus Unolzaneg (single mother of Udib Rilbetustuth)
+- Udib Rilbetustuth (daughter of Mosus Unolzaneg)
+- Ilral Iridfikod
+- Ilral Likotkogan
+- Zuglar Ugithaban
+
+#### Draftees
+
+The following dwarves have some military skill and are not yet drafted into one of the squads.
+
+- Oddom Daselalath (M)
+- Momuz Sedurkogan (M)
+- Ilral Likotkogan (F)
+- Stinthad Oshuratir (F)
+
+That brings me up to forty-four dwarves in military squads (out of a total of seventy-nine).
+
+## Winter 456
+
+A vile force of darkness has arrived!
+
+I was just lamenting to myself that I was finding this embark a bit on the quiet side.  But now the goblins have come to play!
+
+Oh, it's only eight goblins.
+
+Two ended up in cages, the other six were killed quickly by the axe/hammer squads.
+
+Injured:
+
+- Bembul Dakostalis
+
+Bembul raced a little ahead of the other melee and got attacked by multiple goblins.  Only one got in a lucky shot and that impacted on the right hip and did damage through the steel greaves.  Even after falling over with pain, Bembul still managed to kill two of the goblins before the rest of the squad showed up.  
+
+{% include gallery id="gallery4" %}
+
+So it turns out that yes, you can see when wars are declared in the `c` (civilizations) screen.  Note that we are now officially at war with Smunstu Kus (The Lie of Covens).  They have probably attacked and taken a site closer to us now.
+
+## Summer 457
+
+Migrants!
+
+- Zefon Luslemasob
+- Nish Idenmosus
+- Urist Lortosid
+- Etur Morulsastres
+- Doren Idenlisat
+- Zuglar Sazirekast
+- Eshtan Lorbamom
+- Erush Oddomubal
+- Thikut Zasust (wife of Iton Cogenkos)
+- Iton Cogenkos (husband of Thikut Zasust)
+
+Moldath Berbesmar, wife of Melbil Asesdor, has given birth to a girl, Kel Dumatdesis.  The couple also has a young son, Aban Amalgoden.
+
+## Autumn 457
+
+Migrants:
+
+- Thob Rithstorlut
+- Nil Nanirlolor
+- Rigoth Lolokor
+
+Dastot Esmosus, chief medical dwarf and wife of Domas Usanerush, has given birth to a baby girl named Iden Eturshis.  Her brother, Tulon Uzavuz, is about a year older.
+
+Tosid Athelnosim, wife of Aban Muzishmeng, gave birth to a girl, Kol Elbeloltar.  Her brother, Eshtan Ushuldumat, is age 22.
+
+There are now nineteen dwarves with competent (level 4) or better armor use skills.  Another fifteen have level 1+ skill.  I'll need to move about half of those into the first and second squads for axes and hammers.
+
+## Winter 457
+
+Another vile force of darkness has arrived.  This time it is about sixteen goblins.  Oops, more showed up, now there are thirty-two.
+
+Found a mistake in the defensive perimeter.  One of the outer gates is not hooked up to a lever.
+
+{% include gallery id="gallery5" %}
+
+So even though I want to close that outer gate to lock in some goblins, I can't.  What I do have is a shooting gallery as the goblins attempt to get at the chickens on the right in the nest boxes, but they've finished that task already and are just milling around.
+
+Killed two, captured four in cage traps so far.  I could let them into the fortress, but that is risky and my dwarves might dodge to their death.
+
+I have the front gate open down on the lower plain, trying to tempt the goblins to go that way.  I'd rather fight them in the lower tunnels then up top.  My plan is to lure them into the tunnel cage traps, then sally forth to mop up any stragglers.
+
+{% include gallery id="gallery6" %}
+
+The welcome wagon is waiting for the goblins to get past the cage traps.  I'll probably get 90% in the cage traps, then chase down the stragglers.
+
+Some humans did get killed up on the surface, but I think the diplomat got away already.
+
+Captured 23 goblins in cages, killed a few others.
+
+## Spring 458
+
+Dwarves that need to be promoted:
+
+Hammers:
+
+- Edem Abirfikod
+- Oddom Daselalath
+
+Axes:
+
+- Dastot Tishisfath
+- Momuz Sedurkogan
+
+Draftees (Hammers):
+
+- Nil Nanirlolor
+- Mebzuth Atheldishmab
+- Udil Nethducim
+- Thob Rithstorlut
+- Zuglar Sazirekast
+
+Draftees (Axes):
+
+- Ilral Iridfikod
+- Adil Oltaratol
+- Melbil Bomrekuvel
+
+More melee draftees:
+
+- Nish Idenmosus
+- Mebzuth Keskalkodor
+
+Militia draftees:
+
+- Atis Zefonducim
+- Zefon Melbilrab
+- Melbil Isancatten
+- Mistem Rigothokir
+- Doren Idenlisat
+- Thikut Zasust
+
+That puts fifty-seven dwarves under the military.  Four in each of the six melee squads.  A handful in each of the training squads and the rest in militia crossbow squads.
+
+All the goblin captives have been mass-pitted, none escaped to play with the melee squads waiting in the hallway outside.
+
+## Summer 458
+
+I have four kitchens turning out roasts, plus three butcher shops.  So far it's working out, without stuff rotting in the kitchens.  I'm still falling behind on meat and egg consumption.  I may need to add a fifth kitchen.
+
+Mosus Rimadvutok (wife of Sibrek Loloklisid) has given birth to a girl, Dastot Ananatis.
+
+## Siege (458-07-02)
+
+Yet another siege, let's see how many goblins they send this time.  Looks like about thirty-three goblins.  I'm going to bait them into the same place I did before, now with more cage traps and more bait for them to get exposed to crossbow fire.
+
+If I can get them all inside, I will seal the bridge and send the melee squads around the long way.
+
+Nish Idenmosus - killed by a goblin crossbow bolt
+
+Thob Lolokashok and Domas Usanerush both enter martial trances!
+
+Nine goblins were captured in cages, the rest were slaughtered.
+
+Tikut Zasust is possibly injured.  Minor enough to leave the hospital after a short stay.
+
+Lokum Muthkatedan (wife of Melbil Bomrekuvel) has given birth to a boy, Ingish Kadolstigaz.
+
+{% include gallery id="gallery7" %}
+
+And because the goblins are lazy buggers who always show up in the same place and hang around outside the walls, I'm adding a wing onto the fortification level which overlooks where they hang out.
+
+## Spring 459
+
+Dastot Esmosus, chief medical dwarf and wife of Domas Usanerush, has given birth to a boy, Zas Onolteskom.
+
+Mosus Rimadvutok, wife of Sibrek Loloklisid, has given birth to a boy, Ushat Sazirtilesh.
+
+## Winter 459
+
+It's drafting time again.
+
+Hammers:
+
+- Ezum Ducimikal
+- Eshtan Lorbamom
+- Melbil Asesdor
+- Inod Litastning
+- Libash Ingizlular
+- Sarvesh Ezumust
+- Kib Thabumdegel
+- Iton Cogenkos
+
+Axes:
+
+- Udil Nethducim
+- Doren Ulololtar
+- Meng Logemimush
+- Eral Kordamkonos
+- Zefon Luslemasob
+- Kosoth Nishneth
+- Sakzul Logemmusar
+- Muthkat Atisoltar
+
+That gives me at least six in each of the reserve hammer/axe squads.  Those dwarves get set to train in groups of four during the winter months and a group of two during the rest of the year.
+
+Crossbow Militia Draftees:
+
+- Zulgar Oslanner
+- Sazir Stakudunal
+- Lokum Muthkatedan
+- Momuz Udsibrek
+- Shorast Dorenrith
+- Mosus Unolzneg
+- Mosus Rimadvutok
+- Tun Tileshurdim
+- Mosus Thikutmistem
+- Tirist Zaludushat
+- Zon Iliringish
+- Urist Lortosid
+- Ablel Oddomakrul
+- Zuglar Ugithaban
+- Etur Morulsastres
+- Rigoth Lolokor
+
+All but three of the adult dwarves are now assigned to military squads.  Those remaining three were assigned as two miners and one woodcutter.  There are no active hunters in the fortress.
+
+### [Next Story Year]({{ site.baseurl }}{% post_url 2017/2017-10-28-df43-TeyoAsada-460 %})

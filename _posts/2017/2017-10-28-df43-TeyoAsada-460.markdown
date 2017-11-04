@@ -1,0 +1,156 @@
+---
+layout: post
+title: 'DF 0.43: Teyo Asada (460-) Dumaterith'
+date: '2017-10-28T16:52:00.000-04:00'
+author: Wuphon's Reach
+category:
+- DwarfFortress
+tags:
+- DF0.43
+- Teyo Asada
+
+---
+
+## Spring 460
+
+Another vile force of darkness.  This one spawned outside the western gate on the western piece of land instead of the south piece of land.  Only 12 goblins so far have shown up.
+
+Eighty-plus dwarves against 12 goblins.
+
+Deaths:
+
+- Eshtan Lorbamom, went out without a weapon and only wrestled with a goblin pikeman.  
+- Sakzul Logemmusar (2nd Reserve Axes), tried to go up against a goblin lasher (iron whip) with only modest combat skills.  Bled out on the battlefield by the north river (outside the lower main entrance).
+
+Alright, everyone go back to training.
+
+#### Memorial to Eshtân Lorbamôm
+
+> This is a masterful basalt memorial to Eshtân Lorbamôm created by Logem Sebsúradil.  It is decorated with exceptionally worked llama bone and encircled with bands of exceptionally worked alpaca bone.  This object menaces with spikes of exceptionally worked mussel shell.  
+
+> The slab reads "In memory of Eshtân Lorbamôm / Born 378 / Bled to death, slain by the goblin Smunstu Doomedwall with a copper pike in Sukxusmkök, "The Squeezing Assault" in the year 460 / Lover of pig tail fabric".
+
+> On the item is an exceptionally designed image of Dastot Clearedroom the dwarf and dwarves in pig hoof by Sibrek Loloklisid.  Dastot Clearedroom is surrounded by the dwarves.  The artwork relates to the appointment of the dwarf Dastot Clearedroom to the position of militia captain of The Splattered Road in the late autumn of 455. 
+
+> On the item is a masterfully designed image of Bearraw the Defensive Fists the brass battle axe in pig bone by Thob Lolokashok. 
+
+#### Memorial to Såkzul Logemmusar
+
+> This is a masterful basalt memorial to Såkzul Logemmusar created by Logem Sebsúradil.  This object menaces with spikes of exceptionally worked llama bone and masterfully worked mussel shell by Sibrek Loloklisid. 
+
+> On the item is an exceptionally designed image of a amphibian man in pig hoof by Sibrek Loloklisid. 
+
+> The slab reads "In memory of Såkzul Logemmusar / Born 370 / Suffocated, slain by the goblin Zolak Lionmenace with a iron whip in Sukxusmkök, "The Squeezing Assault" in the year 460".
+
+## Summer 460
+
+The ettin, Taronitur Ceral Kal, has come.
+
+That could be a bit more fun then I want, so I'm going to order everyone inside and wait for it to hit a cage trap.
+
+Done, now I need to figure out what to do with it.
+
+## Autumn 460
+
+{% include gallery id="gallery8" %}
+
+Close-up of the archery target area.  I have four firing lanes setup that are about twenty tiles long.  The dwarves stand on the end with the red circle and fire to the right.  The archery target is at the end with the red "X" on each lane.
+
+Any bolts that miss the target will hit the side or back walls and fall down into the zero-bin stockpile.
+
+## Spring 461
+
+#### Migrants:
+
+- Zulban Stelidkol
+- Kogsak Nishnakas
+- Adil Cattennanir
+- Tosid Titthaludil
+- Dishmab Logemernam
+- Sigun Kalanoltar
+- Obok Mengudiz
+- Adil Nitigmebzuth
+- Catten Amkeskal
+
+Mosus Unolzaneg is killed in a fight with a werelizard.  Moldath Berbesmar and Morul Vabokegul both helped to kill the werelizard without receiving any wounds.  So those two should be safe.
+
+#### New draftees:
+
+Axes/Hammers:
+
+- Zulban Stelidkol
+- Kogsak Nishnakas
+- Adil Cattennanir
+- Tosid Titthaludil
+- Dishmab Logemernam
+- Sigun Kalanoltar
+- Obok Mengudiz
+
+Marksdwarves:
+
+- Adil Nitigmebzuth
+- Catten Amkeskal
+
+#### Construction Accident
+
+Momuz Udsibrek was injured during a construction accident and bled out in the hospital.
+
+## Summer 461
+
+Migrants:
+
+- Erith Nethkivish (F)
+- Fikod Nekolkadol (F)
+- edem Ducimning (F)
+- Sakzul Gebaravuz (F)
+- Kesoth Astzim (M)
+- Sodel Zasitfaresh (F)
+- Muthkat Almoshlikot (M) 
+- Vucar Inodostuk (M)
+
+With immediate drafting, that brings us up to 102 soldiers in squads out of a population of 118 (13 children, 2 miners, 1 woodcutter).
+
+Oh wait, Zuntir Buketol (son of Logem Sebsuradil and Bembul Dakostalis) has grown up.  He goes into the Axes of Valleys squad, with his father, Bembul.
+
+## Autumn 461
+
+Migrants:
+
+- Bembul Eribshoduk (M)
+- Kib Cogakir (F)
+- Asmel Gebarurist (M)
+- Ral Kivishartob (F)
+- Ilral Datenbardum (F)
+- Kadol Uzolsulus (F)
+
+## Spring 462
+
+Wishlist for the next fortress:
+
+- Six kitchens, clustered around the Trade Depot and the prepared meals QSP.  Five kitchens is not quite enough to stay ahead of farming / egg / meat production in this fortress.
+- Six smelters for melting metal objects back into bars.  The three that I have is not quite fast enough for my tastes.
+- Five or six butcher shops to start.  When I buy animals, I need to get them slaughtered quicker.
+- Two stills.  That is more so that I can catch up faster if I run low on drink (because the cook went crazy with using alcohol for lavish meals).
+- Up to eight regular glass furnaces for "collect sand" jobs.  One kicks in at <= 50 bags, the 2nd kicks in if there are less than 75 bags, 3rd kicks in at <= 100 bags, 4th kicks in at less than 125 bags, 5th kicks in at less than 150 bags, etc.
+
+#### Military Promotions
+
+The following dwarves are being promoted up from the reserve squads to the primary squads.
+
+Axes:
+
+- Domas Usanerush
+- Zuglar Kibromek
+
+Hammers:
+
+- Nish Isulakrul
+- Thob Lolokashok
+
+That gives me seven dwarves in each of the four main squads.  They can now train with six-plus during the winter/spring months, and two-plus during the rest of the year.
+
+## Summer 462
+
+Mosus Rimadvutok (wife of Sibrek Loloklisid) has given birth to a baby girl, Likot Arbanzulban.  The couple now have three children, Ushat Sazirtilesh (son) and Dastot Ananatis (daughter).  The couple arrived at Dumaterith in the year 453.
+
+### [Next Story Year]({{ site.baseurl }}{% post_url 2017/2017-10-28-df43-TeyoAsada-460 %})
