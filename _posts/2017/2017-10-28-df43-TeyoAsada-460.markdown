@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'DF 0.43: Teyo Asada (460-) Dumaterith'
-date: '2017-10-28T16:52:00.000-04:00'
+title: 'DF 0.43: Teyo Asada (460-462) Dumaterith'
+date: '2017-11-01T18:22:00.000-04:00'
 author: Wuphon's Reach
 category:
 - DwarfFortress
@@ -153,4 +153,6 @@ That gives me seven dwarves in each of the four main squads.  They can now train
 
 Mosus Rimadvutok (wife of Sibrek Loloklisid) has given birth to a baby girl, Likot Arbanzulban.  The couple now have three children, Ushat Sazirtilesh (son) and Dastot Ananatis (daughter).  The couple arrived at Dumaterith in the year 453.
 
-### [Next Story Year]({{ site.baseurl }}{% post_url 2017/2017-10-28-df43-TeyoAsada-460 %})
+## Retired
+
+Going to take a break until after Thanksgiving while I wait for the next update.
