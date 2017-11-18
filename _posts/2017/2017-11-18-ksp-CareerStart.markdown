@@ -1,39 +1,17 @@
 ---
 layout: post
-title: 'KSP 1.3.1: Career Settings'
-date: '2017-11-04T16:07:00.000-04:00'
+title: 'KSP 1.3.1: SYB17D Career Start'
+date: '2017-11-18T06:52:00.000-04:00'
 author: Wuphon's Reach
 category:
 - KerbalSpaceProgram
 tags:
 - KerbalSpaceProgram
-
-settingbasic:
-  - image_path: /imgs/ksp/2017/game-difficulty-131-nov2017-basic.png
-    alt: "KSP: Career Game Settings (Basic)"
-    url: /imgs/ksp/2017/game-difficulty-131-nov2017-basic.png
-
-settingadvanced:
-  - image_path: /imgs/ksp/2017/game-difficulty-131-nov2017-advanced.png
-    alt: "KSP: Career Game Settings (Advanced)"
-    url: /imgs/ksp/2017/game-difficulty-131-nov2017-advanced.png
-
-settingkct:
-  - image_path: /imgs/ksp/2017/kct-settings-nov2017.png
-    alt: "KSP: Career Game Settings (KCT)"
-    url: /imgs/ksp/2017/kct-settings-nov2017.png
+- KSP2017
 
 ---
 
-I think I have things sorted out enough to start a career.  There are still some things that I don't have installed, but they can be added shortly.
-
-First up is the difficulty settings.  I like to start with "Moderate" and then adjust.
-
-{% include gallery id="settingbasic" %}
-
-{% include gallery id="settingadvanced" %}
-
-I am completely nuking the settings for the build in DSN (Deep Space Network) which the default KSP gives you.  The problem with the default KSP version is that it makes it trivial to setup communications with distant planets in the solar system.  Even planets like Eeloo.
+I think I have things sorted out enough to start a longer career game.  See the [previous post]({{ site.baseurl }}{% post_url 2017/2017-11-15-ksp-CareerStartSettings %}) for the difficulty / game settings.
 
 I also use my personal re-balance mod called [Stock Antenna Balance](https://github.com/WuphonsReach/KSP-StockAntennaBalance/releases) which is designed to increase power requirements and re-balances the various antennas.
 
@@ -41,7 +19,7 @@ There are some other things I do like create copies of command pods and probe co
 
 ---
 
-I also like to start with 5000 science and 5 million in funds (that requires editing the persistent.sfs file).
+I also like to start with 5000 science and 15 million in funds (that requires editing the persistent.sfs file, or using the mod-F12 cheats menu).
 
 Here's the section with the current funding level:
 
@@ -49,7 +27,7 @@ Here's the section with the current funding level:
     {
       name = Funding
       scene = 7, 8, 5, 6
-      funds = 5000000
+      funds = 15000000
     }
 
 And the section with the current number of research points:
@@ -74,3 +52,11 @@ And the section with the current number of research points:
     }
 
 Make sure you disable the stock resource maps in SCANSat when starting.  You may need to reset all data so that you do not know where the resources are.
+
+## Getting Started
+
+Due to the KCT settings that I use, plan on just fast-forwarding until about day 250 when the first layer of nodes unlocks (90 point nodes).  That will give you enough parts to actually do something besides just go up and down.
+
+The first craft is going to be a throwaway that will just go up, get out of the atmosphere, and then crash.  Even that will probably takes 30-90 days to build and launch, which makes the first year go fast.
+
+

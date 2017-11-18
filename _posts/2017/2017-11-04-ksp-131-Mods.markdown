@@ -12,39 +12,60 @@ tags:
 
 ## Mods installed
 
+    Additional_Progression_Contracts-1.1.1.zip
+    Bluedog_Design_Bureau-v1.3.1.zip
+    BonVoyage-0.13.2.1.zip
     CCK_2.0.2.zip
     Community_Tech_Tree-3.2.1.zip
     ContractConfigurator_1.23.3.zip
+    ContractPack-Tourism_1.5.2.zip
+    Contract_Pack_Unmanned_Contracts-0.3.27.zip
     Contracts_Window-8.1.zip
+    CrowdSourcedScience-4.1.0.zip
     CRP_0.8.0.0.zip
     Custom_Asteroids-v1.5.0.zip
     CustomBarnKit-1.1.16.0.zip
     DistantObject_1.9.1.zip
     DMagic_Orbital_Science-1.3.10.zip
     Docking_Port_Alignment_Indicator-6.7.0.zip
-    _DoNotUse
     EasyVesselSwitch_v1.5.zip
     ExpPack_0.9.0.0.zip
+    Feline_Utility_Rovers-1.0.4.zip
     Final_Frontier-1.3.6-3189.zip
+    FShangarExtender-3.5.2.zip
     FTT_0.8.0.0.zip
     Fuel_Tanks_Plus-1.12.1.zip
     HaystackContinued-0.5.2.1-131.zip
+    HaystackContinued-0.5.2.1.zip
     Heat_Control-0.4.4.zip
+    HullcamVDS_Continued-0.1.8.zip
     KAS_v0.6.3.zip
     Kerbal_Alarm_Clock-3.8.5.0.zip
     KerbalConstructionTime-131-Oct2017.zip
+    Kerbal_Planetary_Base_Systems-1.5.7.zip
+    KerbinSpaceStation3.7.0.1.zip
+    KIS_v1.7.zip
+    Knes 0.1.zip
     Konstruction_0.3.0.0.zip
     Kopernicus-1.3.1-2.zip
     KRASH_-_Kerbal_Ramification_Artifical_Simulation_Hub_simulation_mod_for_KSP-0.5.25.1.zip
+    KSP-AVC-1.1.6.2.zip
+    KSPWheel-0.10.5.21.zip
     Lithobrake_Exploration_Technologies-0.4.zip
     Malemute_0.4.0.0.zip
+    MandatoryRCSPartPack_v1.0_KSP1.3.1.zip
     MechJeb2-2.6.1.0-748.zip
+    MiniAVC-1.0.3.3.zip
     MKS_0.53.0.0.zip
     Modular_Rocket_Systems-1.13.1.zip
     ModuleManager-2.8.1.zip
+    Near_Future_Construction-0.8.4.zip
+    Near_Future_Launch_Vehicles-1.1.3.zip
     Near_Future_Propulsion-0.9.5.zip
     Near_Future_Solar-0.8.7.zip
+    Near_Future_Spacecraft-0.7.4.zip
     OPM_Galileo.v1.2.3.zip
+    PreciseNode-1.2.6.zip
     ResearchBodies-V1.9.6.zip
     SCANsat-v18.1.zip
     ScrapYard_0.9.6.70.zip
@@ -52,10 +73,16 @@ tags:
     SmartParts-1.9.8.zip
     SpaceY_Expanded-1.3.1.zip
     SpaceY_Heavy_Lifters-1.16.zip
+    SSTU-0.6.38.142.zip
     StageRecovery-1.7.2.zip
+    State_Funding_Continued-0.6.12.zip
+    StationScience.zip
     Stockalike_Station_Parts_Expansion-0.5.2.zip
+    StockAntennaBalance-v1.3.1.0.zip
     SurfaceLights_v1.6.zip
+    Tokamak_Refurbished_Parts-0.1.10.1.zip
     Toolbar-1.7.15.zip
+    Triple-Z_RadioTelescope-1.0.2.zip
     UbioWeldContinued-2.5.2.zip
     USICore_0.5.0.0.zip
     USI-LS_0.7.0.0.zip

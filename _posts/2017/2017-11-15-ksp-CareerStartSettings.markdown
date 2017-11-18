@@ -1,12 +1,13 @@
 ---
 layout: post
-title: 'KSP 1.3.1: SYB17A Career Start'
-date: '2017-11-05T05:30:00.000-04:00'
+title: 'KSP 1.3.1: SYB17D Career Settings'
+date: '2017-11-15T05:30:00.000-04:00'
 author: Wuphon's Reach
 category:
 - KerbalSpaceProgram
 tags:
 - KerbalSpaceProgram
+- KSP2017
 
 kspbasic:
   - image_path: /imgs/ksp/2017/game-difficulty-131-nov2017-basic.png
@@ -67,11 +68,11 @@ kctsettings:
 
 Notes:
 
-- Research plan start cost works well at 150k to 250k.
+- Research plan start cost works well at 30k to 40k.
 
-- These settings are *really* expensive for "step cost" and I should probably have cut them by a factor of 5x-10x.  It takes ten steps to research each planet or moon.  Which is something that I don't like about the addon (ten steps per planet/moon times 20-30 worlds is too much micro).
+- Research "step cost" should be kept in the 20-40k range.  It takes ten steps to research each planet or moon.
 
-- Science reward for bodies is so-so at 200 points.  The default of 50 points is probably better, but 100 points might be a good middle-ground.  You get points both for discovering that the body exists (with a telescope) and again when you research the orbit to 100%.
+- Science reward for bodies is 50 points by default, but 100 points might be a better setting if you are using CTT (Community Tech Tree).  You get points both for discovering that the body exists (with a telescope) and again when you research the orbit to 100%.
 
 #### State Funding
 
@@ -84,12 +85,6 @@ Notes:
 Notes:
 
 - With my current settings (LINK HERE), researching a 550 point node at 1.29 sci per day on the R&D upgrades tab, will take about 426 days (1 Kerbin year).
-
-## Getting Started
-
-Due to the KCT settings that I use, plan on just fast-forwarding until about day 250 when the first layer of nodes unlocks (90 point nodes).  That will give you enough parts to actually do something besides just go up and down.
-
-The first craft is going to be a throwaway that will just go up, get out of the atmosphere, and then crash.  Even that will probably takes 30-90 days to build and launch, which makes the first year go fast.
 
 
 
