@@ -57,6 +57,6 @@ Make sure you disable the stock resource maps in SCANSat when starting.  You may
 
 Due to the KCT settings that I use, plan on just fast-forwarding until about day 250 when the first layer of nodes unlocks (90 point nodes).  That will give you enough parts to actually do something besides just go up and down.
 
-The first craft is going to be a throwaway that will just go up, get out of the atmosphere, and then crash.  Even that will probably takes 30-90 days to build and launch, which makes the first year go fast.
+The first craft is going to be a throwaway that gets up into orbit with a small relay antenna and will be stationed in KEO orbit eventually.
 
 
