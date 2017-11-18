@@ -1,0 +1,85 @@
+---
+layout: post
+title: 'KSP 1.3.1: Favorite Mods'
+date: '2017-11-04T10:30:00.000-04:00'
+author: Wuphon's Reach
+category:
+- KerbalSpaceProgram
+tags:
+- KerbalSpaceProgram
+
+---
+
+## Mods installed
+
+    CCK_2.0.2.zip
+    Community_Tech_Tree-3.2.1.zip
+    ContractConfigurator_1.23.3.zip
+    Contracts_Window-8.1.zip
+    CRP_0.8.0.0.zip
+    Custom_Asteroids-v1.5.0.zip
+    CustomBarnKit-1.1.16.0.zip
+    DistantObject_1.9.1.zip
+    DMagic_Orbital_Science-1.3.10.zip
+    Docking_Port_Alignment_Indicator-6.7.0.zip
+    _DoNotUse
+    EasyVesselSwitch_v1.5.zip
+    ExpPack_0.9.0.0.zip
+    Final_Frontier-1.3.6-3189.zip
+    FTT_0.8.0.0.zip
+    Fuel_Tanks_Plus-1.12.1.zip
+    HaystackContinued-0.5.2.1-131.zip
+    Heat_Control-0.4.4.zip
+    KAS_v0.6.3.zip
+    Kerbal_Alarm_Clock-3.8.5.0.zip
+    KerbalConstructionTime-131-Oct2017.zip
+    Konstruction_0.3.0.0.zip
+    Kopernicus-1.3.1-2.zip
+    KRASH_-_Kerbal_Ramification_Artifical_Simulation_Hub_simulation_mod_for_KSP-0.5.25.1.zip
+    Lithobrake_Exploration_Technologies-0.4.zip
+    Malemute_0.4.0.0.zip
+    MechJeb2-2.6.1.0-748.zip
+    MKS_0.53.0.0.zip
+    Modular_Rocket_Systems-1.13.1.zip
+    ModuleManager-2.8.1.zip
+    Near_Future_Propulsion-0.9.5.zip
+    Near_Future_Solar-0.8.7.zip
+    OPM_Galileo.v1.2.3.zip
+    ResearchBodies-V1.9.6.zip
+    SCANsat-v18.1.zip
+    ScrapYard_0.9.6.70.zip
+    ShipManifest-5.2.0.0.zip
+    SmartParts-1.9.8.zip
+    SpaceY_Expanded-1.3.1.zip
+    SpaceY_Heavy_Lifters-1.16.zip
+    StageRecovery-1.7.2.zip
+    Stockalike_Station_Parts_Expansion-0.5.2.zip
+    SurfaceLights_v1.6.zip
+    Toolbar-1.7.15.zip
+    UbioWeldContinued-2.5.2.zip
+    USICore_0.5.0.0.zip
+    USI-LS_0.7.0.0.zip
+    USITools_0.10.1.0.zip
+    x-science-v5.11.zip
+
+## Favorite Mods
+
+#### Kerbal Construction Time
+
+[Thread Link](https://forum.kerbalspaceprogram.com/index.php?/topic/83342-113-kerbal-construction-time-134-june-25-2016-unrapid-planned-assembly/) / [Download Link](http://magico13.net:8080/job/Kerbal%20Construction%20Time%20Beta/) / [Spacedock Link](https://spacedock.info/mod/222/Kerbal%20Construction%20Time)
+
+This wonderful add-on makes time have meaning in KSP.  Without it, you could launch a dozen rockets each day of the year.  With it, you have to start planning ahead for what ships you will need to launch in the future.
+
+That Jool transfer window in 3 days?  You're not going to hit it because it will take 65 days to build the rocket and another 15 to roll it out to the pad.
+
+Kerbalnauts in orbit running out of supplies in 12 days?  Hopefully you have a supply rocket that can launch before then.
+
+#### MechJeb
+
+[Thread Link](https://forum.kerbalspaceprogram.com/index.php?/topic/154834-130-anatid-robotics-mumech-mechjeb-autopilot-261-27-may-2017/)
+
+Launching and manually guiding your first few rockets into orbit? Definitely fun.  Doing the 100th launch while building a space station? Not so much fun.  Calculating the maneuver nodes for those 100 launches to get them to the construction site?  Not so much fun.  Executing the burn by hand?  Eh, been there and have done that.
+
+MechJeb gives you information about Delta-V, adds calculators for creating maneuver nodes, offers ascent guidance and autopilot, offers landing guidance and autopilot, plus a host of other must-have features.
+
+
