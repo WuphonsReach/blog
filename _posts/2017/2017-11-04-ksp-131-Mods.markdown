@@ -18,6 +18,7 @@ tags:
     CCK_2.0.2.zip
     Community_Tech_Tree-3.2.1.zip
     ContractConfigurator_1.23.3.zip
+    ContractPack-FieldResearch_1.2.1.zip
     ContractPack-Tourism_1.5.2.zip
     Contract_Pack_Unmanned_Contracts-0.3.27.zip
     Contracts_Window-8.1.zip
@@ -39,6 +40,7 @@ tags:
     HaystackContinued-0.5.2.1.zip
     Heat_Control-0.4.4.zip
     HullcamVDS_Continued-0.1.8.zip
+    JX2Antenna-2.0.2.zip
     KAS_v0.6.3.zip
     Kerbal_Alarm_Clock-3.8.5.0.zip
     KerbalConstructionTime-131-Oct2017.zip
@@ -65,6 +67,7 @@ tags:
     Near_Future_Solar-0.8.7.zip
     Near_Future_Spacecraft-0.7.4.zip
     OPM_Galileo.v1.2.3.zip
+    OPM_Galileo.v1.2.4.zip
     PreciseNode-1.2.6.zip
     ResearchBodies-V1.9.6.zip
     SCANsat-v18.1.zip
@@ -80,6 +83,7 @@ tags:
     Stockalike_Station_Parts_Expansion-0.5.2.zip
     StockAntennaBalance-v1.3.1.0.zip
     SurfaceLights_v1.6.zip
+    The_Janitors_Closet-0.3.3.zip
     Tokamak_Refurbished_Parts-0.1.10.1.zip
     Toolbar-1.7.15.zip
     Triple-Z_RadioTelescope-1.0.2.zip
@@ -87,6 +91,7 @@ tags:
     USICore_0.5.0.0.zip
     USI-LS_0.7.0.0.zip
     USITools_0.10.1.0.zip
+    WaypointManager_2.7.0.zip
     x-science-v5.11.zip
 
 ## Favorite Mods
@@ -100,6 +105,8 @@ This wonderful add-on makes time have meaning in KSP.  Without it, you could lau
 That Jool transfer window in 3 days?  You're not going to hit it because it will take 65 days to build the rocket and another 15 to roll it out to the pad.
 
 Kerbalnauts in orbit running out of supplies in 12 days?  Hopefully you have a supply rocket that can launch before then.
+
+If you are serious about making build time matter, then I suggest my [SYBSlower preset](/blog/imgs/ksp/2017/SYBSlower.cfg), which needs to be installed into the `GameData/KerbalConstructionTime/KCT_Presets` folder.
 
 #### MechJeb
 
