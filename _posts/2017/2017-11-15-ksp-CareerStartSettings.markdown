@@ -84,7 +84,7 @@ Notes:
 
 Notes:
 
-- With my current settings (LINK HERE), researching a 550 point node at 1.29 sci per day on the R&D upgrades tab, will take about 426 days (1 Kerbin year).
+- With my [current settings]((/blog/imgs/ksp/2017/SYBSlower.cfg)), researching a 550 point node at 1.29 sci per day on the R&D upgrades tab, will take about 426 days (1 Kerbin year).
 
 
 
