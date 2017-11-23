@@ -74,7 +74,3 @@ For fine-tuning of your satellite orbital period, right-click the engine and thr
 It will be year four or five before I finish out the level 2 and 3 contracts around Kerbin for Stock Antenna Balance.
 
 I like to move my polar satellites, after they have fulfilled the contract, out to an orbit of 81,430km altitude around Kerbin.  That is a period of almost exactly 115 Kerbin days and is close to the SoI limit around Kerbin.  By putting them so far out in the SoI, they can help with the far side of Minmus and Mun communications.  (If I'm not particular about orbital period, I just set the Ap/Pe values to 80,000km.)
-
-
-
-
