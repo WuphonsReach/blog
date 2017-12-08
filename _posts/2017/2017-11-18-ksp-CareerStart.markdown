@@ -15,7 +15,7 @@ I think I have things sorted out enough to start a longer career game.  See the 
 
 I also use my personal re-balance mod called [Stock Antenna Balance](https://github.com/WuphonsReach/KSP-StockAntennaBalance/releases) which is designed to increase power requirements and re-balances the various antennas.
 
-There are some other things I do like create copies of command pods and probe cores with built-in EC storage, mono-prop storage, life-support storage and a MechJeb core.  I do that in order to reduce part count.  These are available in my [KSP ScrapyardBob](https://github.com/WuphonsReach/KSP-ScrapyardBob) page.  Because it is all done with ModuleManager, it does not matter if you do not have the addon installed that is being changed.  It will simply skip the creation of parts where the parent addon is not found.
+There are some other things I do like create copies of command pods and probe cores with built-in EC storage, mono-prop storage, life-support storage and a MechJeb core.  I do that in order to reduce part count.  These are available in my [KSP ScrapyardBob](https://github.com/WuphonsReach/KSP-ScrapyardBob) page.  Because it is all done with ModuleManager, it does not matter if you do not have the add-on installed that is being changed.  It will simply skip the creation of parts where the parent add-on is not found.
 
 ---
 
