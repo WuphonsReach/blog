@@ -115,6 +115,6 @@ That's a really big number (3.5 million), way too big to survive on just batteri
 For Hydrates and a few other MKS resources, the MPU cannot process them into a different format.  You need more advanced parts in order to do that.  So these miners are basically a zero-machinery and non-converting MPU, a large storage tank, and some drills.
 
     1.0 hyd/sec * 0.05 density * 3600 seconds/hour * 12 hours = 2160 hyd/12h (per MEU-100-A drill)
-    6.0 hyd/sec * 0.05 density * 3600 seconds/hour * 12 hours = 12960 hyd/12h (per MEU-500-A drill)
+    2.0 hyd/sec * 0.05 density * 3600 seconds/hour * 12 hours = 4320 hyd/12h (per MEU-500-A drill w/ 3 bays)
 
-The 2.5m round Kontainer holds 4500 hydrates, so it is suitable for a 5-6% resource density and two "MEU-100-A Pulse" drills.  The 3.75m square Kontainer holds 54000 hydrates and would be better if you're doing a pair of the larger "MEU-500-A Pulse" drills.
+The 2.5m round Kontainer holds 4500 hydrates, so it is suitable for a 5-6% resource density and two "MEU-100-A Pulse" drills.  The 3.75m square Kontainer holds 54000 hydrates and would be better if you're doing a quartet of the larger "MEU-500-A Pulse" drills (17280 per 12 hours @ 5%, up to 25920 @ 7.5%).
