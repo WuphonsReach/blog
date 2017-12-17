@@ -118,3 +118,6 @@ For Hydrates and a few other MKS resources, the MPU cannot process them into a d
     2.0 hyd/sec * 0.05 density * 3600 seconds/hour * 12 hours = 4320 hyd/12h (per MEU-500-A drill w/ 3 bays)
 
 The 2.5m round Kontainer holds 4500 hydrates, so it is suitable for a 5-6% resource density and two "MEU-100-A Pulse" drills.  The 3.75m square Kontainer holds 54000 hydrates and would be better if you're doing a quartet of the larger "MEU-500-A Pulse" drills (17280 per 12 hours @ 5%, up to 25920 @ 7.5%).
+
+Note that if you are planning to use 4+ MEU-500-A drills, you need to upgrade to the 2.5m USI reactor size.
+
