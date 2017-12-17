@@ -51,7 +51,7 @@ There is a better way.
 
 #### Re-Map Switch Modes
 
-By default the [`space-bar`] is used for both staging and for switching between the "`LIN`" and "`ROT`" docking modes.  Naturally, that's dangerous because you might stage at the wrong time.
+By default the `[space bar]` is used for both staging and for switching between the "`LIN`" and "`ROT`" docking modes.  Naturally, that's dangerous because you might stage at the wrong time.
 
 Start by going into the game settings (first menu when you start KSP) and under the "`Input`" screen, on the "`Flight`" tab look for a setting called "`Switch Translation/Rotation`".  You should remap that key to something innocent, like the '`F`' key.
 
