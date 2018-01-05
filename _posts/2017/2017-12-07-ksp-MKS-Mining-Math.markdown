@@ -49,9 +49,7 @@ By running `awk` we can also output whether the module is push-only.  I could go
 
 KSP catch-up mechanics work in six-hour chunks.  
 
-If your are pulling from PL in order to process resource A into resource B, you should size your input resource tank to hold enough for **12 hours** ([source link](https://github.com/UmbraSpaceIndustries/MKS/blob/master/Source/KolonyTools/KolonyTools/PlanetaryLogistics/ModulePlanetaryLogistics.cs#L100-L125)
-
-).
+If you are pulling from PL in order to process resource A into resource B, you should size your input resource tank to hold enough for **12 hours** ([source link](https://github.com/UmbraSpaceIndustries/MKS/blob/master/Source/KolonyTools/KolonyTools/PlanetaryLogistics/ModulePlanetaryLogistics.cs#L100-L125)).
 
 - Resource tanks only issue a pull request when less than 25% full.
 - They can only issue a single pull request from PL per time period (six hours).
