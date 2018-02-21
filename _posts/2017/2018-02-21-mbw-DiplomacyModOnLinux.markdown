@@ -54,3 +54,10 @@ Diplomacy43
 
 At this point, you should now be able to launch MB:W.  Probably the easiest way to see if Diplomacy is working is to use the "Camp" screen outside of town and look for the Diplomacy options.
 
+### Newer versions
+
+There's also the test version, updated in Dec 2017.  I have not tried that (my game has been working well in Diplomacy 4.3 from 2012).
+
+[https://forums.taleworlds.com/index.php/topic,324014.0.html](https://forums.taleworlds.com/index.php/topic,324014.0.html)
+
+Look for the link named "[Current test version is here](https://www.dropbox.com/sh/679r1y39lp1d4s9/AAD2MWmHZtmIYxX4Ubmw002Ea?dl=0)", which takes you to Dropbox.  Installation steps will be identical, but I suggest a folder name of "`Diplomacy20171221`".
