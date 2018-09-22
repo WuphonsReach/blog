@@ -166,24 +166,64 @@ Initial tribe members:
 
 5507 Sep 15th -- Stork and Shorty are now lovers.
 
+5507 Dec 5th -- Choxi/Grant are now married.
 
+5507 Dec 10th -- Owl seduces Rasen.
 
+5508 Apr 3rd -- Offered safety to Wes (M, 28).  A wimp who hates women, this will go well.
 
+5508 Apr 14th -- Eddie has the plague.
 
+5508 Jul 7th -- Finally had a trade ship come by who would buy furniture.  That cleaned up a lot of junk that was laying around from my attempts to produce excellent+ quality furniture for the colonists.  I usually have a trade pile just for "good" quality stuff, but that tends to get filled with all the attempts at producing the next quality level (excellent).
 
+5508 Jul 15th -- Shorty proposed to Stork and she accepted.
 
+5508 Sep 3rd -- 8th Mayoral Election: Blue / Dalila / Poole / Stork / Wes.  Stork wins with five votes.
 
+5508 Sep 5th -- Captured Vilpula (M, 35).  He's another night owl.
 
+5508 Sep 10th -- Stork/Shorty are now married.
 
+5508 Sep 14th -- Eddie has the flu.
 
+5508 Dec 2nd -- Owl proposed to Rasen, who rejected her.
 
+5508 Dec 3rd -- Hotaru (F, 18) offered refuge.
 
+5508 Dec 6th -- Eddie has malaria.
 
+5508 Dec 7th -- Rasen proposed to Owl, who rejected him.
 
+5508 Dec 8th -- Rasen proposed to Owl, who rejected him.
 
+5508 Dec 9th -- Detre romanced Gaaban.  They are now lovers.  
 
+5508 Dec 13th -- Detre switched romance to Sahmona, they are now lovers.  Detree cheated on Gaaban.
 
+5509 Apr 7th -- Owl's mood continues to deteriorate.  Most of it (-35) is the rejected proposals between her and Rasen.  
 
+5509 Apr 8th -- Detre proposed to Sahmona, who rejected him.  Offered refuge to Natsuki (F, 26).
 
+5509 Apr 11th -- Rasen proposed to Owl and she accepted.
 
+5509 Jul 8th -- Rasen and Owl get married.
 
+5509 Jul 9th -- Gaz pursued Beve and they are now lovers.
+
+5509 Jul 12th -- Eddie has the plague.
+
+5509 Sep 6th -- Eddie has the flu.
+
+5509 Sep 8th -- Sahmona proposed to Detre, but was rejected.  Offered refuge to Kaneki (M, 44).  Captured Tommy (M, 31) and Lakhani (M, 36).
+
+5509 Sep 13th -- 9th Mayoral Election: Blue / Wes / Table / Stork / Fedosia / Pecrouma / Choxi / Poole.  Fedosia wins with eight votes.
+
+5509 Sep 15th -- Psychic ship crashes nearby.  
+
+5509 Dec 3rd -- Beve proposes to Gaz, who rejects it.
+
+5509 Dec 9th -- Rescue CJ (M, 36).  Give refuge to Alexi (M, 27), another night owl.
+
+5510 Jul 2nd -- Captured Mel, Slug, and Chris.
+
+(retired save)
