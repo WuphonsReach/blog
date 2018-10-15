@@ -150,6 +150,142 @@ Initial tribe members:
 
 5507 Dec 7th: Captured Paulson (M, 46), missing left foot from combat, but an excellent medic.
 
+5507 Dec 9th: Viper/Nate become lovers.  They met in the hospital while recuperating from a warg attack.
+
+5507 Dec 11th: Captured Peck (F, 44) from a pod crash.
+
+5508 Apr 7th: Purchased Codex (M, 20) and Eddie (M, 33) from the slavers.
+
+5508 Apr 9th: Offered refuge to Mansnovic (F, 22).  
+
+5508 Apr 13th: Black/Braz break-up.
+
+5508 Apr 14th: Toxic fallout spreads across the area.
+
+5508 Jul 6th: Toxic fallout ends.
+
+5508 Jul 10th: Psychic ship lands nearby.
+
+5508 Jul 12th: Lancer/Pinkie get engaged.
+
+5508 Sep 2nd: 8th Mayoral Election -- Ollie / Canto / Viper --Viper wins with fifteen votes.
+
+5508 Sep 10th: Lance/Pinkie marriage.  Viper/Nate break-up.
+
+5508 Sep 13th: Braz/Gina become lovers.
+
+5508 Dec 2nd: Offer refuge to Kazuko (F, 56) who is Gina's mother.
+
+5508 Dec 4th: Frazier/Nate become lovers.
+
+5508 Dec 14th: Rescued Huang (M, 21).
+
+5509 Apr 15th: Poison ship.
+
+5509 Jul 2nd: Gina/Braz get engaged.
+
+5509 Jul 5th: Sandoval/Bender become lovers.  They break-up a few days later.
+
+5509 Jul 9th: Infestation in the trapped room.
+
+5509 Sep 2nd: 9th Mayoral Election -- Lion / Peck / Canto / Strong / Cline / Sandra -- Strong wins with nine votes.
+
+5509 Sep 4th: Offered refuge to Dafo (M, 53).  Captured Mitsuya (F, 36).  Her brain is only 1/10 condition due to the battle, so she's in a coma.  Since she won't do dumb labor, she'll be released.
+
+5509 Sep 7th: Gina/Braz marriage.
+
+5509 Sep 11th: Sandoval/Strong become lovers.
+
+5509 Sep 13th: Drop pod raid on the barn/pasture area.  Captured Richard (M, 19) and Big Red (M, 19).
+
+5509 Sep 14th: Mitsuya (F, 36) has not recovered enough to be released.  Dafo (M, 53) has chronic kidney disease and Mitsuya will be used as the donor.  Harvesting organs did tick off about half the colony.
+
+5509 Dec 11th: Allied with Independent Dominion of North Isherier (IDoNI) through trade.
+
+5509 Dec 13th: Dafo (M, 53) undergoes a left kidney transplant.  There was only moderate rejection and that can be dealt with using medicine.
+
+5509 Dec 14th: Fifteen colonists come down with plague.
+
+5510 Apr 7th: Paulson (M, 48) is attacked by a warg and his left leg is bitten off.
+
+5510 Apr 15th: Toxic fallout starts.
+
+5510 Apr 15th: Otto cheats on Blake with Viper.
+
+5510 Jul 5th: Toxic fallout ends.
+
+5510 Jul 9th: Sandoval/Strong break-up.
+
+5510 Sep 3rd: Sandoval/Frazier become lovers.
+
+5510 Sep 4th: 10th Mayoral Election -- Graye / Mansnovic / Richard / Nate / Sandoval / Cline / Ollie / Sandra -- Nate wins with twelve votes.
+
+5510 Sep 6th: Allied with The Brinsea of the Forest (TBotF) through trade.
+
+5510 Sep 7th: Sandoval/Frazier get engaged.
+
+5510 Dec 1st: Strong (F, 27) has a birthday and gains chronic kidney disease.
+
+5510 Dec 9th: Sandoval/Frazier marriage.
+
+5510 Dec 10th: Strong (F, 27) gets a synthetic kidney to replace her failing left kidney.  Otto (M 61, 11 skill) performed the surgery.
+
+5510 Dec 13th: Paulson (M, 49) gets an advanced bionic leg installed to replace the left leg that was bitten off earlier in the year.  He then goes out and triggers a trap and gets his right leg broken and left eye scratched (3/10).
+
+5511 Apr 4th: Allied with The Red Possum Recri (TRPR) through trade.
+
+5511 Apr 13th: Dafo (M, 54) gets an synthetic kidney to replace his failing right kidney.
+
+5511 Jul 12th: Started production of flake to produce miracle fertilizer.  No trade caravans or orbital trade ships have managed to bring me any.
+
+5511 Sep 2nd: Captured Skinny (M, 36) and Scarlet (F, 37) in a drop-pod raid that landed in the pasture.  Lots of injured animals, lost a dromedary calf.  Then seven of the colony come down with sensory mechanites.
+
+5511 Sep 8th: Offer refuge to Remy (M, 39).
+
+5511 Sep 10th: 11th Mayoral Election -- Graye / Sandoval / Cline / Valarie / Mansnovic / Strong / Sandra / Peck / Lion -- election cancelled due to lack of polling places
+
+5511 Sep 14th: Nate/Black become lovers.  And Blake (F, 42) goes on a hard-drug binge because there was a single bowl of flake laying around.  She's now addicted to it.
+
+5511 Sep 8th: Otto/Viper break-up (they were having an affair) over a conversation about flake.
+
+5511 Dec 11th: Going to treat Blake (F, 42), Sandra (F, 30), Codex (M, 23), Peck (F, 43), and Huang (M, 24) for chemical interest/fascination.  It takes up a doctor's time and the patient has to be treated about every four days.  Not sure it will be a cure for Blake, who is already addicted.
+
+5512 Apr 7th: Bender/Big Red become lovers.  And I caught Blake going after the left-over flake, even though her brain was drug-free.
+
+5512 Apr 11th: Captured Galga (F, 52) from a raid.
+
+5512 Apr 13th: Richard/Peck become lovers.
+
+5512 Jul 3rd: Bender/Big Red get engaged.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
