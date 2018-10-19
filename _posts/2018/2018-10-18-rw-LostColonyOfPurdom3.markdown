@@ -22,8 +22,7 @@ gallery1:
 
 Faction names tend to differ across world generation (possibly based on some of the mods I have installed), but the world itself is identical in placement of rivers, mountains, biomes.  Settling in a hilly/mountainous region with a river, south part of the Xadagua Forest.  Growing season is 50/60 days, so it's a warmer than average temperate forest location.
 
-This will be started right after 1.0 releases, so I know I won't have some of the usual mods (Quarry for one).
-
+This will be started right after 1.0 releases, so I know I won't have some of the usual mods (Quarry for one, although you can edit the about XML file).
 
 Initial tribe members:
 
