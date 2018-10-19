@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Rimworld: The lost colony of Olani'
-date: '2018-09-31T04:19:00.000-05:00'
+title: 'Rimworld: The lost colony of Purdom II'
+date: '2018-09-30T04:19:00.000-05:00'
 author: Wuphon's Reach
 category:
 - Rimworld
@@ -258,54 +258,8 @@ Initial tribe members:
 
 5512 Jul 3rd: Bender/Big Red get engaged.
 
+5512 Jul 8th: Nasty drop pod raid.  Blake (F, 42), wife of Otto and Mansnovic (F, 26) were both killed.  Came close to losing Ollie (M, 28).
 
+5512 Jul 12th: Otto/Strong become lovers.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Patch 1.0 hits and I retired this colony.
