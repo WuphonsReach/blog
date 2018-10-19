@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Rimworld: The lost colony of Purdom'
-date: '2018-09-07T17:17:00.000-05:00'
+title: 'Rimworld: The lost colony of Purdom II'
+date: '2018-09-22T12:14:00.000-05:00'
 author: Wuphon's Reach
 category:
 - Rimworld
@@ -12,21 +12,6 @@ gallery1:
   - image_path: /imgs/rimworld/b19-purdom/2018-09-07-TheWorld.jpg
     url: /imgs/rimworld/b19-purdom/2018-09-07-TheWorld.jpg
     alt: "The Rim World"
-
-gallery2:
-  - image_path: /imgs/rimworld/b19-purdom/2018-09-07-StartingPoint-5500.jpg
-    url: /imgs/rimworld/b19-purdom/2018-09-07-StartingPoint-5500.jpg
-    alt: "Starting colony location"
-
-gallery3:
-  - image_path: /imgs/rimworld/b19-purdom/2018-09-07-StartingColonists.jpg
-    url: /imgs/rimworld/b19-purdom/2018-09-07-StartingColonists.jpg
-    alt: "Starting colonists"
-
-gallery4:
-  - image_path: /imgs/rimworld/b19-purdom/2018-09-07-5501-Apr5.jpg
-    url: /imgs/rimworld/b19-purdom/2018-09-07-5501-Apr5.jpg
-    alt: "5501: Colony layout"
 
 
 ---

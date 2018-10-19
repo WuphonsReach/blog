@@ -1,7 +1,7 @@
----
+--
 layout: post
 title: 'Rimworld: The lost colony of Olani'
-date: '2018-09-31T04:19:00.000-05:00'
+date: '2018-09-13T04:19:00.000-05:00'
 author: Wuphon's Reach
 category:
 - Rimworld

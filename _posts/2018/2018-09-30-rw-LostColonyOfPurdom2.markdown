@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Rimworld: The lost colony of Purdom II'
+title: 'Rimworld: The lost colony of Purdom III'
 date: '2018-09-30T04:19:00.000-05:00'
 author: Wuphon's Reach
 category:
