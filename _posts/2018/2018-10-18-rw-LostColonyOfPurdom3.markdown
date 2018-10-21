@@ -16,6 +16,8 @@ gallery1:
 
 ---
 
+Restarting with a new colony now that Rimworld 1.0 is released and things should be stable for a long time.  I'm playing a heavily modded game, with semi-vanilla balance, but taking the rough edges off some things and adding some other things.  This will be the fourth attempt at the Lost Colony of Purdom (from the old Goon Show).
+
 - Seed: "`red fox`"
 - Coverage: 100% (with average rain/temp)
 - Storyteller: Phoebe (2x mod), base builder (ramped up later)
