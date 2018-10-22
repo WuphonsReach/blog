@@ -33,7 +33,7 @@ Faction names tend to differ across world generation (possibly based on some of 
 - Rainbeau's Rational Romance: 60% straight, 15% bisexual, 15% gay, 10% asexual.
 - Supply and Demand: 300%
 
-The big effect is the research speed and starting with zero technologies, plus a tribal start making it all cost even more.  The passive cooler was 2000 and pemmican was 2500 to research.
+The big effect is the research speed and starting with zero technologies, plus a tribal start making it all cost even more.  The passive cooler was 2000 and pemmican was 2500 to research.  A level 10 researcher is looking at 1/2 to 3/4 of a year to research something like passive cooler.  Unless I run multiple shifts per day and turn off all other jobs on the researcher.
 
 ## Starting tribe:
 
