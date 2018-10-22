@@ -110,7 +110,7 @@ The big effect is the research speed and starting with zero technologies, plus a
 
 **Apr 9th**: Captured Alvin (M, 17) from The Monkey Men (TMM).  A pessimistic masochistic psychopath.  Modest doctoring skills and interest.
 
-**Apr 11**: Finished stonecutting.  Next is tree sowing (5000).
+**Apr 11**: Finished stone-cutting.  Next is tree sowing (5000).
 
 **Apr 13th**: Captured Isaias (M, 21) from TMM.  A jogging psychopath.  Some crafting and strong social interest.
 
