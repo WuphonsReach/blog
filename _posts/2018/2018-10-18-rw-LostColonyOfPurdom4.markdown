@@ -21,7 +21,7 @@ Restarting with a new colony now that Rimworld 1.0 is released and things should
 - Seed: "`red fox`"
 - Coverage: 100% (with average rain/temp)
 - Storyteller: Phoebe (2x mod), base builder (ramped up later)
-- Scenario: Tribal start.
+- Scenario: Tribal start, zero techs.
 - Location: Tevean Thicket (27.74S, 104.26W). Temperature range of 3C-31C, avg 17C.  40/60 growing days.
 
 Faction names tend to differ across world generation (possibly based on some of the mods I have installed), but the world itself is identical in placement of rivers, mountains, biomes.  
@@ -32,6 +32,8 @@ Faction names tend to differ across world generation (possibly based on some of 
 - Rainbeau's Fertile Fields: 50% chance for plowed to degrade to rich, 30% for rich to degrade to normal.  Automatic plowing and hard mode is turned on.
 - Rainbeau's Rational Romance: 60% straight, 15% bisexual, 15% gay, 10% asexual.
 - Supply and Demand: 300%
+
+The big effect is the research speed and starting with zero technologies, plus a tribal start making it all cost even more.  The passive cooler was 2000 and pemmican was 2500 to research.
 
 ## Starting tribe:
 
@@ -58,6 +60,38 @@ Faction names tend to differ across world generation (possibly based on some of 
 **Dec 7th**: Mitsuya (M, 18), our resident neurotic, managed to have an accident and set the research room on fire.  That was nasty because the long house has wood walls (but ironwood floors) and lots of wood furniture.  I had to break open the side walls to the outside to keep temperatures low enough to fight the fire.  All of my colonists suffered at least small burns and Mitsuya got the worst of it.  (Note: The mod that causes small accidents is called )
 
 ## 5502 
+
+**Jul 12th**: Mitsuya and Mapiya catch fibrous mechanites.
+
+**Sep 13th**: Finished researching complex furniture.  Next up is stonecutting (2250).
+
+**Dec 5th**: Odina (F, 50) wanders in and joins.  A sickly psychopath that is also psychically deaf.  She'll be good training for the doctors.
+
+## 5503
+
+**Apr 9th**: Captured Alvin (M, 17) from The Monkey Men (TMM).  A pessimistic masochistic psycopath.  Modest doctoring skills and interest.
+
+**Apr 11**: Finished stonecutting.  Next is tree sowing (5000).
+
+**Apr 13th**: Captured Isaias (M, 21) from TMM.  A jogging psychopath.  Some crafting and strong social interest.
+
+**Dec 2nd**: Offer safety to Time (F, 19), running from The Crouching Farmland Confederation (TCFC).  
+
+**Dec 10th**: Time/Paja become lovers.
+
+## 5504
+
+**Apr 1st**: Paja/Time get engaged.
+
+**Apr 9th**: Captured Nukpana (M, 16), who wandered into the colony about a year ago.  He's an ugly, slowpoke, ascetic and I've been ignoring him.  But now he's wandered into the main house and is being a nuisance.
+
+**Apr 15th**: Tamed four alpaca and bought two huskies off the traders.  I need animals to train with to get handling skill up to 10-ish so that I can work with bears and wolves later.
+
+**Jul 1st**: The first cold snap.  We've had a few heat waves, but never a cold snap.  Dropped down to -20C.  All of my colonists wear tribalwear, which is only good down to about 2-5C.  On the 3rd, it gets down to -21C with a hard snow.
+
+
+
+
 
 
 
