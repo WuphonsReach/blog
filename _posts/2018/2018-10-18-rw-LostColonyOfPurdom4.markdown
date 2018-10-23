@@ -126,15 +126,37 @@ The big effect is the research speed and starting with zero technologies, plus a
 
 **Apr 1st**: Paja/Time get engaged.
 
+**Apr 7th**: Colony layout.  Hauling is a problem.
+
+{% include gallery id="layout5504" %}
+
 **Apr 9th**: Captured Nukpana (M, 16), who wandered into the colony about a year ago.  He's an ugly, slowpoke, ascetic and I've been ignoring him.  But now he's wandered into the main house and is being a nuisance.
 
 **Apr 15th**: Tamed four alpaca and bought two huskies off the traders.  I need animals to train with to get handling skill up to 10-ish so that I can work with bears and wolves later.
 
-**Jul 1st**: The first cold snap.  We've had a few heat waves, but never a cold snap.  Dropped down to -20C.  All of my colonists wear tribalwear, which is only good down to about 2-5C.  On the 3rd, it gets down to -21C with a hard snow.
+**Jul 1st**: The first cold snap.  We've had a few heat waves, but never a cold snap.  Dropped down to -20C.  All of my colonists wear tribal-wear, which is only good down to about 2-5C.  On the 3rd, it gets down to -21C with a hard snow.  We got through it okay, with only a few cases of mild hypothermia.
 
-**Dec 15th**: End of year snapshot
+**Jul 10th**: Paja/Time marriage.
 
-{% include gallery id="layout5504" %}
+**Sep 2nd**: Finished tree sowing, starting comfortable beds.
+
+**Dec 4th**: Finished comfortable beds research, starting canning (VGP Vegetable Garden).
+
+## 5505
+
+**Apr 5th**: Odina, Nukpana and Isaias come down with sensory mechanites.
+
+**Jul 1st**: Cold snap, got down to -22C some nights.  Noticing that sometime Mapiya had her right eye crushed.
+
+**Jul 7th**: Six colonists come down with flu.
+
+**Jul 9th**: Purchased Sarah (F, 35) from The Coalition of the Godless Soil (TCotGS).  Sanguine, ascetic, jogger.  With strong research skill.  Also purchased Fjellsmel (M, 21), a tough sanguine cooking/mining lad.
+
+
+
+
+
+
 
 
 
