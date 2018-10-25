@@ -140,7 +140,7 @@ The big effect is the research speed and starting with zero technologies, plus a
 
 **Sep 2nd**: Finished tree sowing, starting comfortable beds.
 
-**Dec 4th**: Finished comfortable beds research, starting canning (VGP Vegetable Garden).
+**Dec 4th**: Finished comfortable beds research, starting canning (VGP Vegetable Garden, 3750).
 
 ## 5505
 
@@ -151,6 +151,50 @@ The big effect is the research speed and starting with zero technologies, plus a
 **Jul 7th**: Six colonists come down with flu.
 
 **Jul 9th**: Purchased Sarah (F, 35) from The Coalition of the Godless Soil (TCotGS).  Sanguine, ascetic, jogger.  With strong research skill.  Also purchased Fjellsmel (M, 21), a tough sanguine cooking/mining lad.
+
+**Sep 14th**: Mapiya/Fjellsmel become lovers.
+
+**Dec 5th**: Finished canning table research, next is complex clothing (4500).
+
+**Dec 11th**: A caravan from Lenlia Social League (LSL) stopped by and we traded away all of our excess furniture in exchange for allied status.  Even better, they brought along three telescopes.
+
+**Dec 14th**: Silard (M, 45) joins after being rescued from a crash landed pod.  An abrasive, creepy breathing, steadfast, gay, pacifist.  Strong construction skills, strong mining interest and some construction interest.
+
+## 5506
+
+**Apr 13th**: Purchased a few people from the slavers.  Sora (M, 48), fast learner with interest in crafting, but a pacifist.  Suni (F, 16) a night-owl with artistic/intellectual interest.  Braz (M, 30) a quick-sleeping psychopathic night owl.  Jenni (F, 45) a pretty hard-worker.  That will give me a day and night shift working the research table.
+
+**Jul 5th**: Mapiya/Fjellsmel get engaged.
+
+**Jul 9th**: Nash (M, 29) from The Monkey Men (TMM) crash landed and has been captured.  He's an optimistic teetotaler.
+
+**Jul 12th** Finished complex clothing research, next is cocoa (5000).
+
+**Sep 7th**: Mapiya/Fjellsmel marriage.
+
+**Dec 3rd**: Slavers come by again.  Andre (M, 48), fast learner / careful shooter.  Really strong interest in plants, animals, crafting, artistic and medical.  Also Nicole (F, 44), a hard worker with strong social skills.
+
+**Dec 7th**: Six colonists come down with malaria.
+
+**Dec 10th**: Odina turns 55 and now has a bad back.  Cocoa research finishes, going to do Agriculture I (2500) from Vegetable Garden.  Should take about half a year.
+
+**Dec 13th** Isaias turns 25 and gains artery blockage.
+
+## 5507
+
+Production of shirts/pants has started.  Was already making cloth and alpaca wool tuques and jackets and plainleather dusters.
+
+**Apr 2nd**: Captured Kim (F, 29), a wild woman who is an iron-willed teetotaler brawler.  Will not do dumb labor or cleaning, but has strong crafting interest.
+
+**Apr 10th**: Finished the Agriculture I research after only a single quadrum (my guess was two quadrums).  Starting recurve bow (2000).
+
+**Apr 11th**: Andrei/Sarah become lovers.
+
+
+
+
+
+
 
 
 
