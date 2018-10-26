@@ -190,6 +190,26 @@ Production of shirts/pants has started.  Was already making cloth and alpaca woo
 
 **Apr 11th**: Andrei/Sarah become lovers.
 
+**Jul 5th**: Finished recurve bow research, next is Electricity (16000).  At a guess, that will take about 80 days (1.3 years).
+
+**Jul 9th**: Cold snap (-24C as a low) kills all the crops (quickly, had no time to harvest).  Plus the ironwood grove has blight.  Trista (F, 16), an optimsistic and kind soul crashes nearby and is rescued.
+
+**Sep 3rd**: Megasloth (M, 15) self-tames.  We shall name him Manny.
+
+**Sep 5th**: Etch (M, 21) wanders in and joins.  Volatile / bloodlust / trigger-happy.  
+
+**Sep 9th**: Andrei/Sarah get engaged.
+
+**Dec 3rd**: Purchased Pattie (F, 36) and Douglas (M, 48) from the slavers.  That puts us at 27 colonists.
+
+**Dec 9th**: Andrei/Sarah marriage.
+
+**Dec 10th**: A female megasloth (age 5) has self-tamed.  She will be named Mary.
+
+**Dec 12th**: About halfway done with Electricity research.  Running three research tables at the moment.  Might finish by mid-Jul.
+
+
+
 
 
 
