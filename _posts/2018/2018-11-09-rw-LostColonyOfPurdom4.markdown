@@ -50,3 +50,35 @@ Seler Forest (18.98S, 125.14W). Temperature range of 5C-26C, avg 15.5C.  40/60 g
 
 ## 5500
 
+**Dec 12th**: Eoyta (F32) / Waya (M28) become lovers.
+
+## 5501
+
+**Apr 5th**: Eoyta (F32) / Waya (M28) get engaged.
+
+**Apr 13th**: Rescue Lynn (M18) from a pod crash.  An ascetic slowpoke that is incapable of caring and a title of "Liar".  Or, at least, Razor tried to go rescue him before he got up on his own and wandered away.
+
+**Sep 9th**: Razor (F54) and Chitto (M51) come down with muscle parasites.
+
+## 5502
+
+Still at five colonists and under 100k wealth.  Have not had much luck getting suitable additional colonists.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
