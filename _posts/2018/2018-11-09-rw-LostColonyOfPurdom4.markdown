@@ -8,11 +8,45 @@ category:
 tags:
 - Rimworld
 
-world5500:
-  - image_path: /imgs/rimworld/purdom4/
-    url: /imgs/rimworld/purdom4/
-    alt: "The Rim World"
+colony5500:
+  - image_path: /imgs/rimworld/purdom4/5500-09-07-ColonyStart.jpg
+    url: /imgs/rimworld/purdom4/5500-09-07-ColonyStart.jpg
+    alt: "Purdom IV: Colony Start"
 
+colonists5501:
+  - image_path: /imgs/rimworld/purdom4/5500-12-12-Colonists.jpg
+    url: /imgs/rimworld/purdom4/5500-12-12-Colonists.jpg
+    alt: "Purdom IV: Colonists at the start of 5501"
+
+colonists5502:
+  - image_path: /imgs/rimworld/purdom4/5502-04-15-Colonists.jpg
+    url: /imgs/rimworld/purdom4/5502-04-15-Colonists.jpg
+    alt: "Purdom IV: Colonists at the start of 5502"
+
+bigspider5502:
+  - image_path: /imgs/rimworld/purdom4/5502-07-01-bigspider.jpg
+    url: /imgs/rimworld/purdom4/5502-07-01-bigspider.jpg
+    alt: "Purdom IV: Big spider in 5502"
+
+colonists5503:
+  - image_path: /imgs/rimworld/purdom4/5503-04-09-Colonists.jpg
+    url: /imgs/rimworld/purdom4/5503-04-09-Colonists.jpg
+    alt: "Purdom IV: Colonists at the start of 5503"
+
+colonists5504:
+  - image_path: /imgs/rimworld/purdom4/5504-04-03-Colonists.jpg
+    url: /imgs/rimworld/purdom4/5504-04-03-Colonists.jpg
+    alt: "Purdom IV: Colonists at the start of 5504"
+
+colonists5505:
+  - image_path: /imgs/rimworld/purdom4/5505-04-01-Colonists.jpg
+    url: /imgs/rimworld/purdom4/5505-04-01-Colonists.jpg
+    alt: "Purdom IV: Colonists at the start of 5505"
+
+colonists5506:
+  - image_path: /imgs/rimworld/purdom4/5506-04-05-Colonists.jpg
+    url: /imgs/rimworld/purdom4/5506-04-05-Colonists.jpg
+    alt: "Purdom IV: Colonists at the start of 5506"
 
 ---
 
@@ -43,8 +77,6 @@ The carry penalty from Speed Tweaks means that something hauling a huge megaslot
 
 Seler Forest (18.98S, 125.14W). Temperature range of 5C-26C, avg 15.5C.  40/60 growing days.
 
-{% include gallery id="world5500" %}
-
 ## Starting tribe:
 
 - Tauri (M18): Straight, optimist, cannibal.  Animals, shooting, construction.
@@ -55,6 +87,8 @@ Seler Forest (18.98S, 125.14W). Temperature range of 5C-26C, avg 15.5C.  40/60 g
 
 ## 5500
 
+{% include gallery id="colony5500" %}
+
 Wow, what a start.  There are about 200 dead bodies on the map, plus large sprawling ruins.  Corpses are going to be a big problem early on.  But there are also a lot of basic beds, dressers and some other furniture items that I don't yet have the technology for.
 
 **Sep 11th**: Heat wave starts.  So far we have a small barracks and a kitchen / cooking area started.  Starting to bury the 200+ bodies, but it's going to take most of a year (tempted to just let them rot).
@@ -64,6 +98,8 @@ Wow, what a start.  There are about 200 dead bodies on the map, plus large spraw
 **Dec 11th**: Nayati (M65) joins.  Night owl, too smart, straight, psychically dull.  String animals, some social and artistic.  Will not haul.
 
 ## 5501
+
+{% include gallery id="colonists5501" %}
 
 **Apr 9th**: Arrested Ramon (M24), a wild-man that has been wandering around the colony.  Bisexual too-smart psychopath.  No real skills besides melee, but will make a good hauler/cleaner.
 
@@ -79,6 +115,8 @@ Wow, what a start.  There are about 200 dead bodies on the map, plus large spraw
 
 ## 5502
 
+{% include gallery id="colonists5502" %}
+
 **Apr 14th**: Going to start Nayati on research instead of artworks.  First up is Complex Furniture (2250).
 
 **Jul 1st**: A feralisk clutch mother is nearby, with a brood of eggs.  If we don't attack, they'll hatch and possibly overwhelm us.  Somewhat easy to defeat as the seven colonists had recurve bows.
@@ -91,9 +129,13 @@ Wow, what a start.  There are about 200 dead bodies on the map, plus large spraw
 
 ## 5503
 
+{% include gallery id="colonists5503" %}
+
 **Jul 1st**: Another feralisk clutch mother arrives.  Hopefully we can dispatch her as easliy as the last one.
 
 ## 5504
+
+{% include gallery id="colonists5504" %}
 
 **Apr 1st**: Offered refuge to Mayumi (F45).  Bisexual, body purist, gourmand, night owl.  Strong passion for animals.
 
@@ -126,6 +168,8 @@ Forest, Frankie, Carissa and Mayumi will now be the research team.  That's three
 
 ## 5505
 
+{% include gallery id="colonists5505" %}
+
 **Apr 3rd**: Finished Complex Furniture research (only took three years).  Next up is Canning Table (3750) from the VGP mod.  That will give us canned meals (longer storage time over pemmican) and canned meat/veggies/fruit.
 
 **Jul 5th**: Finished Canning Table research, next is Agriculture I (VGP mod) for red lentils and snow beets.
@@ -148,6 +192,8 @@ Forest, Frankie, Carissa and Mayumi will now be the research team.  That's three
 
 ## 5506
 
+{% include gallery id="colonists5506" %}
+
 **Apr 2nd**: Allied with The Tribe of the Cruel Shrub (TTotCS) through trade.
 
 **Apr 7th**: Finished Cocoa research, next is Farming (5625) from the Fertile Fields mod.
@@ -164,7 +210,17 @@ Forest, Frankie, Carissa and Mayumi will now be the research team.  That's three
 
 **Sep 11th**: Nayati (M71) and Mayumi (F48) are now lovers.  Both are night-owls.
 
+**Dec 4th**: Talulah (F41) and Harka (M29) marriage.  Nayati (M71) and Mayumi (F48) get engaged.
 
+**Dec 5th**: Finished Smithing research, next is Agriculture II (5000) from the VGP mod to get fruit garden plants.
+
+**Dec 15th**: A huge bouldermitt, called a summit crab, has invaded the area.  Fortunately, while really tough and killing / breaking everything near it, it's not too aggressive so we were able to take it down with ranged attacks.
+
+## 5507
+
+**Apr 5th**: Nayati (M71) and Mayumi (F48) marriage.
+
+**Apr 12th**: Finished Agriculture II research, next is Drug Production (5000).
 
 
 
