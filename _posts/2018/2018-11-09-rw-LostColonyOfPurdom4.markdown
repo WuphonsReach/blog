@@ -121,6 +121,8 @@ Wow, what a start.  There are about 200 dead bodies on the map, plus large spraw
 
 **Jul 1st**: A feralisk clutch mother is nearby, with a brood of eggs.  If we don't attack, they'll hatch and possibly overwhelm us.  Somewhat easy to defeat as the seven colonists had recurve bows.
 
+{% include gallery id="bigspider5502" %}
+
 **Jul 2nd**: Polinka (F17) wandered in and joined.  Straight, night owl, creepy breathing, great memory.  Strong crafting and medical interest.  Hmmm, everyone in the colony hates her, with -25 due to the creepy breathing.  I'm going to just banish her (she's already a defection risk).
 
 **Jul 15th**: Wolf (M47) crashes nearby.  Straight, kind, too smart.  Some passion for animals, medical, social.
