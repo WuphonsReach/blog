@@ -314,6 +314,377 @@ Marriage.  True love (of titles, money and power).
 
 Vaegirs declare war on us.  Maybe we can take away Dhirim from them.
 
+Nords declare on us, this is not good.  We're not ready for a three front war.
+
+We've lost Narra, possibly going to lose Halmar as well.
+
+Pagundur is going to be sacked by a moderately large (400-600) Nord army.  There's nothing I can do as I'm down to 100 troops and some of them are conscripts.  This will cost me 5000-10000 denar.  It will free me up to go roaming against the Vaegir and Nords, picking off straggler warbands.
+
+Disaster, 200 of Rhodok against 450 of Vaegir and we lost.  Not by much, but enough that I've been captured, my army slaughtered and my companions either captured or fled.
+
+Peace with Vaegir, but still at war with Nords.  We took Narra back, but not Halmar.  The good bit of news is that I still had 50,000 in my pockets when released from captivity and none of my companions are imprisoned.  They're just scattered to the four winds and I will have to seek at least some of them out.  Only seven of the sixteen are still in my party.
+
+Swadia takes Dhirim from Vaegir.  I doubt they can keep it.
+
+## May
+
+Deshavi is in Tihr, Matheld in Praven.  The rest are still scattered to the winds.
+
+Sarranid have declared war on us.
+
+Spending 2500/wk on Weyyah Castle wages for 450 troops, plus about 2800/wk on my personal troops of about 110.  I have about 30k in the treasury and 12k in my purse.  
+
+Hah, captured King Ragnar of the Nords.  He's going straight to the gaol.  Found Lezalit and Klethi in Suno while breaking up the Nord siege.
+
+I've been granted Praven as a fief.  My first town.  Now to stock it with troops and lower the troops I have in Weyyah.
+
+We're at peace with Sarranid.  Now I just need to convince the king to also stop fighting the Nords.  Down to 290 troops in Weyyah Castle, I'll probably do one more trip and get down to about 200 troops there with the rest in Praven (400-500 would be good).
+
+Last day of the month and the Nords have agreed to peace.
+
+## June
+
+Katrin and Deshavi have wandered to Praven and rejoined us.  I've dispatched runners to bring us 90 Nords, 90 Vaegir and 90 Sarranid troops.  On top of the 360, plus another 90 that I'm about to bring from Weyyah that will give about 720 troops in Praven.  About half will only be 1-3 denars per week (fodder for the walls).  I also want to move court from Weyyah to Praven.
+
+Well, that period of peace didn't last long.  The king has declared war on Swadia.  Now I have a chance to seize the castle along the west coast near the training grounds.
+
+Found Nizar in Suno.  And Ymira was in Uxkhal.
+
+Ugh, and we declared war on the Vaegirs.
+
+Found Rolf in Jelkala.
+
+My recruiters managed to return 90 Nord and 90 Sarranid, but not the 90 Vaegir.  Now to train up some Sarranid heavy calvary and take a castle.
+
+Loaned Firentis to King Graveth for a week.
+
+Oh, somehow we lost Maras Castle (near Yalen) to the Sarranid.  Or the lord that owns it may have defected to Sarranid after the war.  That's deep within our territory and I'll have to try and take it back in the next war.
+
+Khergit have declared war on us (now we're at war with three factions).
+
+The king and I broke the siege around Suno by Swadia.  Khergit declare peace.
+
+King is a fool, we're now at war with Sarranid and Nords.
+
+Artimenner might be at Suno according to a tip.  He must have arrived just after I left.  Found him.  Matheld is still rumored to be up around Curaw.
+
+## July
+
+Matheld is still in Curaw.  We're still at war with Sarranid and Nords.
+
+Suno is under siege.
+
+I've started to release the good lords after a battle and only imprison the ones that say:
+- "I give up! I give up! Call back your dogs!" (debauched)
+- "Enough! You win today, you dog! Ach, the shame of it!" (quarrelsome)
+
+The other lords will give a small to moderate (+5) boost to relations for being let go.  The downside is it cuts into the possible income stream from combat of ransoming lords for 1000-3000 each.  So you'll need to do more capture/ransom of soldiers and sell loot to make up for it.
+
+Matheld finally made her way to Praven and rejoined us.
+
+Must be beat-on-Rhodoks time of year.  Khergit have declared war.
+
+Peace with the Nords.
+
+## August
+
+Goal right now is to defend the Praven-Jelkala line against enemy patrols and sieges and build back up my treasury.  I need about 8500/wk for troop salaries.  Still releasing lords after battles for reputation gain so I'm well-liked by more lords.
+
+We're now at war with everyone except the Nords.
+
+Moved household to Praven.
+
+And now it's all the kingdoms vs Rhodoks.  This is going to be a pain for a while.  We do have 53 centers (towns + villages + castles), the next most powerful factions have only 24-30.  We'll probably lose the northern/eastern towns of Dhirim and Narra if we still have them.  Hopefully we can hold the Praven-Jekala line.
+
+Ah peace with the Sarranid, now I can field their heavy calvary and archers.
+
+## September
+
+We're down to just 41 centers.  I tried and failed to take Harringoth Castle.
+
+I've been made the marshal, just in time for peace to break out.  I have 103k in the treasury, 35k in my personal purse.  I'm recruiting another 360 raw recruits to Praven.
+
+Loaned Klethi to Count Clais.
+
+Vaegir/Sarranid declare war on us.  
+
+## October
+
+I've gone on a rampage in Vaegir/Sarranid lands, taking out enough lord's warbands that I feel safe trying to take castles and towns now.
+
+Maras castle has been taken, Nords declare war on us.
+
+I've been awarded Maras Castle and have put 200 troops there to hold it.  Now to go wreck the Nords.
+
+Peace with Sarranid.  I'm still trying to hunt Nords and Vaegir.
+
+Retaken Ibdeles Castle by Jelkala.  My controversy is up to 72, so I'd better reinforce it quickly (up to about 200-250 troops).
+
+For my last hurrah, we'll try to take Uxkhal back.  Ah no luck, but Vaegirs have made peace.  Now that I'm not the marshal, I'm off the leash to attack Nords.
+
+## November
+
+We've declared war on Swadia.
+
+Peace with Nords, but war with Sarranid.
+
+I've taken Haringoth Castle and have asked for it from the king.
+
+## December
+
+I'm going to relinquish Pagundur; I'll be keeping Maras Castle, Weyyah Castle and Praven.  
+
+Salaries: 3000-3200 for my party, 2750 for Praven, 700 for Maras, 1600 for Weyyah.  I need to trim down Weyyah Castle a bit.  But I do have 35k in my purse and 135k in the treasury.
+
+Vaegirs and Nords declare war.  That puts us at war with four factions.
+
+Peace with Swadia.  Time to switch to Swadia troops and go beat on Sarranid and Nords.
+
+Peace with Sarranid, that leaves Vaegirs/Nords.
+
+Wages in Weyyah Castle are down to 1150, Maras Castle is up to 850.  Both have about 300 troops in them.  Praven is 3050 and my personal troops are 3700.
+
+Captured King Ragnar of the Nords!
+
+Enemy caravans can be lucrative sources of income, just stop them and demand a toll for passage.  That gives you about 500-1500 per caravan and you can stop them every few days.  You seem to get more money if your warband is larger and possibly if your renown is higher.
+
+I've been offered the Marshal position again.  Immediately took Uxkhal from the Vaegirs and was awarded it by King Graveth.  Now to stock it like Praven, with 800+ troops.
+
+Nords agree to peace.  That just leaves the Vaegir, who are also fighting the Khergit.
+
+# 1259
+
+## January
+
+War against Sarranid.  I'm still marshal, but not ready to take on Shariz.  Swadia has taken Tihr from Nords.  We now own 46 centers again.  Sarranid have 37 and Vaegir have 36.
+
+Good, I'm no longer marshal.  That lets me off the leash again to go against Sarranid.
+
+Peace with Vaegir.
+
+I've exchanged Praven for Suno.  Hopefully the twins of Uxkhal and Suno will produce higher tariffs then Praven did.
+
+War with the Nords.
+
+## February
+
+War with Nords/Vaegir.  Working on convincing the king to swap Maras Castle for Kelredan Castle.  That will give me a forward base near Dhirim that I can fill with raw recruits.  He agreed and now I have Kelredan Castle. 
+
+Captured King Harlaus of Swadia outside Uxkhal.  Took Vyincourd Castle from Swadia.
+
+Move 187 raw Sarranid recruits from Weyyah Castle to Kelredan Castle.
+
+I'm the marshal again.  We're at war with Nord, Swadia, Vaegir.  Add the Sarranid too while we're at it, eh?  I feel like the best use of my time is going to be putting recruits into every town and castle that is weak.
+
+## March
+
+Vaegir agree to peace.  My time as the marshal was short, but I did shore up a few weak castles with 20-40 troops.  At this point in the campaign, I want a troop count of at least 200 in each castle and 400-500 in each town.
+
+Created a 187 troop patrol around Uxkhal, made up of tier 1 (raw recruits) and tier 2 (one upgrade).  Should cost about 275-300 per week.
+
+## April
+
+Peace.  Swadia now has Tihr and Rivacheg.  I'm busy doing recruitment of tier 1 and 2 soldiers and stuffing them into my holdings.  I'll need about 500-600 in order to help expand the borders.
+
+Hmmm, I wonder how fast Khergit patrols would be.  The ~190 troop patrol around Uxkhal only moves at a speed of 3.5 during the day, not fast enough to catch bandits.  My budget for a patrol is 800/wk which means an average of just 4 per week per soldier.
+
+Current troop costs:
+- Suno: 2100 denars for 1100 troops
+- Uxkhal: 3200 denars for 1000 troops
+- Kelredan Castle: 1450 denars for 850 troops
+- Weyyah Castle: 1600 denars for 400 troops
+- Uxkhal Patrol: 400 denars for 190 troops
+- Personal: 2500 denars for 136 troops
+
+There we go, Sarranid have declared war.  Time to go hit up their caravans for funds and hammer their patrols.  We declared war on the Nords, so now I have two sources of fun.  I'm going to run with about 75-80 knights, 25 Rhodok Sergeants, 25 Rhodok Sharpshooters.
+
+We've taken Ryibelet Castle from the Nords.  I'm sending 100 troops to reinforce it.
+
+Took Knudarr Castle, sending 180 troops to reinforce it.  I'm attacking with 180, leaving 40 behind, then reinforcing with 180 to get up to about 225 troops.  That's enough to discourage the remnants of the Nords from retaking castles.
+
+Encountered King Ragnar, but he slipped away after the battle.  Rhodok are trying to take Dhirim from Sarranid.  Going to go help with that and then shore it up with troops if we take it.
+
+Nice, we took Dhirim.  I'm going to move 375 from Kelredan Castle and 375 from Uxkhal over to Dhirim.  Should put it up to around 775 troops, a big enough deterrent, I hope.
+
+## May
+
+Rhodok tried and failed to take Halmar, but I think it was too much too soon.  We need to take a few castles in the area, then push up.  I also don't have the spare troops to send to Halmar (costs me about 50/troop to recruit and train and move -- or about 30,000 per 600 troops that I place).
+
+My Uxkhal patrol is down to just 113 troops, but they have Nord prisoners.  I'll restock them up to 200 with a bit of mid-level troops and see how they do (526/wk).
+
+Dhirim is down to just 618 troops after a few weeks.  No battles, I just think the troops melted away (or into lord's retainers?).
+
+We took Reindi Castle, but it only has 72 troops in it.  Guess I'll send 188.  That brings it up to 260 troops.
+
+Taking 3x188 out of Suno and moving them to Kelredan Castle.  That leaves me with about 600 in Suno, with orders to recruit 90 Swadian and 90 Rhodok troops.
+
+Next targets:
+- Tevarin Castle, lies behind our lines and is owned by Swadia.
+- Senuzgda Castle, lies near Dhirim
+- Jelbegi Castle, next castle towards Sargoth
+- Unuzdaq Castle, between Weyyah Castle and Halmar
+
+I'm going to need about 800-900 troops in Weyyah Castle, in preparation for taking Shariz.  And I'll need another 600 for Halmar.  
+
+Captured King Ragnar of the Nords.  He'll be worth a moderately pretty denar. They only have Sargoth for a town, so I'm not expecting more then 6000 denar.  Turns out they're willing to spend 12,000 in ransom.
+
+The 200-troop patrol around Uxkhal is earning its keep.  Rushing to the aid of the smaller Rhodok lords when they get into battles.  They were down to 193 troops, so I've reinforced them to 200 again.  And I've enlisted a second Uxkhal patrol of about 1/2 Khergit tier 2 or tier 3 troops.  They move slightly faster at 3.7 instead of 3.5.
+
+## June
+
+Encountered Sultan Hakim near Uxkhal.  Sarranid are making a play for Reindi Castle.  The marshal is going elsewhere, so it's up to me.  I'm going to move 180 troops from Uxkhal to Reindi Castle, plus accompany them with a hardened force of 160.  Not sure that my 180 reinforcements made it, the garrison at the castle was down below 25 when I moved in.  So it may be 185 of us against about 600-700 enemy troops.
+
+(The downside is the ladder on Reindi is buggy and the hostiles get stuck coming up it.  I don't have the ranged units to put that to good use.)
+
+This has turned into an open-field battle, 160 of us against about 470 of them.  I lost 18 wounded and dead in the first round, but we killed or wounded about 350 of the enemy.  Second battle is 143 of us vs 120 of them.  Ouch, I got knocked down by a Khergit Lancer that came up in my blind spot.  My troops should be able to finish it off without me.
+
+Broke the siege, but it was expensive.  Time to go beat up on things in the Sarranid territory so that they don't have the forces to pull that again.
+
+Wow, when did we take Ichamur.  That's going to need reinforced quickly.  It has 260 troops, I could send another 380 for a total of 640.
+
+Sarranid have made peace with us.  The war with the Nords drags on.  Rhodok have 67 centers, the next largest faction (Sarranid) have 37.
+
+My Uxkhal patrols have taken a beating, down to 158 and 192 troops.  
+
+Nords agree to peace.  Time to recruit Nord infantry at Kelredan Castle.  I'll run the maximum recruiters out of my two towns and two castles, which is twelve.  That gives me 1080 troops recruited if all succeed.  And as long as we're at peace, I'll be sending the recruiters out again and again as I have over 400k in the treasury.
+
+Dhirim holds 618 troops, seems to be its natural level.  There will be a feast here soon.
+
+## July
+
+Well, that didn't last long.  Vaegir declare war.  I immediately ran into King Yaroglek outside Reyvadin.  He escaped after the battle, but I shall have him in my dungeon.
+
+I'm trailing the main army of Vaegir, hoping that they run into the main army of the Nords that I saw heading towards Khudan or Ymira Castle.  Or I'll be able to pick off stragglers as I follow them around.  If the main force gets below 300 or so, I'll take them on and wipe out their fighting capability for the next week.  Picked off a few 60-80 strong packs so far and now a 250 strong pack.  
+
+Took Dramug Castle.
+
+Took Derchios Castle.
+
+War with Sarranid.  We've taken Wercheg, but it needs troop reinforcements.  Moving 570 troops to Wercheg.
+
+One of my Uxkhal patrols got wiped out, the other is being attacked and I'm helping.
+
+Captured Sultan Hakim of Sarranid.  We've taken Halmar and I need to provide reinforcements.
+
+## August
+
+Huzzah, King Graveth has bestowed Halmar on me.
+
+Derchios Castle is down to 120 troops. I'll send 130 over from Kelredan Castle.
+
+Running around and recruiting for Halmar.  We're at war with Swadia, Vaegir and Sarranid.  I want to setup a trio of 1500 denar/wk around Halmar.
+
+## September
+
+Oh dear, Gutlans has defected from Rhodok to Sarranid.  That means Sarranid just gained Yalen, Ibdeles Castle and Ryibelet Castle.
+
+Khergit declare war on us.
+
+My single Uxkhal patrol is 250 troops, costing 1550/wk and moving at a speed of 3.6 which is an okay speed.
+
+Bah, Nords too.  We're now at war with all the factions, who are all at peace with each other.  We have 67 centers.
+
+## October
+
+Peace with Sarranid.
+
+Captured King Yaroglek of Vaegir.
+
+Took Tevarin Castle. The king has granted it to me, along with Yaragar by Uxkhal.  It's not really a castle that I want, so I will trade it away for one towards the front lines.
+
+Took Jelbegi Castle.   We're now only at war with Nords.
+
+Back at war with Sarranid. 
+
+Took Tehlrog Castle from Nords.
+
+## November
+
+Patrol/Garrisons:
+- Uxkhal: 902 at 1627
+- Suno: 668 at 967
+- Halmar: 1346 at 3129
+- Weyyah Castle: 1264 at 1693
+- Tevarin Castle: 243 at 574
+- Kelredan Castle: 478 at 2293
+- Uxkhal Patrol: 301 at 3221
+- Personal: 61 at 990
+
+Suno is a bit low on troops, as is Kelredan.  The Uxkhal patrol has higher wages than expected, but it's a strong fighting force around my primary town where my wife lives.  Weekly income varies between 5k and 10k right now and I have 665k in the treasury and about 95k in my purse.  I still want to setup another pair of 200-250 troop patrols around Halmar, but that would cost 2500 each.
+
+Count Reichsin was awarded Tehlrog castle, I wonder if he will trade it for Tevarin Castle.
+
+Sarranid have sieged Dhirim.  I will have to fight with my 200 against 750 to break the siege.  Pulled it off, but it was expensive and I have 150 walking wounded.
+
+Created a 300 strong patrol around Halmar for 1521 per week.  I need to create a second one to help reinforce the first, possibly by pulling troops out of Weyyah Castle.  Done.  Now there are a pair of 300 troop patrols around Halmar.  Both have a speed of 3.5-3.6, not enough to catch most things but enough to come to the aid.  The second costs about 1300 each per week.
+
+The one patrol is already missing 60 men, but have captured 51.
+
+Khergit declare war.
+
+I may have to put a 3rd patrol around Halmar.
+
+Swadia declares war.
+
+Uxkhal has been sieged and I'm the marshal.  Tehlrog Castle too.
+
+Peace with Sarranid.
+
+Peace with Nords, leaves Khergit and Swadia.
+
+## December
+
+Suno is under attack by Swadia.
+
+Peace with Swadia.
+
+Uhhun Castle requires a siege tower, leaving it for later.  Looking at Malayurg Castle, it also requires a siege tower.
+
+Going to take Distar Castle from Khergit, then maybe Tulga if the Sarranid don't do it first.
+
+Swadia declares war.
+
+Captured King Harlaus at Derchious Castle. 
+
+Peace with Khergit, that leaves Swadia.
+
+We've declared war on Vaegir.
+
+# 1260
+
+## January
+
+I've taken Senuzgda Castle. And the king has granted it to me.
+
+Took Tilbaut Castle from Swadia.
+
+Took Rindyar Castle from Swadia.
+
+We've taken Narra, I think it will be a good way to reduce my staffing costs by moving one of my patrols there.
+
+Swadian army roaming around, but too large for me to take directly.  Count Reichsin was around and engaged them, so I helped out and captured King Harlaus.  We have whittled their forces down across a few battles so that they had to break off their siege.  I came away from those battles with two counts and a king for ransoming.  Swadia only has eight total lords and four of them are imprisoned.  This will make it a race to take Rivacheg, Sargoth and Tihr from Swadia.
+
+I've been awarded the village of Toshdar.
+
+Took Sargoth, left 130 troops there and will send about 500 troops to join them.  We now have 79 centers and war has broken out across the lands.
+
+Gave up my two villages, they're just a drain on my economy.  Swadia declares peace and I get Sargoth.  I have about 1500 renown and 350 honor.
+
+Swadia only has Tihr and Rivacheg left as holdings.  Nords have seven castles and Wercheg.  Khergit have Tulga and four castles.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
