@@ -672,30 +672,254 @@ Gave up my two villages, they're just a drain on my economy.  Swadia declares pe
 
 Swadia only has Tihr and Rivacheg left as holdings.  Nords have seven castles and Wercheg.  Khergit have Tulga and four castles.
 
+## February
 
+Got in a scrap with a huge amount of Vaegir, 600+ to our 160.  Came out of it with only 50 troops capable of fighting.  We won, but the king and five of his lords escaped.  It does crush their ability to field an army for the moment.
 
+Sarranid continue to take Khergit castles, but they still have two or three.
 
+Army of Vaegir near Dramug Castle.  It will be my 220 troops against their 535.  Mine are seasoned veterans, theirs are a mix with a lot of low-level troops. Twelve dead and ninety wounded in the first battle and ten wounded and two dead in the second battle.  Vaegir army is broken again.
 
+Giving up Tevarin Castle and Senuzgda Castle, they're a drain on my finances.  Leaves me with four towns and two castles and a -36% tax inefficiency rating.  Gives me +5000/wk instead of -2500/wk into my coffers.  I may give up Weyyah Castle and Kelredan Castle soon too.
 
+We have 83 centers, but only 11 lords.
 
+Vaegir are after Dramug Castle again.
 
+Took Ismirala Castle from Vaegir.  Took Slezkh Castle from Vaegir.
 
+## March
 
+I'm ready to give up Kelredan Castle. 
 
+Tempted to take Radoghir Castle as it requires a siege tower.
 
+Took Yruma Castle from Vaegir.
 
+War against the Nords.
 
+Peace with Vaegir.
 
+War with Swadia.
 
+Took Tehlrog Castle from Nords.
 
+Curin Castle requires a siege tower.
 
+Peace with Khergit, but war with Sarranid.
 
+We have 91 centers and 16 lords.
 
+Peace with Nords.
 
+I think one of the two Halmar patrols got wiped out, the other was down to just 220 troops.  I've brought the one I saw back up to 300.  Got confirmation that the one patrol was defeated, sending the remaining patrol down to Uxkhal.
 
+600k in the treasury, 275k in the purse
 
+## April
 
+Peace with Sarranid, now I can bring out the mamlukes again.  Peace with Swadia too.  Now to raise troops quickly.
 
+We've declared war on the Nords.
 
+Ryibelet Castle requires a siege tower.  Hrus Castle also requires a siege tower.
 
+Took Chalbek Castle from Nords.  It will need 200 troops.
 
+There's a huge army of Nords wandering around Sargoth-Suno line.  I need to nibble on that and take another castle or two.
+
+Broke the Nord army in a series of five battles because they split up.
+
+Took Wercheg from the Nords.  I'll need to send about 400 troops to reinforce it.
+
+Took Bulugha Castle from the Nords.  Leaving behind most of my 200-strong warband.
+
+I've been awarded Caraf Castle.
+
+## May
+
+Gave up Caraf and Weyyah Castle.  That leaves me with Suno, Uxkhal, Halmar and Sargoth which are all towns.  I should be making a profit of about 3000-5000 per week.
+
+War against Sarranid.
+
+Sarranid army near Halmar.  They're heading to Narra, but I was able to pick off the sultan's army of 400 from the rear of the column.
+
+I need to send 150 to Malayurg and 100 to Uhhun Castle.  Then take Narra back if the Sarranid capture it and request it as a reward.  Ah well, Rhodok army showed up and spoiled the siege of Narra, so that scheme will not work.
+
+Freed my father-in-law from captivity with the Sarranid.
+
+Khergit declare war.
+
+Sarranid declare peace already.  Nords agree to peace.
+
+Took Tulga from Khergit, asked for it of the king.  He has granted it to me.
+
+## June
+
+Swadia declares war.
+
+Took Tihr from Swadia, captured four lords.
+
+Rivacheg requires a siege tower, but I've done one cycle of attack against it to whittle it down.
+
+War with Sarranid.
+
+Narra has been sieged by Sarranid.
+
+Took Rivacheg from Swadia, that was their last town.  Swadia has been eliminated.
+
+## July
+
+I've been made marshal again.  Captured Narra back from Sarranid and defended Tulga against the Khergit.
+
+Spent the month defending Tulga/Narra/Halmar and nearby castles.
+
+## August
+
+Vaegir declare war.
+
+I moved both patrols to Halmar, but I think one of them is MIA.  Nords declare war and I resign the marshal position.
+
+Found the second Halmar patrol, they are tearing up a Sarranid warband.  I think a pair of all-Khergit patrols is going to be the best approach.  That is 150 of the 5/week and 150 of the 9/week units for a total of 2100/wk per patrol.  They can move above 4.0 speed and catch or run away.
+
+Took Tulbuk Castle from Khergit.
+
+## September
+
+Captured Sungetche Castle, last of the Khergit holdings.  Had to defend it against a last-ditch attempt by the Khergit to retake it.
+
+Lost one of the Halmar patrols.  The last one has 280 Khergit.
+
+Found the last roaming Khergit lord, their faction has been destroyed.
+
+Peace with Sarranid, leaving Nords and Vaegir.
+
+## October
+
+Running around with 100-110 Swadian Knights, thirty or so crossbows and thirty or so heavy infantry.  Going after any roaming warbands or armies to break them up.
+
+Sarranid declare war.
+
+## November
+
+Peace with Nords.
+
+## December
+
+More defending against Sarranid.  Most of it spent picking off stragglers, intercepting caravans, and the like.
+
+# 1261
+
+## January
+
+Peace with Sarranid, time to do mass recruiting in all my towns.  But war against the Nords.
+
+Captured the king of Nords early in the campaign.  Goal of the first week or two is to capture as many lords as possible and destroy their ability to field an army.
+
+Vaegirs also declares war on Nords.
+
+Sarranid also declares against Nords.
+
+Took Ryibelet Castle from Nords.
+
+## February
+
+Took Tihr from Nords.
+
+Took Hrus Castle from Nords.
+
+Took Chalbek Castle from Nords.  It's their last holding.  The Nords are gone as a faction.
+
+## March 
+
+War with Sarranid.
+
+## April
+
+Took Durquba and Bardaq Castle from Sarranid.
+
+## May
+
+Took Ahmerrad from Sarranid. 
+
+Took Samarra Castle from Sarranid.
+
+Peaced with Sarranid. I requested it so that I could do mass recruitment in my towns again.
+
+## June
+
+War with Vaegirs
+
+Took Curin Castle from Vaegirs.
+
+Took Tehlrog Castle from Vaegirs.
+
+Took Yruma Castle from Vaegirs.
+
+Took Radoghir Castle from Vaegirs.
+
+Took Jeirbe Castle from Vaegirs.
+
+Took Alburq Castle from Vaegirs.
+
+Took Curaw from Vaegirs.
+
+## July
+
+Took Reyvadin from Vaegirs.  I'll trade Tulga for it.
+
+War with Sarranid.
+
+## August
+
+Took Jameyyed Castle from Sarranid.
+
+A period of peace would be nice, maybe the king will agree to peace with both factions.
+
+Peace with Sarranid too, convinced the king across the span of a week.  The truce with Vaegir lasts for another 12 days.
+
+## September
+
+Both truces have expired, I've raised about 2000-2500 recruits during the lull at my five towns.  Currently just roaming from village to village, looking for bandits.  Waiting for the king to declare a war again.
+
+## October
+
+War with Sarranid.
+
+Took Unuzdaq Castle from Sarranid.
+
+Took Teramma Castle from Sarranid.
+
+Took Durrin Castle from Sarranid.
+
+Took Sharwa Castle from Sarranid.  This is a castle with a siege tower that never seems to move off the starting mark.
+
+Took Asugan Castle from Sarranid.
+
+Took Bariyye from Sarranid.
+
+Sarranid are on the ropes.
+
+## November
+
+Took Shariz from Sarranid.
+
+Chasing down the last of the Sarranid warbands.
+
+I've been awarded Curaw.
+
+Three Sarranid lords still roaming free somewhere.
+
+Sarranid are gone.
+
+I've been granted Narra as well.
+
+Took Khudan from Vaegir.  The Rhodok army also took their last castle, Bulugha.  Bit over 1700 days.
+
+## December
+
+Oops, they still have Nelag Castle.
+
+Six lords left to hunt down.
+
+Found the last lord, achieved the Manifest Destiny achievement.
