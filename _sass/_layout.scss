@@ -480,3 +480,14 @@ figure.gallery-third img {
 	display: inline-block;
 	vertical-align: top;
 }
+
+figure.gallery-half {
+	display: block;
+}
+
+figure.gallery-half img {
+	margin: 1%;
+	width: 45%;
+	display: inline-block;
+	vertical-align: top;
+}
