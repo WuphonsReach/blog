@@ -469,3 +469,14 @@ pre code.hljs {
     font-size: 10px;
     font-size: 0.625rem
 }
+
+figure.gallery-third {
+	display: block;
+}
+
+figure.gallery-third img {
+	margin: 1%;
+	width: 45%;
+	display: inline-block;
+	vertical-align: top;
+}
