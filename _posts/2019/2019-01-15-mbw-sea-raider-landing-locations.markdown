@@ -18,6 +18,8 @@ gallery1:
 
 ---
 
-Mount & Blade: Warband - Sea Raider Landing Locations
+## Mount & Blade: Warband - Sea Raider Landing Locations
+
+The sea raider hideouts are generally the easiest to find because they are always along the northern coast of Calradia. I have seen them as far east as Rivacheg and a bit west of Ruvar.
 
 {% include gallery id="gallery1" %}

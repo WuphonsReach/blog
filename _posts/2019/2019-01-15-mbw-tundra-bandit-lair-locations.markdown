@@ -18,6 +18,6 @@ gallery1:
 
 ---
 
-Mount & Blade: Warband - Tundra Bandit Lair Locations
+## Mount & Blade: Warband - Tundra Bandit Lair Locations
 
 {% include gallery id="gallery1" %}

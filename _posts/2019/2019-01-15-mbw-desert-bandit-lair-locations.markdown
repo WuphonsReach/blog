@@ -21,6 +21,8 @@ gallery1:
 
 ---
 
-Mount & Blade: Warband - Desert Bandit Lair Locations
+## Mount & Blade: Warband - Desert Bandit Lair Locations
+
+The lair for desert bandits is usually between Durquba and Ahmerrad.
 
 {% include gallery id="gallery1" %}

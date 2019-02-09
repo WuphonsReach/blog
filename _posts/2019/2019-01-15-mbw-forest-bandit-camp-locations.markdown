@@ -30,6 +30,8 @@ gallery1:
 
 ---
 
-Mount & Blade: Warband - Forest Bandit Camp Locations
+## Mount & Blade: Warband - Forest Bandit Camp Locations
+
+Locations for forest bandits is generally in the two forest patches around Ibiran.
 
 {% include gallery id="gallery1" %}

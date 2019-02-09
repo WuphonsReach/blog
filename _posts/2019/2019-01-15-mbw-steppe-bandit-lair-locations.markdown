@@ -18,6 +18,8 @@ gallery1:
 
 ---
 
-Mount & Blade: Warband - Steppe Bandit Lair Locations
+## Mount & Blade: Warband - Steppe Bandit Lair Locations
+
+Usually found around Dashbigha.  Also found near Dirigh Aban and Tulbuk. 
 
 {% include gallery id="gallery1" %}

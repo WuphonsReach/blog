@@ -39,6 +39,8 @@ gallery1:
 
 ---
 
-Mount & Blade: Warband - Mountain Bandit Hideout Locations
+## Mount & Blade: Warband - Mountain Bandit Hideout Locations
+
+The hideouts for mountain bandits is often in the upper valley between Veluca and Dirigsene.  But it can also be on the other side of the mountain ridge, north of Dirigsene.
 
 {% include gallery id="gallery1" %}
