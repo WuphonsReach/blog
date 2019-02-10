@@ -74,5 +74,73 @@ I'll be switching back to Swadia again in February as they are struggling.
 
 Up to about 750 renown and 400k in the purse.
 
+## April
+
+Up to about 800 renown and 600k in the purse.  Nothing much happened during March and I'm still working for Swadia.
+
+My overall strategy is to push the Nords back to just Tihr, then join them and help them retake territory so that I can demand towns.
+
+Not sure what town or castle I will take for an eventual capital.  Dhirim, Uxkhal and Suno all have small courts.  Halmar is no better.
+
+## May 
+
+Up to 900 renown and 750k in the purse.  I also have 39 right to rule.
+
+Knudarr Castle might be a good primary residence for my court.  It has the larger interior.
+
+## June
+
+Leave Swadia.  About 1017 renown, 186 honor, 48 right to rule, and 900k in the purse.  Rhodoks are struggling with just two towns and a castle.  Kings won't take me as a vassal, so I'm going to go seek out a claimant to the throne.  Probably the Nord claimant.
+
+Nope, found Lord Kastor of Veluca first.  Time to go take some Rhodok territory.
+
+Uxkhal is first and I've requested it for my own.  The downside is that it comes with three villages that I can't give up until we win.  That causes tax inefficiency because I have too many fiefs.
+
+One early task is to fill it with recruits, and also fill the chest with stacks of food (a focus on anything except grain/bread).
+
+Khergit Khanate have declared war on us.  Rhodoks only have Jelkala left.
+
+## July
+
+I shall be known as "the black tulip".
+
+Hunting down stray Rhodok lords.  They have no walled holdings.
+
+Swadia declares war on us.  This will be mostly a defensive war on our part.
+
+Rhodoks defeated, we are now the Rhodoks.
+
+## August
+
+Veluca is now mine.
+
+## September
+
+Weyyah Castle is mine.
+
+Took Suno, requested it from the king.  And was granted it.  I keep hoping he'll deny me a fief so I can rebel.
+
+## October
+
+The kingdom of Black Tulip has been founded.  Artimenner is the minister for now.  I'm starting with Veluca as my capitol.  I own Suno, Uxkhal and Weyyah Castle.
+
+I've appointed Firentis to a lordship, holding Vyincourd Castle as his first fief.  
+
+Stats:  600k in the treasury, 500k in the purse, 1 lord, 48 right-to-rule (RtR), 277 honor and 1440 renown.
+
+Persuaded Tellrog to join Black Tulip by promising that I will unite all of Calradia.  He is martial, so I shall make him my marshal.
+
+Took Ergellon Castle on the 20th.
+
+Sarranid declare war on the 21st.  
+
+Took Jelkala on the 28th from Rhodoks.  That leaves them with just Teramma Castle up in Sarranid territory.  Gave Jelkala to Firentis, which makes Fraichin unhappy.
+
+## November
+
+Swadia declares war on the 3rd.  Large army of Sarranid seen near Weyyah Castle.
+
+Ghulassen and Quryas have been banished by their kings and have joined Black Tulip.  I'm too busy at the moment hunting down distant Rhodok cousins to meet with them.
+
 
 
