@@ -84,7 +84,36 @@ Swadia is at war with Vaegirs.  I'm doing various tasks for the lords to earn th
 
 ## June
 
-Going to go work for Sarranid, who are down to just a town and two castles.  They're at peace now and not yet looking for mercenaries, but one of their truces ends in about a week.
+Going to go work for Sarranids, who are down to just a town and two castles.  They're at peace now and not yet looking for mercenaries, but one of their truces ends in about a week.
+
+## July
+
+Goals before finding a claimant to tackle a kingdom:
+
+- 50+ relation with as many upstanding / good-natured lords as possible.  This will make it far easier to be queen later.  I should also try to get 50+ with martial lords, as they can be useful for marshal duties.
+- 40+ right-to-rule (RtR).  This maxes out at 99.  If you use all sixteen companions to spread the word you can get 48 RtR, but it causes problems above 30 if you still want to be a vassal.  Above 30 and most / all kings will refuse you as vassal.  (Claimants don't care and will still let you take up their cause.)
+- 200+ honor.  Actually, I'm not sure what a good level of honor is.  You might be okay with as little as +10 or +50 or +100.
+- 800+ renown, maybe 1000+.  The more the merrier here because it gives you a larger capacity for troops.  In the process of grinding up relations and raising funds, I'm already at 800+.
+- 400-500k in funds (denars).  It will take 10-50k just to outfit the claimant in decent armor / weapons.  Plus you're going to spend a lot money recruiting and training up troops to shore-up garrisons.  You could get by with 200-300k if you're going to rebel against a small faction, but I'd still push for 500-800k in the purse before starting.
+- 10+ relations with as many villages as possible.  The three quests I'm willing to do are: bandits, cattle and grain.  This makes it easier to raise troops in a hurry later because you'll get more troops (and possibly better quality then raw recruits) when you visit the village.
+
+## July
+
+Sarranid finally go to war, I join as a mercenary company, and we take Ahmerrad from Khergits.
+
+War with Rhodoks vs Sarranids.  Rhodoks only had 90 troops in Shariz, so my band of 110 were able to swoop in and snatch it.
+
+## August
+
+Back to working for Swadia.  About 900+ renown and 900k in the purse.
+
+## September
+
+Working for Sarranid again who are down to just two towns and two castles.  Doing a lot of running around, taking any castle that I can from Khergit/Rhodoks and leaving just 10-20 troops behind.
+
+## November
+
+27 right to rule (RtR), 1075 renown, 267 honor, 1.1 million denars.
 
 
 
