@@ -115,5 +115,60 @@ Working for Sarranid again who are down to just two towns and two castles.  Doin
 
 27 right to rule (RtR), 1075 renown, 267 honor, 1.1 million denars.
 
+# Year 1259
+
+## January
+
+27 RtR, 1134 renown, 284 honor, 1.3 million denars
+
+King Ragnar of the Nords will not give me a fief.  So I'm going to have to take things myself by enlisting the aid of the claimant, Lethwin Far-Seeker.  Nords are starting with 34 centers and 15 lords.
+
+Agreed to help Lethwin Far-Seeker; found him in Yalen.  He will be a an useful patsy for when I go after becoming queen of the Nords.
+
+Banner chosen: Black bear on a yellow field
+
+Looking at the map, the Nords have the five castles (Curin, Chalbek, Hrus, Jelbegi, Tehlrog) around Tihr/Sargoth.  Then also have the towns of Wercheg and Rivacheg.  I was hoping that the Nords would take Knudarr Castle from Swadia (it has a large throne room and good location), but Swadia fought them off.
+
+Taking Chalbek or Hrus would put me out on the peninsula and possibly allow them to bottle me.  I could go and take Sargoth, but I'm not ready.  Jelbegi Castle is possibly a good choice due to location (I can easily escape into Swadian lands), with Tehlrog a possible second.  Or I could go take Rivacheg, which is isolated and vulnerable while not as limiting as Wercheg would be.
+
+Step one is going to be the destruction of the Nord armies in the field.  Although Vaegirs and Swadia may accomplish that for me.
+
+Step two will be to take Rivacheg.
+
+Bulba joins us on the 27th.
+
+Took Rivacheg on the last day of January.  
+
+Note: Do **not** assign the town/castle that you take right away.  Always say that you will pick later.  If you assign the town/castle to a vassal (or yourself), all associated villages will **also** get assigned to that vassal.  In order to spread the wealth around and prevent the -4 weekly penalty with vassals that hold no fiefs, you want to assign the villages first to your least trustworthy vassals.
+
+## February
+
+Nords lost Wercheg to Vaegirs, but gained Nelag Castle in the mountains between Vaegir/Khergit territory.
+
+My goal is to keep destroying Nord parties until other factions take the Nord territories.
+
+## March
+
+The other factions did not step up like I wanted, so we're taking territory ourselves.  Sarranids have declared war on us, but Nords are down to just one castle left.
+
+Nords have no fiefs left and only a handful of lords.
+
+I'm taking Halmar from Sarranid.  It's centrally located and a good starting point for my eventual rebellion.  I'll either grab Kelredan/Knudarr or Weyyah Castle as a place to stack huge numbers of troops.
+
+Peace with Sarranid on the 24th.  Nords still have five lords, somewhere.  We have 23, so they'll probably track them down.
+
+Two Nord lords defect to us on the 25th.
+
+## April
+
+Nord faction vanished on the 9th.  We have won and are at peace.  I'm busy putting away veteran troops in Halmar against a rainy day.
+
+I have 57 RtR, 1395 renown, 352 honor.  1 million denars in the treasury and 350k in my purse.
+
+12th: War with Swadia.  Now is my chance to grab Dhirim.  Changed my mind, Reindi Castle is nearby and I need a castle (or two).
+
+22nd: I was granted Reindi Castle.  Now for Dhirim.
+
+
 
 
