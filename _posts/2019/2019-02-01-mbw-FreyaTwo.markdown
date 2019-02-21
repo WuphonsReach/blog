@@ -169,6 +169,67 @@ I have 57 RtR, 1395 renown, 352 honor.  1 million denars in the treasury and 350
 
 22nd: I was granted Reindi Castle.  Now for Dhirim.
 
+30th: I have Reindi and Halmar, stocking Dhirim with troops.  If I get Dhirim, that will be good, otherwise I will revolt and keep it.
+
+## May
+
+Revolt!  Lethwin refused me Dhirim!
+
+Artimenner will be my chancellor / minster.  Firentis will be soon be promoted to a fief-holding lord.  Possibly Sargoth or Tihr.
+
+One of the big decisions to make that has long-term effects is the initial domestic policy of the kingdom.  If you screw up the initial choices, it takes a long time to nudge it to where you want it.  Most of the policies have ranges of -3 to +3 and you can only move it one step every 35 days.
+
+- Centralization: ranges from -3 relation to +3 relation with all lords in the kingdom per month
+- Aristocracy: Also has a +3/-3 range of impact on lord relations per month.
+
+The other settings don't have impact on lord relations.
+
+To start with, I'm going with:
+
+- quite decentralized (+2/month, +10% tax inefficiency for me, -20% party size for me but +6% for my vassals)
+- quite aristocratic (+2/month, -10% trade, +6% vassal army size)
+- serfs: balanced (no penalties or bonuses)
+- great bravery: vassal armies decrease by 8%, but have stronger troops
+- mercantilism: a little laissez-faire
+
+Khergit immediately declare on us.  And the Nords offer up peace a few days later.
+
+Dhirim is now my court.  Halmar was too crowded and small.  Reindi Castle was a close second with its huge interior (like Veluca) but it had no decorations.  I will eventually take Veluca and hold it as my primary court.
+
+Firentis has been granted the town of Halmar, Ehlredah and Peshmi.  Giving him one town and two villages that are all near each other.  He's also the marshal.  I buffed up his path-finding skills, leadership and charisma before giving him a fief.  He can field 170 troops with a speed of 7.0+ on the map.
+
+Jelbegi Castle will not stay ours for long.  Laruqen defected to us and he's a quarrelsome lord.  Azadun is also quarrelsome, so I've given Jelbegi village to him.  Keeping both of my troublemakers in the same corner.
+
+Fraichin is also a problem; a debauched lord.
+
+Harish is the only decent one out of the lot so far, a martial person.
+
+Marayirr is also trouble.  Quarrelsome.
+
+## June
+
+Period of peace.  I'm going to move my court back to Reindi Castle, the location of the chest in Dhirim is annoying and the room is a bit on the small side.
+
+11th: Nords declare war.  They hold no useful territory (Rivacheg and Tihr) for me at the moment, but we can go rumble them.
+
+14th: Swadia declares war.  This holds more possibility.  Senuzgda Castle (and Emerin) could be taken and given to Harish.  I could also grab Uxkhal for myself.
+
+15th: Took Senuzgda Castle and Emerin for Harish.  Rhodoks are trying to take Uxkhal, I'm hoping that they don't succeed.
+
+I think I have a chance to wipe out the Nords (who also at war with Vaegirs) so that some of their upstanding / good-natured lords land in my court.
+
+Swadia offers peace on the 21st and I accept.  Now to wipe out the Nords.
+
+24th: Khergit declare war.
+
+25th: Nords lose their last castle.  The faction should now implode and lords will scatter to the other factions.
+
+25th: Nord faction eliminated.
+
+26th: Ended up with Kurnias and Rimusk.  Both are pitiless and not my favorites, but I'll give them villages.  I've taken Tihr and Sargoth for myself, for now.
+
+30th: Vaegir declare war.  
+
 
 
 
