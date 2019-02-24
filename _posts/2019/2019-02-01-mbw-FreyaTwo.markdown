@@ -230,6 +230,118 @@ Swadia offers peace on the 21st and I accept.  Now to wipe out the Nords.
 
 30th: Vaegir declare war.  
 
+## July
+
+At war with Khergit and Vaegir and I could take castles and towns, but I have no upstanding / good-natured lords to grant them to.  Maybe I'll grab a castle and a few more villages for Firentis and Harish.
+
+9th: Gave Uhhun Castle and village to Firentis.
+
+12th: Khergit ask for peace.  Vaegir are sieging Sargoth.
+
+Took Reyvadin for myself, but I'd like to give up Tihr and maybe Sargoth.  Ended up with pitiless Tirida, even though I rejected him from my court.
+
+19th: Sarranid declare war.  They're also at war with Rhodok and Khergit.  With only two towns and one castle left.
+
+25th: Sarranid asks for peace already.
+
+Going to take Tilbaut Castle and Tadsamesh village for Lord Harish.
+
+26th: Vaegirs sue for peace before I could do so.  I now have 99 right-to-rule.
+
+Since I'm at war with Swadia, Harish will have to be content with my taking of Derchios Castle and Tosdhar village.  
+
+Hiwan has joined, I've given him two castles and two villages out on the Tihr peninsula.
+
+## August
+
+Running around taking Swadian towns and castles and leaving a few defenders behind.
+
+10th: Khergit declare war.
+
+Captured Unuzdaq Castle for Lord Harish.
+
+22nd: Swadia holds zero fiefs now.  The lords should now scatter to other factions and possibly I will pickup a handful of upstanding/good-natured lords out of this.
+
+23rd: Khanate sue for peace.
+
+Lords:
+
+- Upstanding/Good: Firentis, Stamar
+- Martial: Harish, Hiwan
+- Trouble: the rest
+
+Firentis has Halmar, plus Uhhun Castle and the villages nearby.  Stamar gets Praven/Suno plus Tevarin Castle and a handful of villages.  I'm going to give Tihr to Hiwan (martial) who has the castles down there.
+
+## September
+
+1st: Rhodok declare war.  Now is my chance to take Veluca.
+
+Major defeat at Haringoth Castle.  Three hundred of us against nine hundred of them and we got overwhelmed trying to hold the stairs.  We killed about 550, but they still had 100 left on the field when the last of us fell.
+
+6th: Vaegir declare war on us.
+
+Of the fourteen companions that I had with me, I've only found six of them so far.
+
+8th: Rhodoks take Vyincourd Castle too and make a play for Ergellon Castle.
+
+17th: Sarranid declare war.
+
+18th: Swadia is finally eliminated as a faction.
+
+19th: Khergit declare war.
+
+Took Veluca and two upstanding/good-natured lords have joined.  I have granted them fiefs:
+
+- Grainwad: Sargoth, plus the villages of Ambean and Fenada
+- Despin: Kelredan Castle and Chide
+
+22nd: Ryis joins (another good/upstanding lord).  I do not have a town to give him at the moment.  And Despin needs a town, or maybe another castle and village.
+
+28th: Rhodoks sue for peace.  I kept Veluca.
+
+## October
+
+5th: Vaegir sue for peace.
+
+13th: Left Sultan Hakim to rot in Reindi Castle's dungeon.
+
+25th: Dhashwal has joined, I want to give him Yruma Castle.
+
+26th: Dhiyul joins (another good/upstanding lord).  I'll take Knudarr Castle for him.
+
+31st: Knudarr shows up to my court too late to get Knudarr Castle.  I'll give him something else.
+
+## November
+
+Taking castles back from Vaegirs and giving them to my favorites.
+
+6th: Sarranid vanishes as a faction.  Vaegirs sue for peace.
+
+18th: Found Tulug (upstanding/good) wandering around by himself and accepted his fealty.  I've nothing to grant him at the moment, but war should break out soonish.
+
+23rd: Declared war on Rhodoks.  Now working on breaking up their army with my 200+ Swadian Knights.
+
+## December
+
+At war with Khergit too.
+
+21st: Plans... Weyyah Castle for Ryis, Samarra Castle for Rhocabarth, Khudan for Dhashwal.  Peace with Rhodoks, which will put Weyyah Castle on hold for a bit.
+
+# Year 1260
+
+## January
+
+8th: Peace with Khergit.
+
+## February
+
+Almost a month of peace.  I've been doing mass recruitments at my three towns and a castle.  I could marry Despin, if I were inclined to.
+
+
+
+
+
+
 
 
 
