@@ -337,6 +337,10 @@ At war with Khergit too.
 
 Almost a month of peace.  I've been doing mass recruitments at my three towns and a castle.  I could marry Despin, if I were inclined to.
 
+It might be possible to peel Gasta away from the Vaegirs.  I have a good relationship with him, and he doesn't like his current king.  That would bring me two castles.
+
+Katrin failed to convince Gasta to change lords.
+
 
 
 
