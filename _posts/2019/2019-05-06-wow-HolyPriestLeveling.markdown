@@ -11,7 +11,9 @@ tags:
 
 ---
 
-Leveling up a holy priest from scratch in World of Warcraft 8.1.  I have one up around level 100, but I don't remember how it all fits together enough to play at that lavel.
+Leveling up a holy priest from scratch in World of Warcraft 8.1.  I have one up around level 100, but I don't remember how it all fits together enough to play at that level.
+
+**Table of Contents**
 
 - [Key-bindings for VuhDo](#key-bindings-for-vuhdo)
   - [Mouse](#mouse)
