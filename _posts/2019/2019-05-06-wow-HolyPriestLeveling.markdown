@@ -31,9 +31,9 @@ I like to use some sort of raid-frame add-on that lets you apply spells to peopl
 
 Mappings|(no mod)|Shift+key|Ctrl+key|Ctrl+Shift+key
 -|-|-|-|-
-Left Click|Heal|Flash Heal|Prayer of Healing|
-Right Click|Prayer of Mending|||
-Middle Click|Purify|Renew|Mass Dispel|x
+Left Click|Heal|Flash Heal|Prayer of Healing|(target)
+Right Click|Prayer of Mending|Renew||(VuhDo menu)
+Middle Click|Purify||Mass Dispel|(set focus)
 Mouse 4||||
 Mouse 5||||
 Q||||
@@ -52,8 +52,9 @@ G|Holy Word: Sanctify|||
 
 Notes: 
 
-- I find it difficult to hit "mouse 4" versus "mouse 5" reliably, therefore all spells are duplicated across both keys in VuhDo.  And I only put spells there which are not time-critical.
-- Some of this is done via macros to save on bar slots.  Any cells with "..." are used elsewhere in the UI.
+- I find it difficult to hit "mouse 4" versus "mouse 5" reliably (while not moving the mouse), therefore all spells are duplicated across both keys in VuhDo.  And I only put spells there which are not time-critical.
+- Most of the regular keys that also have a "shift" variant are done via macros.  This helps save on bar slots.  See the [Holy Fire / Smite](#holy-fire--smite) macro for an example.
+- The "G" key is good for instant-cast targeted spells with long cool-downs.  It's far enough away from WASD not to be hit by accident, but close enough to hit while running with the W-key held down.
 
 ## WeakAuras2
 
@@ -73,7 +74,7 @@ Note that you should put `/cast` or `/use` lines that use modifiers before those
 
 ### Holy Fire / Smite
 
-Casts "Holy Fire" (DoT) or "Smite" if the "shift" key is held down.
+Casts "Holy Fire" (DoT) or "Smite" if the "shift" key is held down.  I put this on the "E" key because it gets spammed all the time.  Putting it on the "F" key would also work without torturing your fingers.
 
 ```
 #showtooltip
@@ -82,7 +83,7 @@ Casts "Holy Fire" (DoT) or "Smite" if the "shift" key is held down.
 
 ### Levitate
 
-Good example of a macro that applies the buff to whatever you point at (even works with various raid frames).  Or it will apply it to your target, or just yourself.
+Good example of a macro that applies the buff to whatever you point at (even works with various raid frames).  If the mouse pointer is not over a friendly (in the world / party frames), it will apply it to your target (if friendly).  Lastly, it will just apply it to yourself (useful when falling).
 
 ```
 /cast [@mouseover,help,nodead][help][@player] Levitate
@@ -90,7 +91,7 @@ Good example of a macro that applies the buff to whatever you point at (even wor
 
 ### Interrupts
 
-Casts first interrupt, or a secondary interrupt if the "shift" key is held down.
+Casts first interrupt, or a secondary interrupt spell if the "shift" key is held down. 
 
 ```
 #showtooltip
