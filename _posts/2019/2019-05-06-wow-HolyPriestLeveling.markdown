@@ -13,11 +13,11 @@ tags:
 
 Leveling up a holy priest from scratch in World of Warcraft 8.1.  I have one up around level 100, but I don't remember how it all fits together enough to play at that level.
 
+One of the hard bits about leveling up is figuring out where all your spells will be at maximimum level.  That's important so that your muscle-memory is in place when dungeons/raids make it hard.
+
 **Table of Contents**
 
-- [Key-bindings for VuhDo](#key-bindings-for-vuhdo)
-  - [Mouse](#mouse)
-  - [Keyboard](#keyboard)
+- [Key-bindings](#key-bindings)
 - [WeakAuras2](#weakauras2)
   - [Mana Block](#mana-block)
 - [Macros](#macros)
@@ -25,41 +25,35 @@ Leveling up a holy priest from scratch in World of Warcraft 8.1.  I have one up 
   - [Levitate](#levitate)
   - [Interrupts](#interrupts)
 
-## Key-bindings for VuhDo
+## Key-bindings
 
 I like to use some sort of raid-frame add-on that lets you apply spells to people by putting the mouse pointer over their frame and using various chords/clicks.  This means your mouse and attention spends most of the time in a small area below the middle of the screen.
-
-### Mouse
-
-I find it difficult to hit "mouse 4" versus "mouse 5" reliably, therefore all spells are duplicated across both keys in VuhDo.
 
 Mappings|(no mod)|Shift+key|Ctrl+key|Ctrl+Shift+key
 -|-|-|-|-
 Left Click|Heal|Flash Heal|Prayer of Healing|
 Right Click|Prayer of Mending|||
 Middle Click|Purify|Renew|Mass Dispel|x
-Mouse 4|Holy Word: Serenity|Guardian Spirit||
-Mouse 5|Holy Word: Serenity|Guardian Spirit||
-
-### Keyboard
-
-Some of this is done via macros to save on bar slots.  Any cells with "..." are used elsewhere in the UI.
-
-Mappings|(no mod)|Shift+key|Ctrl+key|Ctrl+Shift+key
--|-|-|-|-
+Mouse 4||||
+Mouse 5||||
 Q||||
 E|Holy Fire|Smite||
 Z|Fade|||
 X||||
 C||||
-F|...|Holy Word: Chastise||(set focus)
+F|Holy Word: Chastise|(second interrupt)||(set focus)
 G|Holy Word: Sanctify|||
 1||||
 2||||
-3||||
-4||||
+3|Holy Word: Serenity|||
+4|Guardian Spirit|||
 5||||
 6||||
+
+Notes: 
+
+- I find it difficult to hit "mouse 4" versus "mouse 5" reliably, therefore all spells are duplicated across both keys in VuhDo.  And I only put spells there which are not time-critical.
+- Some of this is done via macros to save on bar slots.  Any cells with "..." are used elsewhere in the UI.
 
 ## WeakAuras2
 
@@ -87,6 +81,8 @@ Casts "Holy Fire" (DoT) or "Smite" if the "shift" key is held down.
 ```
 
 ### Levitate
+
+Good example of a macro that applies the buff to whatever you point at (even works with various raid frames).  Or it will apply it to your target, or just yourself.
 
 ```
 /cast [@mouseover,help,nodead][help][@player] Levitate
