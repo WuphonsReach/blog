@@ -24,6 +24,8 @@ One of the hard bits about leveling up is figuring out where all your spells wil
   - [Holy Fire / Smite](#holy-fire--smite)
   - [Levitate](#levitate)
   - [Interrupts](#interrupts)
+  - [Holy Word: Serenity](#holy-word-serenity)
+  - [Guardian Spirit](#guardian-spirit)
 
 ## Key-bindings
 
@@ -78,7 +80,8 @@ Casts "Holy Fire" (DoT) or "Smite" if the "shift" key is held down.  I put this 
 
 ```
 #showtooltip
-/cast [mod:shift,@targettarget,harm,nodead][mod:shift,harm,nodead] Smite; /cast [@targettarget,harm,nodead][harm,nodead] Holy Fire
+/cast [mod:shift,@targettarget,harm,nodead][mod:shift,harm,nodead] Smite;
+/cast [@targettarget,harm,nodead][harm,nodead] Holy Fire
 ```
 
 ### Levitate
@@ -95,6 +98,20 @@ Casts first interrupt, or a secondary interrupt spell if the "shift" key is held
 
 ```
 #showtooltip
-/cast [mod:shift,@targettarget,harm,nodead][mod:shift,harm,nodead] Quaking Palm; /cast [@targettarget,harm,nodead][harm,nodead] Holy Word: Chastise
+/cast [mod:shift,@targettarget,harm,nodead][mod:shift,harm,nodead] Quaking Palm;
+/cast [@targettarget,harm,nodead][harm,nodead] Holy Word: Chastise
 ```
 
+### Holy Word: Serenity
+
+```
+#showtooltip Holy Word: Serenity
+/cast [@mouseover,help,nodead][help,nodead] Holy Word: Serenity
+```
+
+### Guardian Spirit
+
+```
+#showtooltip Guardian Spirit
+/cast [@mouseover,help,nodead][help,nodead] Guardian Spirit
+```
