@@ -81,8 +81,8 @@ Casts "Holy Fire" (DoT) or "Smite" if the "shift" key is held down.  I put this 
 
 ```
 #showtooltip
-/cast [mod:shift,@targettarget,harm,nodead][mod:shift,harm,nodead] Smite;
-/cast [@targettarget,harm,nodead][harm,nodead] Holy Fire
+/cast [mod:shift,@targettarget,harm][mod:shift,harm] Smite;
+/cast [@targettarget,harm][harm] Holy Fire
 ```
 
 ### Levitate
@@ -91,7 +91,7 @@ Good example of a macro that applies the buff to whatever you point at (even wor
 
 ```
 #showtooltip
-/cast [@mouseover,help,nodead][help][@player] Levitate
+/cast [@mouseover,help][help][@player] Levitate
 ```
 
 ### Interrupts
@@ -100,8 +100,8 @@ Casts first interrupt, or a secondary interrupt spell if the "shift" key is held
 
 ```
 #showtooltip
-/cast [mod:shift,@targettarget,harm,nodead][mod:shift,harm,nodead] Quaking Palm;
-/cast [@targettarget,harm,nodead][harm,nodead] Holy Word: Chastise
+/cast [mod:shift,@targettarget,harm][mod:shift,harm] Quaking Palm;
+/cast [@targettarget,harm][harm] Holy Word: Chastise
 ```
 
 ### Holy Word: Serenity
