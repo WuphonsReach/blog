@@ -56,7 +56,8 @@ Notes:
 
 - I find it difficult to hit "mouse 4" versus "mouse 5" reliably (while not moving the mouse), therefore all spells are duplicated across both keys in VuhDo.  And I only put spells there which are not time-critical.
 - Most of the regular keys that also have a "shift" variant are done via macros.  This helps save on bar slots.  See the [Holy Fire / Smite](#holy-fire--smite) macro for an example.
-- The "G" key is good for instant-cast targeted spells with long cool-downs.  It's far enough away from WASD not to be hit by accident, but close enough to hit while running with the W-key held down.
+- The "G" key is good for instant-cast spells with long cool-downs where you place a target marker on the floor.  It's far enough away from WASD not to be hit by accident, but close enough to hit while running with the W-key held down.
+- Spells like "Holy Word: Serenity" get mouse-over macros so that they can be used with raid/party frame UI elements.
 
 ## WeakAuras2
 
@@ -89,6 +90,7 @@ Casts "Holy Fire" (DoT) or "Smite" if the "shift" key is held down.  I put this 
 Good example of a macro that applies the buff to whatever you point at (even works with various raid frames).  If the mouse pointer is not over a friendly (in the world / party frames), it will apply it to your target (if friendly).  Lastly, it will just apply it to yourself (useful when falling).
 
 ```
+#showtooltip
 /cast [@mouseover,help,nodead][help][@player] Levitate
 ```
 
@@ -106,12 +108,12 @@ Casts first interrupt, or a secondary interrupt spell if the "shift" key is held
 
 ```
 #showtooltip Holy Word: Serenity
-/cast [@mouseover,help,nodead][help,nodead] Holy Word: Serenity
+/cast [@focus,help][@mouseover,help][help] Holy Word: Serenity
 ```
 
 ### Guardian Spirit
 
 ```
 #showtooltip Guardian Spirit
-/cast [@mouseover,help,nodead][help,nodead] Guardian Spirit
+/cast [@focus,help][@mouseover,help][help] Guardian Spirit
 ```
