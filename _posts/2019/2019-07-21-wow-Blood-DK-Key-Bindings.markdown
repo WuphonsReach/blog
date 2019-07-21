@@ -51,11 +51,6 @@ It's best to use macros for the shift-key variants so that you can reduce the nu
 
 Mappings|(no mod)|Shift+key|Ctrl+key|Ctrl+Shift+key
 -|-|-|-|-
-Left Click||||
-Right Click||||
-Middle Click||||
-Mouse 4||||
-Mouse 5||||
 Q|Death's Caress|||
 E|Heart Strike|Marrowrend||
 R|Blood Boil|||
@@ -70,6 +65,11 @@ C||||
 4||Death Strike||
 5||||
 6||||
+Left Click||||
+Right Click||||
+Middle Click||||
+Mouse 4||||
+Mouse 5||||
 
 ## Macros
 
