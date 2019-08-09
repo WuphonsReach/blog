@@ -17,13 +17,13 @@ These are the key-bindings that I've come up with over the past few months.
 
 **Table of Contents**
 
-- [Basics](#Basics)
-- [Key-bindings](#Key-bindings)
-- [Macros](#Macros)
-  - [Blood E](#Blood-E)
-  - [Blood F](#Blood-F)
-  - [Blood X](#Blood-X)
-  - [Blood Z](#Blood-Z)
+- [Basics](#basics)
+- [Key-bindings](#key-bindings)
+- [Macros](#macros)
+  - [Blood E](#blood-e)
+  - [Blood F](#blood-f)
+  - [Blood X](#blood-x)
+  - [Blood Z](#blood-z)
 
 ## Basics
 
@@ -53,9 +53,9 @@ Mappings|(no mod)|Shift+key|Ctrl+key|Ctrl+Shift+key
 -|-|-|-|-
 Q|Death's Caress|||
 E|Heart Strike|Marrowrend||
-R|Blood Boil|||
+R|Blood Boil|Death and Decay||
 F|Mind Freeze|Asphyxiate||
-G|Death and Decay|Gorefiend's Grasp||
+G|Gorefiend's Grasp|||
 Z|Dancing Rune Weapon|Icebound Fortitude||
 X|Vampiric Blood|Anti-Magic Shell||
 C||||
