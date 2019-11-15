@@ -12,9 +12,9 @@ tags:
 
 Starting a new RimWorld colony in 1.0 with a world seed of "Halogen" and [lots and lots of mods](/blog/imgs/halogen1/modlist.html).  I'm also a builder and a coward, so a lot of the mod settings make everything easier at the start.  The colony of Halogen-1 will be founded in the [Boreal Forest](https://rimworldwiki.com/wiki/Biomes) on a world that is slightly colder and much wetter than average.  I like tribal starts, but not "naked brutality" starts.  Given the low technology level, a colder area is somewhat easier to deal with.  As long as you can harvest enough leather/pelts from the wildlife.
 
-For easy food, [Underground Food](https://steamcommunity.com/sharedfiles/filedetails/?id=1761270139) is something that makes growing food in a cold biome really easy.  Put a dark room around a steam geyser, plant melrotus and vanetike all year around.  You can supplement with camp fires hidden behind an open door to keep the temperature up.  It's less efficient than normal crops, but makes up for it due to the simplicity.  With a tribal start, you'll have access to a meat/wood substitute right at the start.
+For easy food, [Underground Food](https://steamcommunity.com/sharedfiles/filedetails/?id=1761270139) is something that makes growing food in a cold biome really easy.  Put a dark room around a steam geyser, plant melrotus and vanetike all year around.  You can supplement with camp fires hidden behind an open door to keep the temperature up.  It's less efficient than normal crops, but makes up for it due to the simplicity.  With a tribal start, you'll have access to a meat substitute right at the start.  Using it for a wood supply is also possible, but labor intensive.
 
-Another approach is [Smoked Meat](https://steamcommunity.com/sharedfiles/filedetails/?id=1542364782) which lets you dry/cure 10 or 40 units of meat at a time into something that lasts for 30 days.  This is a nice middle-ground between pemmican and simple meals that expire after 1-3 days.  Good for feeding dogs/pets if you don't want to or can't make kibble.  It can also be fed into pemmican for a food that lasts about 60 days.
+Another approach is [Smoked Meat](https://steamcommunity.com/sharedfiles/filedetails/?id=1542364782) which lets you dry/cure 10 or 40 units of meat at a time into something that lasts for 30 days.  This is a nice middle-ground between long-lasting pemmican and simple meals that expire after 1-3 days.  Good for feeding dogs/pets if you don't want to or can't make kibble.  It can also be fed into pemmican and other simple/fine/lavish meal recipes.
 
 ## World Seed and Location
 
@@ -30,7 +30,7 @@ I have a mod that lets me make "bulk kibble" (which is 200 units/operation inste
 
 (54) smoked meat (0.08 nutrition) + (80) plant scraps (0.05 nutrition) = (200) kibble (0.05 nutrition)
 
-That's 4.32 + 4 = 10 nutrition, which is a net gain of about 20% at a butcher table.  The real gain, because I can use plant scraps, is 231% for converting smoked meat into kibble for the pets.  Plant scraps (from a mod) are a by-product of cutting down trees or harvesting crops.  I have a few thousand of them lying around, attracting the attention of every herbivore on the map.
+That's 4.32 + 4 = 10 nutrition, which is a net gain of about 20% at a butcher table.  The real gain, because I can use plant scraps, is 231% for converting smoked meat into kibble for the pets.  Plant scraps (from a mod) are a by-product of cutting down trees or harvesting crops.  I usually have an excess of them lying around, attracting the attention of every herbivore on the map.
 
 Plus, kibble has an indefinite shelf-life, making it good for long-term storage.
 
