@@ -36,8 +36,14 @@ Plus, kibble has an indefinite shelf-life, making it good for long-term storage.
 
 ## Campfire vs Coal Stove
 
-The [Coal](https://steamcommunity.com/sharedfiles/filedetails/?id=1525404710) and [Coal Expanded](https://steamcommunity.com/sharedfiles/filedetails/?id=1874344070) mods add a simple version of coal that is useful for some things.  One of those things is a Coal Stove which outputs 21/sec heat and holds 25 units of coal.  
+The [Coal](https://steamcommunity.com/sharedfiles/filedetails/?id=1525404710) and [Coal Expanded](https://steamcommunity.com/sharedfiles/filedetails/?id=1874344070) mods add a simple version of coal that is useful for some things.  One of those things is a Coal Stove.  
 
+Coal Stove:
+
+- Holds ~16 days of fuel (60 units of coal/charcoal)
+- Heats room to 25C, not 28C like the campfire
+- Can be powered by Charcoal (1x wood -> 2x charcoal at a campfire)
+- Far more efficient use of wood
 
 
 
