@@ -1,0 +1,2506 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>RimWorld modlist</title>
+<link rel="stylesheet" href="https://cdn.rawgit.com/markdowncss/modest/master/css/modest.css">
+</head>
+<body><h1>RimWorld modlist</h1>
+
+<p>Author: <strong>ScrapyardBob</strong><br />
+Mod count: <strong>189</strong></p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1684944322">Startup impact</a> by AUTOMATIC</h5>
+
+<p>Measures how long it takes for mods to load.<br />
+Use the button in main menu to view statistics.<br />
+This mod must be first in the mod list to work properly.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=818773962">HugsLib</a> by UnlimitedHugs</h5>
+
+<p><color=orange><b>Important: </b> This mod should be loaded right after Core to work properly.</color><br />
+HugsLib is a library that provides shared functionality to other mods.<br />
+Version: 6.1.3</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1544705976">ModCheck</a> by Nightinggale</h5>
+
+<p>Adds more patching operations for modders and makes RimWorld start up faster due to faster patching.<br />
+For players:<br />
+Load this before Core<br />
+If all mods keep ModCheck up to date, then this mod is not even needed. However if mods use multiple versions (like just after ModCheck has been updated), then loading the newest first becomes important, hence this mod and the need to load first.<br />
+For modders:<br />
+Follow the link for a guide on how to make your mod use the included features.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=962732083">RuntimeGC</a> by user19990313</h5>
+
+<p><size=20>RuntimeGC In-Game Cleaner</size><br />
+(See in-game GUI for target version)<br />
+简体中文介绍接在英文介绍之后，请往下拉。<br />
++(New) A dynamic Memory Monitor - Fully costomizable!<br />
++(New) 3 new Auto-cleanup items!<br />
++(New) Show Debug Log without enabling Dev Mode!<br />
++(New) Remove snow!<br />
++(New) Useful hacks - close all letters, unlock speed limit, etc.<br />
++(New) RuntimeGC now has a mod setting page!<br />
++(New) Integrated MuteGC and MuteCL mods!<br />
++All cleaning tools are always available - and dev mode grants you more tester-oriented OP cleanings!<br />
+How could you salvage your over-sized savegame?<br />
+How could you make your game running smoothly as it used to be?<br />
+Well,you're lucky because you're using this mod!<br />
+You can:<br />
+-Remove unnecessary World Pawns to alleviate burden of GameSystem<br />
+-Clear AvoidGrids to reduce the size of your savegame<br />
+-Remove useless members(dead or of other factions) in an animal family<br />
+-Remove filth in HomeArea, and snow<br />
+-Remove corpses in current map<br />
+-Remove BattleLog entries<br />
+-Fix some faction relationships error(Those caused by mod conflicts are not included!)<br />
+-Re-generate faction leaders to fix some CommTable issues.<br />
+-Reclaim Memory used by GameSystem to boost up game performance<br />
+Usage:<br />
+1.Activate this mod(after Core mod)<br />
+2.Load your savegame<br />
+3.Find a tab called "RuntimeGC" at the bottom of your screen<br />
+4.Click,and do some cleaning with the GUI<br />
+Enjoy!<br />
+PS. The longer you played(year-in-game),the more effective this cleaning will be.<br />
+PS2. Sometimes errors occur like "Tried to remove xxx from RimWorld.WorldPawns,but it's not here."They're unavoidable as I should thouroughly de-register every pawn(to avoid further bugs).But,they're harmless,so just ignore them.<br />
+PS3. Post any errors or bugs on my forum page.Your effort contributes to a better mod.Thanks!<br />
+PS4. (Too expensive to buy)<br />
+Special Thanks to A16 testers:<br />
+@夜幻boy凌<br />
+@FDF<strong>515<br />
+@rsxx4488<br />
+@忆丨落叶丶飘零<br />
+@<em>漆原琉华<br />
+@878957003<br />
+@gagalelife<br />
+@上电视看看看<br />
+@左手平凡heart<br />
+@海流疾冰99<br />
+@Auuger灬nice<br />
+@一小毛孩子<br />
+@735143342<br />
+@周杰伦赛亚人<br />
+@ydy357071317<br />
+Thanks for your splendid work in Close-Alpha tests!<br />
+<size=20>RuntimeGC 存档清理修复工具</size><br />
+（适用版本以GUI界面标注为准）<br />
++(新) 全新的动态内存监视器——完全自定义！<br />
++(新) 3项全新的自动清理！<br />
++(新) 不开启开发者模式也能访问开发者日志！<br />
++(新) 扫雪技能Get！<br />
++(新) 添加小功能——一键关闭所有信封，取消速度限制<br />
++(新) RuntimeGC有设置页面了！<br />
++(新) 集成MuteGC和MuteCL！<br />
++取消所有清理项目的开发者模式限制，添加一些针对测试用的超强力清理（这个需要开发者模式）<br />
+存档100Mb，加载都要五分钟？<br />
+十年档，一倍速都卡，却舍不得弃坑？<br />
+用这个mod就对了！<br />
+试试下列功能：<br />
+-清除所有冗余的WorldPawn，减轻游戏系统的负担<br />
+-清理AvoidGrids，减小存档大小<br />
+-清理冗余动物家系成员（比如已死亡或属于其他派系）<br />
+-清理污渍(生活区内)——还能扫雪！<br />
+-清除当前地图的尸体<br />
+-清理战斗日志条目<br />
+-修复派系关系红字（仅限非mod冲突引起的）<br />
+-修复因误删首领导致通讯台无法使用的问题<br />
+-加速球，释放游戏系统内存<br />
+如何使用：<br />
+1.加载这个mod（必须在Core之后）<br />
+2.加载你的存档<br />
+3.在屏幕下方寻找本mod标签<br />
+4.在弹出的GUI里进行清理<br />
+拿去耍吧！<br />
+PS. 存档游戏时间（游戏年）越长，清理效果越好<br />
+PS2. 清理时可能会产生红字"Tried to remove xxx from RimWorld.WorldPawns,but it's not here."这条红字无害，并且为了保证清理彻底我并没有试图屏蔽它，所以忽视这条红字即可。<br />
+PS3. 请将任何此mod导致的bug或冲突贴到贴吧发布页上（或者Ludeon论坛），这将使mod更加完善。谢谢！<br />
+PS4. （太贵了，买不起）<br />
+鸣谢-A16测试人员（排名不分先后）：<br />
+@夜幻boy凌<br />
+@FDF</strong>515<br />
+@rsxx4488<br />
+@忆丨落叶丶飘零<br />
+@</em>漆原琉华<br />
+@878957003<br />
+@gagalelife<br />
+@上电视看看看<br />
+@左手平凡heart<br />
+@海流疾冰99<br />
+@Auuger灬nice<br />
+@一小毛孩子<br />
+@735143342<br />
+@周杰伦赛亚人<br />
+@ydy357071317<br />
+感谢你们在封闭测试中提供的宝贵意见！万分感谢！</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1545126946">[1.0] Modlist</a> by apkd</h5>
+
+<p>Exports the list of enabled mods (and the download links) to modlist.txt (modlist.html) in the RimWorld directory. Can be transparently added or removed without making anything explode. <br />
+Now also generates mod lists in HTML format.<br />
+You can use this mod to share the list of your active mods with your friends.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=761315214">Map Reroll</a> by UnlimitedHugs</h5>
+
+<p>Version: 2.4.0<br />
+<size=20>Description</size><br />
+Allows to randomize your starting maps and geyser locations until you find something you like.<br />
+Every reroll has a cost- in the form of unmined resources from your map.<br />
+<size=20>How to use</size><br />
+Start a new game, or settle a new map. In the top right corner of the screen you will find a button with red dice. Click that.<br />
+Use "Reroll Map" to pick a new map from a list of previews, or "Reroll Geysers" to get random new geyser positions on the current map.<br />
+Each page of previews and geyser reroll operation will cost you an amount of unmined resources from the map- both the cost and the amount of remaining resources are displayed in the window.<br />
+The resource cost is optional, and can be disabled in the Options > Mod Settings menu.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1438693028">Progress Renderer</a> by Lanilor</h5>
+
+<p><size=20>Progress Renderer (scheduled map renderings)</size><br />
+Automatically create scheduled renderings of the full map or only a chosen part of it. There are many options to configure the mod in the settings.<br />
+You can choose an interval from once a quadrum to hourly. Rendered images will be saved in a chosen directory. For example you can use them to create an animated gif or video of your current run.<br />
+Place special corner marker designators to limit the area of what should be rendered. You can limit this to your base and even just simply extend it later if you base grows larger than planned.<br />
+Based on the idea of Map Renderer by WIT (https://github.com/AaronCRobinson/MapRenderer)<br />
+(Everything coded from scratch to work scheduled and with B19/1.0, which has the nice side effect of now being more performant and flexible.)</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=867467808">Camera+</a> by Andreas Pardeike</h5>
+
+<p>You want more zoom and different paning?<br />
+Powered by Harmony Patch Library<br />
+Andreas Pardeike<br />
+Email: andreas@pardeike.net<br />
+Steam: pardeike<br />
+Twitter: @pardeike</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1872244972">Better ModMismatch Window</a> by Madeline</h5>
+
+<p>this mod will patch vanila's ugly save-ModMismatch-window</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1447140290">OgreStack</a> by Ogre</h5>
+
+<p>Mod for customizing stack sizes. As well as the ability to target specific items.<br />
+Improvements for v1.0:<br />
+- Stack changes now do NOT require a game reload, if a stack is modified <br />
+below a set stack size the stack is split up into smaller stacks.<br />
+Should still save your game after every stack size adjustment; because<br />
+if you adjust stacks, dont save, then reload a game, you could lose items.<br />
+- Custom in game menu lets you pick between different modes ( scalar / fixed )<br />
++ scalar : multiplies the base count by the number specified<br />
++ fixed : simply sets the stack size to the number<br />
+- Removed HugsLib dep since the hugs settings is no longer used.<br />
+- Attempted to make it more clear how to set individual overrides<br />
+via the Overrides.xml file.<br />
+Load Order:<br />
+- It hopefully won't matter. The stack modification code attempts to run after<br />
+initial processing is complete. But if you have problems. Try moving<br />
+OgreStack to last place.<br />
+Defaults:<br />
+(Groups)<br />
+- Small Volume Resources : x30 - ( gold, uranium, ... )<br />
+- Resources : 1000 ( steel, wood, plasteel, ... )<br />
+- Raw Food : 1000 ( corn, rice, ... )<br />
+- Raw Meat : 1000 ( meat, eggs, ... )<br />
+- Raw Plants : 2000 ( smokeleaf leaves, ... )<br />
+- Meals : 150 ( fine meal, lavish meal, ... )<br />
+- Animal Food : 2000 ( kibble, hay, ... )<br />
+- Foods : 1000 ( pemmican, chocolate, ... )<br />
+- Items : 20 ( horns, mech serums, ... )<br />
+- Body Parts &amp; Implants : 5 ( arms, bionics, ... )<br />
+- Textiles : 1000 ( cloth, wool, ... )<br />
+- Leather : 1000 ( leather )<br />
+- Stone Blocks : 2500 ( granite, marble, ... )<br />
+- Manufactured : x10.0 ( components, wort, chemfuel, ... )<br />
+- Medicine : 75 ( herbal, glitter, ... )<br />
+- Drugs : 4000 ( smokeleaf joints, yayo, ... )<br />
+- Mortar Shells : 25 ( antigrain, high explosive, ... )<br />
+- Artifacts : 10 ( psychic lances, ... )<br />
+- Other Stackables : x10 ( other items that stack but do not use vanilla game categories )<br />
+(Advanced - Individual ItemDefs)<br />
+- AIPersonaCore : 1<br />
+- TechprofSubpersonaCore : 1<br />
+GitHub: https://github.com/cmdprompt/OgreStack</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1488970545">Boots and Stuff[1.0]</a> by Techmago</h5>
+
+<p>Simple mod that adds boots and gloves to Rimworld.<br />
+Tired of having your colonists wearing expensive hyperwave cloths, and walking around barefoot? Squirrels keep biting off you fingers? Protect yourself!</p>
+
+<h1>Features</h1>
+
+<p>==== Footwear:<br />
+Sandals: Sandals will give you almost no protection from damage or cold, but they will make you fast and help in hot biomes.<br />
+MoveSpeed +40%<br />
+No armor<br />
+Boots: Boots give you the most protection, but are hot and heavier<br />
+MoveSpeed +30%<br />
+Light armor<br />
+Military Boots: Tought armored boots.<br />
+MoveSpeed +20%<br />
+Armored<br />
+Shoes: Shoes are more expensive, worth more, and are more balanced.<br />
+MoveSpeed +30%<br />
+Really Light armor<br />
+==== Hand-wear:<br />
+Work gloves: Protect your hands, so you can work faster!<br />
+WorkSpeedGlobal +5%<br />
+Mining gloves: tick gloves. Good for mining and building, but uncorfortable for medics. They also offers more protection.<br />
+MiningSpeed +15%<br />
+ConstructionSpeed +15%<br />
+ConstructSuccessChance +15%<br />
+MedicalTendQuality -5%<br />
+MedicalTendSpeed -10%<br />
+MedicalSurgerySuccessChance -5%<br />
+MedicalOperationSpeed -10%<br />
+Medic gloves: Thin gloves with limited lifespan. They do assist in medical operations.<br />
+MedicalTendQuality +5%<br />
+MedicalTendSpeed +10%<br />
+MedicalSurgerySuccessChance +5%<br />
+MedicalOperationSpeed +10%<br />
+==== Rings:<br />
+Rings are expensive and hard to make, but they give social impact and worth a lot.<br />
+NegotiationAbility +10%<br />
+SocialImpact +10%<br />
+Note:<br />
+Only bionic arms and no hads for rings? try this:<br />
+https://steamcommunity.com/sharedfiles/filedetails/?id=1528295006<br />
+ver 1.6.0<br />
+* Rebalance in the itens costs/work to make<br />
+* Rebalance of the itens bonus<br />
+ver 1.5.1<br />
+* Temperature rebalance<br />
+ver 1.5.0<br />
+* A19 port<br />
+ver 1.4.4<br />
+* Fix wrong texture for military boots.4<br />
+ver 1.4.3<br />
+* WAY better textures thanks to @Other_Olly<br />
+ver 1.4.2:<br />
+* Sandals should be makeable on the crafting spot.<br />
+ver 1.4.1:<br />
+* BIG rework of all stats. Also fixed some nonsense about then.<br />
+ver 1.4.0:<br />
+* a18 update<br />
+* WAY better stats for medical gloves<br />
+* WAY better armor ratings for gloves and boots<br />
+ver 1.3.1:<br />
+* Better stats for medical gloves<br />
+ver 1.3:<br />
+* New textures<br />
+* Socks (for your sandals)<br />
+* Medical gloves (Implemented, but weirdly. WIP)<br />
+Ver 1.2:<br />
+*A17 release<br />
+Ver 1.1:<br />
+*Pawns don't mind using the items from dead people<br />
+*Rings are harder to make, but worth a lot more<br />
+*Make rings rare<br />
+*Make boots/gloves not so common<br />
+*Sandals can be made in crafting spot<br />
+*new preview (help of @thundercraft)<br />
+Ver 1.0 - Release</p>
+
+<h1>Know bugs</h1>
+
+<p>Bionics: The issue is with the core of Rimworld.... bionic arms and legs have no hands, fingers, foots and toes. Any fix i try would make this mod a lot more complex, and would break many other mods like EPOE.<br />
+Japanese Translation: (Someone was nice enough to make one)<br />
+(b1.0) https://steamcommunity.com/sharedfiles/filedetails/?id=1500929597 - by Natoto<br />
+Check out my other mods!<br />
+More Medications - Reborn<br />
+- https://steamcommunity.com/sharedfiles/filedetails/?id=1601812699<br />
+Hardcore Storytellers<br />
+- https://steamcommunity.com/sharedfiles/filedetails/?id=831774478<br />
+Simple Loom<br />
+- https://steamcommunity.com/sharedfiles/filedetails/?id=1489517427<br />
+Boots and Stuff<br />
+- https://steamcommunity.com/sharedfiles/filedetails/?id=1488970545<br />
+Minigun2<br />
+- https://steamcommunity.com/sharedfiles/filedetails/?id=1588721300<br />
+Chitin<br />
+- https://steamcommunity.com/sharedfiles/filedetails/?id=1488933307<br />
+Shale - from oil to plastic<br />
+- https://steamcommunity.com/sharedfiles/filedetails/?id=1248055193</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1309994319">Smart Medicine</a> by Uuugggg</h5>
+
+<p>Doctors will use medicine from their inventory. What a concept!<br />
+Doctors can also use medicine from the patient's inventory, or anyone else on the map, even pack animals brought on a caravan.<br />
+They can also keep their inventory stocked with medicine. The Gear Tab has Settings for each Colonist.<br />
+An option to use cheaper medicine, if it will do just as well ( due to doctor skill, bionics, medical bed, etc. ) Note this doesn't affect surgery.<br />
+An option to use minimal medicine for non-urgent wounds, or none at all.<br />
+An option to tend patients in the field - if there are no beds available, or just always.<br />
+Multiple doctors can reserve the same stack of medicine. The game actually supports multiple reservations, but the feature was just not used.<br />
+Now technically, inventory medicine is dropped and immediately picked back up - but what can you do.<br />
+Check Steam page for any updated info.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1127530465">Rimatomics</a> by Dubwise</h5>
+
+<p>Nuclear power | Energy weapons | Nuclear weapons 1.6.919<br />
+Multiplayer Ready</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1546231441">Turtle Friendly Raids</a> by CANICVS</h5>
+
+<p>This mod prevents stock raids from spawning via drop pod, and disables stock sappers.<br />
+All other stock raids will spawn by walking in from the map edge, possibly in groups.<br />
+This mod is intended for players who'd like to turtle up in their base without getting their day ruined by raiders digging through the mountain-side or landing behind their defenses.<br />
+Specifically, this mod disables all arrival modes except "EdgeWalkIn" and "EdgeWalkInGroups" for all vanilla raid strategies, and (hopefully) sets the selection chance for sappers to zero.<br />
+This mod does NOT:<br />
+1) Disable infestations.<br />
+2) Disable crashed ship parts.<br />
+3) Disable sieges.<br />
+4) Disable resupply drop pods for sieges.<br />
+5) Prevent you from using drop pods to raid other factions.<br />
+6) Add turtles to the game.<br />
+7) Make stock tortoises immortal.<br />
+You should be able to add and remove this mod from existing save games without any issues.<br />
+This mod may conflict with other mods that add new raid types, but I'm not aware of any incompatibilities at the time of writing.<br />
+This mod should be placed last (or close to last) in the mod load order, as other mods may overwrite the changes this mod makes.<br />
+KNOWN INCOMPATIBILITIES:<br />
+None at the moment<br />
+Based on Fenrir's Simple Raids mod: https://steamcommunity.com/sharedfiles/filedetails/?id=911235958</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1185265132">VGP Vegetable Garden</a> by dismarzero</h5>
+
+<p>Vegetable Garden <br />
+Hello! And welcome to the new vegetable garden! <br />
+Smaller pieces, easier to drop things you don't like, and enjoy more the things you like!<br />
+Vegetable Garden:<br />
+The main piece of my new project! Will have smaller bits of other mods built in. But tried keep the size down and still keep the spirit of the garden when used alone.<br />
+Tier Crop Growth:<br />
+Starter Crops<br />
+-potatoes - grows well anywhere<br />
+-corn - long growing with high yields<br />
+-rice - fast growing<br />
+-barley - immune to blight and used to make ale in the drinks mod. <br />
+Tier 1 research "special property plants"<br />
+-snow beats - grows well anywhere, does not die from cold snaps<br />
+-lentils - meat substitute<br />
+-beans - many uses in the gourmet garden<br />
+-Olives - does not destroy plant when harvest, yield after first is faster<br />
+Tier 2 research fruits<br />
+-watermelon, grapes, blueberries, strawberries, agave<br />
+Tier 3 research fruit trees<br />
+-Apples, Bananas, Oranges, Peaches<br />
+Wild plants:<br />
+-Apples, Cherries, Bananas, Coconuts, Dates, Figs, Pineapple, Cloudberries, Gooseberries. <br />
+-Mushrooms are grown in the wild and in hydropnics Can be used as a meat substitute.<br />
+Ingredients Plants:<br />
+-Coffee and Tea<br />
+Wood:<br />
+-Bamboo fast growing wood<br />
+-ironwood very beautiful but not for fuel<br />
+Other Features:<br />
+-Growable Grass<br />
+-Silage Animal Feed<br />
+-Bulk Meals: Makes 4x Simple, Fine, Lavish, Kibble, and Pemmican.<br />
+-Stir-Fry and Stew Recipes with added meal effects.<br />
+-New Categories for stockpiles.<br />
+-Coffee, Tea, and Fruit Drinks<br />
+-Bio-Fuel: fuel for fueled tables.<br />
+-New art work for items by Spoon.<br />
+-New Flower: Plumeria<br />
+-New Tree: Ironwood <br />
+-Hydroponic hay grass, ambrosia, and baby agarilux (cave mushroom).<br />
+-New Floors for bamboo, ironwood.<br />
+-Convert Bamboo to Wood at the stonecutting table.<br />
+Patches for the following mods:<br />
+Animal Feed Trough adds silage to the Trough.<br />
+Vanilla patches my bamboo and bio-fuel into work tables. And </p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1496570408">VGP Garden Canning</a> by dismarzero</h5>
+
+<p>VGP Garden Canning (Requires Vegetable Garden, loaded first)<br />
+Garden Canning addes two ways of canning food. With reserach.<br />
+A canning stove that pawns can food at. It is powered by steel.<br />
+And a canning factory, which pawns will load with food and will automatically can the food after an amount of time.<br />
+Worktables and recipe :<br />
+Canning Table<br />
+-Canned meals<br />
+-Canned vegetables<br />
+-Canned meats<br />
+-Canned fruits</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1539311991">[RF] Fishing [1.0]</a> by Rainbeau Flambe</h5>
+
+<p>(Last update: 12/05/2018)<br />
+This mod gives pawns the ability to catch and cook fish.<br />
+It's possible to create "fishing spots" adjacent to water, where pawns can catch fish. It's also possible to build "shellfish traps" that might net you shellfish, shrimp, snails or small fish. And your pawns can now prepare sushi and various other seafood dishes.<br />
+(Is it ironic that this mod was created by someone who finds fishing to be mind-numbingly dull, and who hates seafood in any form? I think it's a bit ironic.)</p>
+
+<h1>- Rainbeau Flambe (dburgdorf)</h1>
+
+<p>How Fishing Works:<br />
+Fishing is a custom work type, which relies on the "Animals" skill. Pawns with higher skill will fish faster, and have a higher chance of successfully catching something. (Additionally, fishing serves as a joy activity for pawns with a passion for the Animals skill.) Fishing spots can become depleted if overfished, and so will occasionally need to be allowed to "recharge."<br />
+Fish and eels can be caught at any fishing spot, though the type of fish available varies with the biome, and eels are more common in marshes than in water tiles. Squid can only be caught in ocean tiles.<br />
+Shellfish traps will periodically catch shellfish or tiny fish automatically, without any pawn interaction. They will sometimes take a bit of damage in doing so, though, and will thus occasionally need to be repaired.<br />
+Fish and shellfish can be cleaned (butchered) for meat, while squid and eels can be butchered for both meat and leather.</p>
+
+<h1>The mod also adds ice fishing spots, which work as normal fishing spots, except that they can only be constructed on frozen river or lake water tiles generated by my own "Permafrost" mod, Fumblesneeze's "Ice," or "Nature's Pretty Sweet." Note that ice fishing spots cannot be placed on vanilla ice tiles, and will appear on the "Production" tab of the Architect menu only if at least one of the "freezing" mods is actually in your mod list.</h1>
+
+<p>Compatibility:<br />
+If you try to remove "Fishing" from a game in progress, you will very likely make the map unplayable, at least if your pawns have actually caught any fish and/or made any seafood dishes.<br />
+Apparently, this mod conflicts with "Thanks for All the Fish," which doesn't really surprise me, as the two mods do many of the same things, albeit in different ways. I may eventually see about trying to make them compatible, but frankly, I'm not sure I see why anyone would need to use two different fishing mods at the same time, anyway.</p>
+
+<h1>"Fishing" shouldn't conflict with any other mods.</h1>
+
+<p>Credits:<br />
+Most of the fish graphics were provided to me by Steam user Draegon.<br />
+The ability to fish from bridges draws both conceptually and specifically from Rikiki's "FishIndustry" mod, though what I've done here is less elaborate than, and over time has diverged rather significantly from, what's he's done in that mod.</p>
+
+<h1>The traditional Chinese language files were provided by Steam user Alane. The simplified Chinese language translation files were provided by Steam user kghostSATORI. The Japanese language files were provided by Proxyer.</h1>
+
+<p>License:</p>
+
+<h1>If you're a modpack maker and want to include this mod in your pack, or if you're a modder and want to use it as the basis of a derivative mod, please feel free to do so. I ask only that you let me know about it.</h1>
+
+<p>If you have any (helpful) suggestions for improvement, please let me know!</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1509102551">[KV] Faction Control - 1.0</a> by Rainbeau Flambe (original) &amp; Kiame Vivacity</h5>
+
+<p>"Faction Control" provides you with a number of configuration options that you can use to tailor which and how many faction groups and faction bases show up on your map. Simply visit "Mod Settings" from the game's "Options" menu.<br />
+You can define the total number of faction groups which should appear on your world map (anywhere from 0 to 30), as well as individually adjust the minimum number of groups from each faction which should be present, even removing some factions entirely if you prefer. So you could, for example, play on a planet without any tribal groups, or without any outlanders, or on a planet with no pirates, or perhaps on a planet on which the only faction groups are pirate bands.<br />
+The mod also gives you the same level of control over individual factions added by mods (up to 42 total) that it provides for vanilla factions. So, for example, if you're playing with a mod that adds several related factions, only some of which you actually want to have present on your world, well, you'll be able to tailor the planet accordingly. (This also gives you the ability to pick and choose which modded factions you want to use in any particular game without having to disable or uninstall the mods that add them.)<br />
+As you increase the total number of faction groups on your world, the number of groups which are hostile to you will scale upward, as well. So unlike most mods which increase faction counts, this one won't allow you to create a world with 30 faction groups of which only three are hostile.<br />
+You can also adjust your world map's faction base density, so you can create planets on which each faction group has only a few bases, or heavily populated planets with settlements everywhere.<br />
+The mod also gives you the option to organize bases geographically, with each faction group's bases in close proximity to each other, so that the planet looks like it's populated by actual nations, rather than just having bases scattered all over the map randomly.</p>
+
+<h1>- Rainbeau Flambe (dburgdorf)</h1>
+
+<p>Compatibility:</p>
+
+<h1>Since "Faction Control" does nothing but alter initial world generation, adding it to or removing it from a game in progress will have no impact. It should be compatible with any other mods, though it should (and most likely will) override any other mods that alter faction generation.</h1>
+
+<p>Credits:<br />
+The mod utilizes Pardeike's "Harmony Patch Library." (No additional download is required, as the library is included with the mod.)<br />
+Translators:<br />
+Proxyer - Japanese<br />
+53N4 - Spanish<br />
+WexMan &amp; kr33man - Russian<br />
+RunningMelos - Chinese</p>
+
+<h1>Erazil - French</h1>
+
+<p>License:</p>
+
+<h1>If you're a modpack maker and want to include "Faction Control" in your pack, or if you're a modder and want to use it as the basis of a derivative mod, please feel free to do so. I ask only that you let me know about it.</h1>
+
+<p>If you have any (helpful) suggestions for improvement, please let me know!</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1322196379">Safely Hidden Away</a> by Uuugggg</h5>
+
+<p>Bases that are in remote locations don't get raided as often.<br />
+Configurable delay time. Check out that graph.<br />
+Check Steam page for any updated info.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1542424263">Combat Readiness Check</a> by MarvinKosh</h5>
+
+<p>Alters the normal threat points calculation.<br />
+Threat points are used by the storyteller to, for example, 'buy' raiders from a list to make up the next group that will raid your colony or ambush one of your caravans.<br />
+You can use the in-game Mod Settings menu to adjust some of the settings for how points are generated. Select Combat Readiness Check, and edit the values. They will stay in effect as long as you're using the same saved game folder.<br />
+A debug option is available in the mod settings menu. This will output the current armoury points and building points to the log. Colonist points are also logged, but only if you turn on Write Storyteller in development mode.<br />
+Wealth from weapons and armour counts at market value. Armour is anything which offers better than 29% protection against bullets or arrows.<br />
+Wealth from pre-industrial weapons counts at 25% of market value.<br />
+Wealth from other items is not counted (vanilla: all items are counted at market value, converted into points by wealth curve)<br />
+The combined weapons and armour wealth is converted into points by the Combat Readiness wealth curve.<br />
+Wealth from buildings is counted at 25% of value and converted into points by the Combat Readiness wealth curve (vanilla: 50% of value, vanilla wealth curve).<br />
+Animals which have release training count for 9% of their combat strength (vanilla: similar percentage, but all animals that could be trained, even if they aren't trained).<br />
+Colonists by default count for 45 points (vanilla: starts at 40 points and increases to 110 depending on colony wealth)<br />
+Colonists who have impairment to their combat abilities (consciousness, manipulation, sight) will count for less points.<br />
+Colonists with limited movement capability or a limited combined combat ability will count for zero points. <br />
+Colonists in cryptosleep will count for zero points.<br />
+Colonists who can't fight at all will count for zero points.<br />
+Colonists who are suffering from an infection or disease which needs bed rest will count for zero points if they haven't developed immunity. <br />
+Colonists who have enhanced capabilities (from bionics, trauma savant, mechanites or drugs) can count slightly more.<br />
+The current adaptation factor affects the final colonist points value (vanilla: adaptation multiplies everything just like difficulty).<br />
+The combined points are then processed by the Combat Readiness points curve (vanilla: no points curve).<br />
+After that the points are multiplied by the modifier for difficulty level (vanilla: same).<br />
+There is a global maximum of 10000 points or 20000 for Merciless difficulty (vanilla: 20000).<br />
+Includes 'Adaptation and Random Threat Point Multipliers Cap to One' which changes the adaptation and random raid factors so that they cap at 1, reducing the effect of those factors.<br />
+New! Added buttons to change between a few default settings - Fair, This is fine, Feels bad man, Pain train.<br />
+New! Extended the max range of possible adjustment to 800% for percentage settings.<br />
+[Version 1.2.1]</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=847661538">Fertile Planet</a> by Makaru</h5>
+
+<p>Increases map fertility (vegetation and trees) moderately, and increases vegetation graphical size. Now with XML Patch Operation support for increased compatibility, this mod should be compatible with any mod which modifies plants or biomes. Inspired by Helpful Bot's 'Increased Forest Density - Base Version' (https://steamcommunity.com/sharedfiles/filedetails/?id=751887749)'</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1552146295">Real Ruins</a> by telewre</h5>
+
+<p><i>"Everyone is dead or gone. This story is over.<br />
+Perhaps someone else will find a use for the ruins of this place."</i><br />
+Have you ever wondered who is that person which will find a use for those ruins?<br />
+With this mod it might be any other RimWord player, and you will find ruins of other players' bases as well.<br />
+This mod periodically uploads your base to the server database, and when a new map is generated, this database provides pieces of those stored bases as templates for abandoned ruins.<br />
+Probably you'll find just empty dirty shelter with badly damaged wooden bed and a pair of chairs. Probably you'll be lucky enough to find someone's silver vault before scavengers from the nearest settlement arrive.<br />
+This mod can be added anytime, it won't break your saves and will take effect when you enter into a new map, either starting a new game or with a caravan.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=725465444">More Trade Ships</a> by PinoChemicali</h5>
+
+<p>Increases the rate at which orbital trade ships appear.<br />
+Versions of this mod for use with older versions of Rimworld can be downloaded from Nexusmods.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1498067736">Fuel Economy</a> by Uuugggg</h5>
+
+<p>Transport Pods use less fuel for less mass.<br />
+A small pod to transport small amounts of things for less cost.<br />
+Check Steam page for any updated info.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1541250497">More Harvest Designators!</a> by NavySeal</h5>
+
+<p>Adds an more plant oriented designators to the game!</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=728314182">RT Fuse</a> by Ratys</h5>
+
+<p>Researchable (RT Mods research tab) electric fuses to mitigate short circuits. When placed anywhere on a power network, each fuse will safely discharge up to three of network's batteries, mitigating or preventing the explosion.<br />
+Does not require a new colony to add or remove (might throw a one-time error).<br />
+Available languages:<br />
+- Chinese (simplified) (by duduluu)<br />
+- Chinese (traditional) (by duduluu)<br />
+- English<br />
+- Korean (by Coldmoon)<br />
+- Russian<br />
+- Spanish (Castilian) (by a kind stranger who wished to remain anonymous)<br />
+- Spanish (Latin America) (by a kind stranger who wished to remain anonymous)<br />
+Refer to forum thread for additional information.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1439886892">Annoying Life</a> by Gadjung</h5>
+
+<p>Because life without accidents is boring<br />
+Adds random accidents that usually happens in real life.    <br />
+During everyday life of pawn there is a random low chance he will get himself hurt, <br />
+with special cases when he/she is mining/constructing/crafting/hauling/flicking or plant working.<br />
+Should not be life-threatening except in some exceptionally rare occurrances.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=895944018">Storage Solutions</a> by cucumpear</h5>
+
+<p>A number of basic shelves and crates for storing items. When building general-purpose shelving please remember to enable the items you want to store.<br />
+Also includes a nesting box for eggs. It will hold both fertilized and unfertilized eggs, with a default of fetilized at critical importance. If you place it next to a table people might even sit on the eggs.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1503448404">In-wall coolers and vents [1.0]</a> by Hanabishi</h5>
+
+<p>Mod allows to place coolers and vents inside the walls.<br />
+If you hate when raiders easily breaks your rooms (especially fridges) this mod is for you =)<br />
+[Installation] Compatible with existing saves. Just place additional walls in coolers and vents positions to stop the air get through.<br />
+[Uninstallation] All coolers and vents placed on the walls will be disassembled into components.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1206669918">Carcinoma spreads</a> by Leonapp</h5>
+
+<p>This mod makes carcinoma more deadly. It can now spread from one body part to another.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=850429707">Rah's Bionics and Surgery Expansion</a> by Rah</h5>
+
+<p>Rah's Bionics and Surgery Expansion: Adds all kinds of prosthetics, bionic parts, bone repairs and scar healing surgeries.<br />
+--RBSE Normal Edition--</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1423699208">Wall Light</a> by Murmur</h5>
+
+<p>Adds a light that is placed directly on walls. By default the light uses less power but also provides less light than the standard standing lamp.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1530267593">Caravan Gear v1.6 [1.0]</a> by Thom Blair III</h5>
+
+<p>Provides lightweight, portable gear specially designed for caravans and camping.<br />
+Caravan Chair:<br />
+- Prevents the "Uncomfortable (need something soft to sit on)" mood while on caravans<br />
+- Weight: 1kg<br />
+- Research requirement: Complex furniture<br />
+Caravan Table:<br />
+- Prevents the "Ate without a table" mood while on caravans<br />
+- Size: 1x1<br />
+- Seats 4 people<br />
+- Weight: 2kg<br />
+- Research requirement: Complex furniture<br />
+Caravan Chemfuel Stove:<br />
+- Holds 3 chemfuel<br />
+- Can cook any type of meal<br />
+- Size: 1x1<br />
+- Weight: 1kg<br />
+Caravan Lantern:<br />
+- Powered by chemfuel<br />
+- 3 chemfuel provides 1.4 days of runtime<br />
+- Can be switched on and off<br />
+- Weight: 0.5kg<br />
+Caravan Biofuel Refinery:<br />
+- Produces chemfuel from wood, raw food, and plant matter <br />
+- Approximately 2 organic matter yields 1 chemfuel<br />
+- Weight: 1kg<br />
+- Research requirement: Electricity and Biofuel refining<br />
+Caravan Generator:<br />
+- Powered by chemfuel<br />
+- Generates 500W<br />
+- 5 chemfuel provides 2.5 days of runtime<br />
+- Weight: 2.5kg<br />
+- Research requirement: Electricity <br />
+Fully save compatible. Please report any errors.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1416581883">RealBeds</a> by Gadjung</h5>
+
+<p>A set of more real beds, overwriting default full-steel/wood/stone bed.<br />
+Forums : https://ludeon.com/forums/index.php?topic=41961.0<br />
+No more wood, steel or granite bedcloth. <br />
+Now for comfy bed, some textiles are needed.<br />
+Minor research is required for making more comfy beds.<br />
+Simple bed with lowest comfort requires only wood/metalic/stone materials.<br />
+Bench just like simple bed, but can also be used for sitting. Does not need research.<br />
+Comfy bed requires 15 steel, 35 wood and 45 Textiles (leather/fabric).<br />
+Comfy double bed requires 25 steel, 65 wood and 65 Textiles.<br />
+Comfy royal bed requires 25 steel, 75 wood and 95 Textiles.<br />
+Medical beed reqires now additional 35 cloth.<br />
+Tropical Beds require less amount of textiles.<br />
+Now beds are providing offset to comfortable Min/Max temperature.<br />
+Warmer beds decrease maximum comfortable temperature, just like in real life.<br />
+Recolored bed frame, bedcloth takes color of type(medical/normal/prisoner) and of used textile.<br />
+For version that only adds new beds, leaving vanilla ones : https://steamcommunity.com/sharedfiles/filedetails/?id=1418009530<br />
+Planned :<br />
+- Tto use 'simple bed' as a material for 'comfy bed' <br />
+- Add some texture to 'simple bed' to show that it does not have bedcloth - <em>Done</em><br />
+- Make bed influence comfy temperature - <em>Done</em><br />
+- Beds take color of used leather - <em>Done</em></p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1254970979">More Components</a> by Neceros</h5>
+
+<p>Seriously, you only get 2 components per compacted machinery?<br />
+Increase the amount of components from 2 to 10 when mining compacted machinery in the world.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1254969827">Balanced Eclipse and Solar Flare</a> by Neceros</h5>
+
+<p>Solar flares and Eclipses happen way too much in Rimworld, to the point where they become normalized. Let's change them to be rarer and more impactful.<br />
+- Increased the minimum amount of time between occurances for both game effects x4<br />
+- Decreased the base chance of both events.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1245219876">More Steel</a> by Neceros</h5>
+
+<p>I found the lack of steel derailed quite a lot of my games. This helps.<br />
+- Compact steel deposits increased by up to 2.5x vanilla<br />
+- Mining compact steel gives up to 75 of the resource, depending on skill<br />
+NON-steam version: https://drive.google.com/open?id=1Oqq5RtGCmscUaGhfiHQkJlIhpesluoTa<br />
+[h1]More immersive mods by Neceros:[/h1]<br />
+[b][url=http://steamcommunity.com/sharedfiles/filedetails/?id=1267149586]99 Percent[/url][/b]<br />
+Gain most of your resources back when you deconstruct.<br />
+[b][url=http://steamcommunity.com/sharedfiles/filedetails/?id=1254970979]More Components[/url][/b]<br />
+Compacted machinery gives 10 components instead of just 2.<br />
+[b][url=http://steamcommunity.com/sharedfiles/filedetails/?id=1254969827]Balanced Eclipse and Solar Flare[/url][/b]<br />
+Cools down how often the moon and sun can interact with the planet.<br />
+[b][url=http://steamcommunity.com/sharedfiles/filedetails/?id=1504641093]Why Can't I Craft Neutroamine?![/url][/b]<br />
+Craft neutroamine. That's it, really.<br />
+[b][url=http://steamcommunity.com/sharedfiles/filedetails/?id=1790155285]Simple Turrets[/url][/b]<br />
+7 more Vanilla-like turrets, including a stunning turret<br />
+[b][url=http://steamcommunity.com/sharedfiles/filedetails/?id=1798787901]Tier 2 Temperature[/url][/b]<br />
+Adds a second tier of technology to help manage your colony's temperature control.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=945085502">[FSF] No Default Shelf Storage</a> by FrozenSnowFox</h5>
+
+<p>Removes the default storage option on shelves and sets the default priority to normal</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1539314714">[RF] Tribal Raiders [1.0]</a> by Rainbeau Flambe</h5>
+
+<p>(Last update: 10/14/2018)<br />
+This mod adds a new "tribal raider" faction. Like pirates, tribal raiders raid you just because they can, and cannot be appeased with silver or by releasing prisoners. Be forewarned, worlds which include tribal raider factions can be quite hostile to newcomers!<br />
+It also adds a "tribal planet" configuration option. If this option (accessible from the game's "Options" menu) is selected, outlander and pirate factions will be disabled, so that worlds will generate with nothing but tribal and tribal raider settlements. (And also, of course, settlements for any factions added by other active mods.) Spacer and mechanoid factions won't be disabled, though, so you'll still have to deal with mechanoid raids in the later game, and might still come across "ancient danger" crypts.</p>
+
+<h1>- Rainbeau Flambe (dburgdorf)</h1>
+
+<p>Compatibility:</p>
+
+<h1>You shouldn't see any compatibility issues with this mod. You can add it to a game in progress, but unless you're using Orion's "Faction Discovery" or a similar mod, you won't see tribal raiders added to the game. Trying to remove it from a game in progress which includes any tribal raider factions will, of course, make the game unplayable.</h1>
+
+<p>Credits:<br />
+The mod utilizes Pardeike's "Harmony Patch Library." (No additional download is required, as the library is included with the mod.)</p>
+
+<h1>Obviously, credit is due to RimRue, the creator of the original a17 version of the mod!</h1>
+
+<p>License:</p>
+
+<h1>If you're a modpack maker and want to include "Tribal Raiders" in your pack, or if you're a modder and want to use it as the basis of a derivative mod, please feel free to do so. I ask only that you let me know about it, and be sure to credit both me and RimRue.</h1>
+
+<p>If you have any (helpful) suggestions for improvement, please let me know!</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1539314168">[RF] Tribal Pawn Names [1.0]</a> by Rainbeau Flambe</h5>
+
+<p>(Last update: 10/14/2018)<br />
+This mod overhauls tribal pawn naming. Why? Well, the tribal names in the game have always felt a bit... "off" to me. It's probably nothing more than my own unfamiliarity with the cultures from which the names are drawn, but I always thought they seemed a bit more "Spanish" than tribal.<br />
+The changes made by the mod are as follows:<br />
+- Tribal pawn names are now Native American in style. (I drew the names from online "Native American baby names" lists, by the way, which I'm well aware mix and match names from many different nations, and also feature many inauthentic names. But while they have many flaws, they provided the sort of names I was looking for. No disrespect to actual Native Americans is intended.)<br />
+- Tribal pawn nicknames can now include various adjectives, terrain features, weapons and the like. So you might run into a tribal pawn named Vengeful Weasel, for example, or Deadly Scythe.<br />
+- Since tribal names don't follow a "personal name followed by family name" pattern, anyway, the game no longer forces tribal pawns to share last names if they're related.<br />
+- Tribal factions and settlements will now have names consistent with the style of the individual pawns' names.<br />
+- Pets in tribal factions will also now be given tribal-style names rather than colonist-style names.</p>
+
+<h1>- Rainbeau Flambe (dburgdorf)</h1>
+
+<p>Compatibility:</p>
+
+<h1>"Tribal Pawn Names" should be compatible with any other mods, and you should be able to add it to or remove it from a game in progress without causing any problems.</h1>
+
+<p>Credits:</p>
+
+<h1>The mod utilizes Pardeike's "Harmony Patch Library." (No additional download is required, as the library is included with the mod.)</h1>
+
+<p>License:</p>
+
+<h1>If you're a modpack maker and want to include "Tribal Pawn Names" in your pack, or if you're a modder and want to use it as the basis of a derivative mod, please feel free to do so. I ask only that you let me know about it.</h1>
+
+<p>If you have any (helpful) suggestions for improvement, please let me know!</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1530259312">Nature is Beautiful v2.5 [1.0]</a> by Thom Blair III</h5>
+
+<p>Makes most things in nature have either positive or neutral beauty.<br />
+Version 2.5 notes:<br />
+By request, now supports RimCuisine:<br />
+- All fruit trees have a beauty of 5<br />
+- All other plants are 2<br />
+Version 2.0 notes:<br />
+By request, I increased water's beauty as follows:<br />
+- Shallow water: 1<br />
+- Moving shallow water: 1<br />
+- Deep water: 15<br />
+- Shallow ocean water: 5 <br />
+- Deep ocean water: 25<br />
+Added Crunchy Duck's support for the "Impassable Chest-deep Water" mod<br />
+- If the mod is being used, then Chest-Deep Moving Water has a beauty of 15. <br />
+- If not, then it has a beauty of 5<br />
+Thanks to Crunchy Duck and Oken for their work on this<br />
+Version 1.4 notes:<br />
+The following terrains now have a beauty of 0 instead of 1 to make incentive for man-made flooring:<br />
+- Dirt (Soil, SoilRich)<br />
+- MossyTerrain<br />
+- MarshyTerrain<br />
+- Gravel<br />
+- Sand (Sand, SoftSand)<br />
+- Ice<br />
+Version 1.3 notes:<br />
+- Bug fixes<br />
+- Now rewritten entirely with XML patching for maximum compatibility with other mods<br />
+- Rebalanced so there is incentive to smooth walls and floors<br />
+- Rough stone ground/floors now have a beauty of 1 instead of -1<br />
+- Rock rubble has a beauty of 0 instead of -4<br />
+- Added beauty of 1 for grass, tall grass and bushes<br />
+Credits:<br />
+Thom Blair III - Mod idea and programming<br />
+spd, potatoclip - Programming help<br />
+Crunchy Duck, Oken - Programming and setting water values<br />
+Fully save compatible. Please report any errors. </p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=726479594">Rimworld Search Agency</a> by DoctorVanGogh, Killface, meonester</h5>
+
+<p>This Mod allows you to search by name in various filters:<br />
++ Storage tab<br />
++ Bill tab<br />
++ Outfit tab<br />
+Original A12 version by meonester. Initial update for A17 by Killface.<br />
+Mod menu, rewrites for Harmony and massive improvements by<br />
+DoctorVanGogh<br />
+Includes Hauling Hysteresis by Vendan https://ludeon.com/forums/index.php?topic=26958.0</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=848972794">Realistic Rooms</a> by Crlsniper</h5>
+
+<p>Lowers the required room sizes to better match realistic sizes for house. This mod was sugested by Gwazi Magnum.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1452006535">Meal Radius 80 Tiles</a> by CarbonTNT</h5>
+
+<p>Increases the range pawns look for eating at a table to 80 tiles.<br />
+Savegame compatible.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1511375007">Supply and Demand</a> by CookieWookiee (original) &amp; Kiame Vivacity</h5>
+
+<p>Adds logrithmic scaling of traders based on colony wealth.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1180721235">[KV] RimFridge - 1.0</a> by Kiame Vivacity</h5>
+
+<p>Adds refrigerated racks to keep food and other perishables cold.  Ideal for use in dining rooms, freeing up labour from feeding prisoners, or keeping food on hand for cooks.<br />
+Comes in 1x1, 1x2, and 2x2 versions.<br />
+Thanks to everyone who's helped translate this mod!<br />
+Dragomano &amp; qeqwrqweqweter - Russian<br />
+53N4 - Spanish<br />
+duduluu &amp; Schr0d - Chinese<br />
+phmalu - Portuguese<br />
+Breakyt - French<br />
+Ɲơɴɑɱɛ - German<br />
+KondenEinenShizainoLaw - Japanese<br />
+silverjoy &amp; Orange_Mushroom - Korean<br />
+drerp - Hungarian<br />
+WebsterBolek - Polish<br />
+Firty - Portuguese<br />
+Thanks to everyone who's added/edited code!<br />
+towhead - Made the fridges hide the uglyness of food<br />
+Original Author: Vendan</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1504182014">BoomMod</a> by Jaxe</h5>
+
+<p>Mod Version: 1.1<br />
+With this mod Boomalopes and Boomrats will only explode on death when the killing blow is a gunshot, burn, another explosion or they are otherwise on fire at the time. Melee weapons, medieval ranged weapons and natural causes do not trigger an explosion.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1543069597">Quality Cooldown</a> by XeoNovaDan, updated by dninemfive</h5>
+
+<p>Makes it so that quality affects melee and ranged cooldown, with the latter also being affected by the weapon's condition.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=728314859">RT Power Switch</a> by Ratys</h5>
+
+<p>A new researchable (RT Mods research tab) function for the power switch: when enabled, the switch will automatically turn on when an adjacent powernet is about to run out of power, and turn off once the batteries are all full.<br />
+Does not require a new colony to add or remove (might throw a one-time error).<br />
+Available languages:<br />
+- Chinese (simplified) (by duduluu)<br />
+- Chinese (traditional) (by duduluu)<br />
+- English<br />
+- Russian<br />
+- Spanish (Castilian) (by a kind stranger who wished to remain anonymous)<br />
+- Spanish (Latin America) (by a kind stranger who wished to remain anonymous)<br />
+Refer to forum thread for additional information.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1539311500">[RF] Fertile Fields [1.0]</a> by Rainbeau Flambe</h5>
+
+<p>(Last update: 12/05/2018)<br />
+"Fertile Fields" is a terraforming mod that lets you fertilize and plow your soil, create farmland on solid rock so you can grow crops in inhospitable environs or inside of mountains, and eventually even restructure the landscape. <br />
+Create raw compost with food waste at a butcher's table, then put it in a compost bin or barrel so in time it can become fertilizer. Fertilizer can be used to convert any soil to rich soil. Further improve your farm's fertility by researching farming and plowing your soil. Or learn the fine art of terraforming, and redesign your environment to your heart's content.</p>
+
+<h1>- Rainbeau Flambe (dburgdorf)</h1>
+
+<p>New Research and Terrain Improvement Options:<br />
+Without researching anything, "Fertile Fields" allows you to do basic terrain modification, essentially just digging up dirt from one spot and moving it to another. You can also create raw compost and turn it into fertilizer, which can be used to upgrade your soil, even turning regular soil into rich soil.<br />
+Researching "Farming" opens up the ability to plow soil, which lets you further increase the fertility of rich soil. As well, it allows you to lay topsoil over smooth stone. Create a garden inside a mountain if you're so inclined. Topsoil can be further improved by fertilizing it, but can't be plowed.</p>
+
+<h1>Finally, "Terraforming" represents an understanding of advanced irrigation and drainage techniques, and opens up a wide variety of terrain-altering options. It allows you to turn marsh, mud, sand or shallow water tiles into farmable soil, or to turn fertile land into sand or marsh. It lets you create shallow water tiles from marsh, so you can create decorative (or defensive) moats. It opens up the ability to dump dirt into deep water to create shallow water, or to remove dirt from shallow water to produce deep water. It also allows you to break solid rock into rough gravel, which can be further improved into regular soil, letting you create mountain farms that can actually be plowed for maximum fertility. Conversely, you can turn rough gravel back into rough stone.</h1>
+
+<p>Using the Mod:<br />
+Most of what's added by "Fertile Fields" can be found on the new "Terraform" and "Farming" tabs of the Architect menu.<br />
+A few things, however, are less obvious.<br />
+Fertilizer is made from compost in either a compost bin or a compost barrel. Compost can be created at a butcher's table from vegetable matter and meat. It can also be obtained by burning corpses.<br />
+Dirt can be created by mixing sand, clay and fertilizer at a crafting spot. Conversely, piles of dirt can be separated at crafting spots into sand and clay. Clay can be "fired" at a smithy to create bricks.<br />
+Initially, if you need dirt, sand, clay or crushed rocks, you'll need to obtain them by digging up terrain somewhere on the map or by purchasing them from traders. Once you've built a rock mill, though, stone chunks can be turned to crushed rocks, which can be further ground into sand and then into clay. Sand and clay, as already noted, can be used to create dirt.<br />
+Sandbags, by the way, are now made from sand, cloth and steel instead of just from steel, and the mod also introduces "heavy sandbags," made from sand, leather and steel.</p>
+
+<h1>For a more detailed overview of everything the mod has to offer, you can consult the "Getting Started with Fertile Fields" text file located in the mod's "About" folder.</h1>
+
+<p>Compatibility:<br />
+"Fertile Fields" is not, at this time, compatible with Lanilor's "Terra Core" mod. That mod makes extensive changes to map and terrain generation, and adds far more terrain types than even exist in the vanilla game. To properly handle transformations between all of those new terrains would be a very extensive undertaking.<br />
+"Fertile Fields" should be compatible with most any other mods, though. If you run into specific issues, please let me know.<br />
+New terrains added by a number of mods are automatically recognized by "Fertile Fields." Night soil from Dub's "Hygiene" mod can be terraformed with any conversion that works from marshy soil. (Note that that mod has its own compost and fertilizer system, which is not consistent with what's provided by this one. There may be odd overlaps or misbehaviors if they're used together.) Wasteland from the "Crashlanding" mod can be terraformed as sand. Reclaimed soil from CuproPanda's "Quarry" mod can be terraformed as if it was gravel. Hot and cold springs from "Nature's Pretty Sweet" can be transformed as if they were shallow water tiles, and that mod's various "wet" sand and soil terrains can be transformed using terraforming jobs that work on comparable vanilla sand and soil terrains. The various rocky soils to be found on "Biomes!" cavern maps can be terraformed with any conversion that works on rocky dirt. And decrystallized sand and soil from "Tiberium Rim" can be terraformed as vanilla sand and gravel, respectively. (Note, though, that the various tiberium terrains introduced by that mod cannot be altered by anything in "Fertile Fields." To get rid of tiberium, you'll still need to utilize the mechanisms actually provided by "Tiberium Rim.")<br />
+"Fertile Fields" is compatible with "Seeds Please!" However, if you're using that mod, the soil degradation feature of this mod won't be functional, and you won't get plant scraps from cutting plants. I'll see about resolving those issues in the near future.<br />
+If this mod is used together with either "Glass+Lights" or "Dub's Skylights," then creation of the glass from those mods will require the sand from this mod.<br />
+You should be able to add "Fertile Fields" to an existing saved game without trouble, but removing the mod from a game in progress will, of course, likely cause problems or even make the game unplayable.</p>
+
+<h1>Special note regarding "Vegetable Garden": I've tried to ensure that "Fertile Fields" and "Vegetable Garden" are compatible with each other. Most elements of the "Vegetable Garden Project" are unchanged. However, if you're using "VGP Garden Tools," you'll notice that its fertilizing and terraforming options are missing, as they duplicate existing "Fertile Fields" functionality, and that its various new planter boxes, sunlamps and hydroponics basins are located in this mod's "Farming" tab along with their vanilla counterparts. Finally, be aware that if you try to add "Fertile Fields" to a game in which you've already been using "VGP Garden Tools," you may encounter problems.</h1>
+
+<p>Credits:<br />
+German language translation files were generously provided by Ryder32x. Korean language translation files were provided by Ludeon forums user NEPH. French language translation files were provided by Steam user Redstylt. Russian files were provided by Steam user fox_kirya.<br />
+The C# code related to compost bins derives from Dismarzero's "Vegetable Garden." Other aspects of the mod's code have benefited in no small measure from NotFood's suggestions and contributions.</p>
+
+<h1>The mod utilizes Pardeike's "Harmony Patch Library." (No additional download is required, as the library is included with the mod.)</h1>
+
+<p>License:</p>
+
+<h1>If you're a modpack maker and want to include "Fertile Fields" in your pack, or if you're a modder and want to use "Fertile Fields" as the basis of a derivative mod, please feel free to do so. I ask only that you let me know about it.</h1>
+
+<p>If you have any (helpful) suggestions for improvement, please let me know!</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=728315620">RT Solar Flare Shield</a> by Ratys</h5>
+
+<p>Researchable (RT Mods research tab) magnetic shield to protect colony electronics from solar flares. The device heats up considerably while engaged, so plan accordingly!<br />
+Does not require a new colony to add or remove (might throw a one-time error).<br />
+Texture by LastXsile.<br />
+Available languages:<br />
+- Chinese (simplified) (by duduluu)<br />
+- Chinese (traditional) (by duduluu)<br />
+- English<br />
+- Korean (by Coldmoon)<br />
+- Russian<br />
+- Spanish (Castilian) (by a mysterious stranger, who wished to remain anonymous)<br />
+- Spanish (Latin America) (by a mysterious stranger, who wished to remain anonymous)<br />
+Refer to forum thread for additional information.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1543177113">Quarry 1.0</a> by The White Crayon</h5>
+
+<p>Adds a quarry for mining in flat terrain.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1691419062">Build From Inventory</a> by Uuugggg</h5>
+
+<p>Construction will use things in your colonist or pack animal's inventory.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1543215657">Flagstone Cheaper (2 per) V1.0</a> by BlackSmokeDMax</h5>
+
+<p>V1.00.00<br />
+This mod reduces the cost in stone blocks of creating flagstone floors from 4 stone blocks down to two. This does not change the attribute of not being able to reclaim any materials via removing Flagstone floors.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1503021433">[CP] Portable Nerfed Generator (1.0)</a> by Chicken Plucker</h5>
+
+<p>It's lightweight, it's portable, it doesn't stop giving power when the sun goes down or when the wind stops blowing and it doesn't even cause deforestation.<br />
+Nerfed version of Terry Crews, what else do you need?!</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1542915888">Reasonable Components V1</a> by SirMcKeon</h5>
+
+<p>Components that are much more reasonable to craft.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1505423207">Door Mat R1.0</a> by dracoix</h5>
+
+<p>ORIGINAL AUTHOR: Latta<br />
+ORIGINAL WORKSHOP URL: https://steamcommunity.com/sharedfiles/filedetails/?id=727309536<br />
+For your cleaning needs.<br />
+Ported to 1.0 by dracoix.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1494937292">Blighted Alert</a> by Vaniat</h5>
+
+<p>Add an alert while blighted plants are existed on map.<br />
+The alert will target all the plants was blighted, You should cut them out as soon as you could to prevent the blighted spread to more plants.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1517406823">Herd Migration Revival</a> by CrunchyDuck</h5>
+
+<p>Returns the Herd Migration event back to all biomes.<br />
+Still works on 0.19.0 even though it is listed for 1.0.0</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1372130541">Reworked Temperature Extreme Events [1.0]</a> by O Negative</h5>
+
+<p>Heat Wave: Between +10C and +20C change. [Vanilla: +17C]<br />
+Cold Snap: Between -13C and -23C change. [Vanilla: -20C]</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1539031321">Statue of Colonist</a> by 民火</h5>
+
+<p>Add statue of colonist that can be created on sculptor's table.<br />
+The design of the statue is randomly determined from colonists or presets at the completion of creation(can edit it).<br />
+This MOD is powered by Harmony Patch Library.<br />
+彫刻台で作成することができる入植者の像を追加します。<br />
+像のデザインは作成完了時に入植者、またはプリセットの中からランダムに決まります（変更することも可能）。<br />
+このMODはHarmony Patch Libraryを使用しています。<br />
+[License]<br />
+- CC BY-NC-SA<br />
+- MIT License<br />
+Copyright 2017 TammyBee<br />
+Twitter:@tammybee_tmb</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1360279868">Metal Doesn't Burn</a> by Crlsniper</h5>
+
+<p>Seriously can't think of a reason why steel and other metal would catch fire without some extreme nonsense going on.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1517668631">Charged weapons for pirates</a> by Namsan</h5>
+
+<p>This mod allows elite-tier pirate enemies (bosses, elite mercs) to use spacer weapons like charge rifle or charge lance.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1470065926">[SYR] Set Up Camp</a> by Syrchalis</h5>
+
+<p>Set up camp, once again! For all your caravan managing needs, you can now set up camp anywhere. You can customize the possible size of the map, the duration you are allowed to stay, the time the tile is blocked after abandoning a camp and turn events on the camp map on/off.<br />
+It is recommended to use settings close to the default and not turn the map timer or the tile blocking off, as this makes the mod severely game-breaking in terms of balance. However, what you do is your choice - the option to turn these settings off is there for a reason.<br />
+Originally by Nandonalt<br />
+Re-coded and improved by Syrchalis<br />
+Assistance provided by spd, potatoclip</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1182992587">[KV] Change Research Speed - 1.0</a> by Kiame Vivacity</h5>
+
+<p>Change the speed of research both globally and per-save whenever you want.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1461230951">Silts Cover</a> by Silt</h5>
+
+<p>Adds Low Walls, Embrasures and enhances Sandbags</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1427238501">Medical IV</a> by leion247</h5>
+
+<p>Adds medical IV for early game medical rooms. They work with all beds, but not the sleeping spot.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=927155256">Simple sidearms</a> by PeteTimesSix</h5>
+
+<p>With the invention of pockets comes the idea of bringing EVEN MORE WEAPONS. Because your snipers are getting really tired of getting shanked.<br />
+See forum thread for details.<br />
+https://ludeon.com/forums/index.php?topic=32497.0<br />
+HugsLib for 1.0 required. Get it here:<br />
+https://github.com/UnlimitedHugs/RimworldHugsLib/releases</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1543164506">[RF] Rational Romance [1.0]</a> by Rainbeau Flambe</h5>
+
+<p>(Last update: 12/05/2018)<br />
+"Rational Romance" overhauls RimWorld's romance system, fixing some problems and adding some new options. Think of it as a "spiritual successor" to SeveralPuffins' popular but sadly abandoned a17 mod, "Romance Diversified."</p>
+
+<h1>- Rainbeau Flambe (dburgdorf)</h1>
+
+<p>What It Does:<br />
+(1) Adds Orientations. All pawns will now have a trait indicating their sexual orientation, either asexual, bisexual, gay or straight. (Don't worry; the mod doesn't "waste" a trait slot on this, as orientation traits are assigned only <em>after</em> regular trait assignment is complete.)<br />
+By default, pawns have a 50% chance to be bisexual, a 20% chance to be gay, a 20% chance to be straight, and a 10% chance to be asexual. I set the percentages this way because biological, sociological and historical evidence strongly suggest that, in the absence of cultural imperatives to the contrary, bisexuality is actually the "default" status for most humans. However, the percentages are all configurable in the mod's "options" menu, so you can set things up however you prefer for your own games. If you're radically heterosexist and don't want any gays in your colony, go right ahead and set the mod to make pawns 100% straight. On the other hand, if you want <em>all</em> your colonists to be queer, more power to you! And if you just want to play on a planet full of asexuals, where nobody worries about romantic entanglements at all, well, you can do that, too.<br />
+(And yes, I'm aware that I'm using certain terms rather loosely. "Bisexual" isn't the only or even necessarily the best term to describe someone whose romantic interests are not governed by gender or gender presentation, but it's a convenient and widely familiar term that fits the mod's needs. Similarly, while I know that not all asexual individuals are aromantic, the game draws no distinction between romantic and sexual relationships, and so the use of the term "asexual," though not strictly accurate, is convenient. On a related note, sadly, there's really nothing I can do to correct the fact that the game forces pawns to conform to the idea of a gender binary.)<br />
+(2) Adds New Traits. The mod adds two new traits, "Faithful" and "Philanderer," which influence how likely a pawn is to cheat.<br />
+(3) Adds New Activities. The mod adds long walks as a date option for couples, allowing them to socialize and improve their relationships. It also adds casual hookups as a joy activity for single pawns.<br />
+(4) Improves Romantic Behavior in General. Pawns will no longer make romance attempts if they've been recently rebuffed, and won't target pawns for such attempts who are currently in mental break or with whom they already have a romantic relationship. Pawns will neither initiate nor receive romance attempts if they have a high opinion of their current lover. And pawns who are gay or straight will be more likely to rebuff romance attempts by pawns of the "wrong" gender, will be more likely to breakup with partners of the "wrong" gender, and will never accept marriage proposals from pawns of the "wrong" gender. Finally, the impact of the Ugly trait on romantic attraction is lessened for pawns who have that trait themselves. <br />
+(5) Makes Culture Matter. There is now a cultural component to pawns' romantic interactions, with female pawns from tribal and imperial backgrounds more forward (more likely to initiate romantic encounters or to propose marriage) than males from those cultures, and male pawns from medieval and urbworld backgrounds more forward than females from those cultures.<br />
+(6) Adds Support for Polyamory. Polyamorous pawns prefer relationships involving multiple partners to simple monogamous relationships. You can decide in the mod's "options" menu how likely pawns are to be polyamorous. Like the orientation traits, Polyamorous is an "extra" trait assigned after normal trait assignment is complete, so allowing pawns to be polyamorous won't in any way limit their access to other traits. The default chance for polyamory is 0%, as the system isn't yet fully tested, and even if it all works as intended, it may still complicate colony management in unexpected ways. If you do want to include polyamorous pawns in your games, I strongly encourage you to also use Meltup's "Polyamory Beds" mod, which will allow you to more easily accommodate your pawns' desired sleeping arrangements.<br />
+(7) Adjusts Romance-Related Mood Penalties. Penalties and/or stack limits for rebuffs and other romantic failures have been reduced. You should no longer see pawns hitting on someone a few times, getting rejected, and then going on a murder spree as a result.</p>
+
+<h1>(8) Fixes Some Problems in the Game's Romance-Related Code. Female pawns will now be just as likely as male pawns to initiate romance attempts or to propose marriage, subject to the cultural variations mentioned above. Gay pawns will be no less likely than straight pawns to be parents. And male and female pawns will both now prefer partners near their own age but potentially accept either younger or older partners, unlike in vanilla, where men have a strong preference for younger women and women for older men.</h1>
+
+<p>Compatibility:<br />
+"Rational Romance" can safely be added to a game in progress. (Pawns without orientation traits will be assigned them as they enter into social interactions for which orientation is relevant.) The mod cannot, however, be removed from a game in progress.<br />
+This mod is fully compatible with "EdB Prepare Carefully."</p>
+
+<h1>This mod is NOT compatible with "Psychology." You may or may not actually notice any problems if you try to use them together, but the mods both alter some of the same vanilla code, and if they're both installed, neither will be operating entirely as intended. For similar reasons, "Rational Romance" isn't likely to be compatible with any other mods altering RimWorld's romance systems, either.</h1>
+
+<p>Credits:<br />
+The mod utilizes Pardeike's "Harmony Patch Library." (No additional download is required, as the library is included with the mod.)<br />
+Obviously, "Rational Romance" owes a great deal to SeveralPuffins' "Romance Diversified." In particular, the code for the new social activities comes directly from that mod. Other mods from which I borrowed code bits and/or ideas include "Less Stupid Romance Attempt" by Dazz Aephiex (for improvements to romantic behavior), "Grim Reality" by SheiFoxy (for alterations to mood penalties), and "Everyone is Queer" by Suzi (for general problem fixes).</p>
+
+<h1>Some of the code related to polyamory is borrowed from Linq/Word-Mule's "Psychology" mod.</h1>
+
+<p>License:</p>
+
+<h1>If you're a modpack maker and want to include "Rational Romance" in your pack, or if you're a modder and want to use it as the basis of a derivative mod, please feel free to do so. I ask only that you let me know about it.</h1>
+
+<p>If you have any (helpful) suggestions for improvement, please let me know!</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=0">Ugh You Got Me</a> by MarvinKosh</h5>
+
+<p>Pawns will stop social fighting if they're badly hurt or in a lot of pain.<br />
+Masochists ignore pain when social fighting.<br />
+Bloodlusties will not stop social fighting until either their opponent gives in, dies, or is downed.<br />
+New! Pawns who are romantically involved have a chance to stop social fighting if one has a positive opinion of the other.<br />
+[Version 1.0.4]</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1544626521">While You're Up [1.0]</a> by kevlou</h5>
+
+<p>"So long Bob, I'm heading back home for some food!"<br />
+"OK Jim.  Hey, while you're heading over there, mind hauling some of this wood we chopped?"<br />
+"Can't do it Bob, I'm cooking now.  More important than hauling."<br />
+"But Jim, you're literally walking from the forest back to where this wood needs to go.  Can't you just carry some of it while you're up?"</p>
+
+<h2>"Sorry Bob, I don't know the meaning of 'while you're up.'"</h2>
+
+<p>Before starting most jobs, your colonists will look for nearby objects that need to be hauled someplace near wherever they're already going.  If they can haul something useful without going out of their way, they'll do it, even if hauling is a low-priority task.<br />
+RimWorld colonists sometimes do this in the base game; with this mod they'll find more opportunities to do so.<br />
+Requires HugsLib.  Doesn't require a new save.<br />
+Works fine with most mods, but if you have any that add new job types, those job types may not get the "haul first" treatment.<br />
+Keep in mind:<br />
+- Opportunistic hauling only happens at the start of a job.  If your colonist must make a long trip in the middle of a job, they'll just make the trip like they always have.<br />
+- By the time a colonist has completed an opportunistic hauling job, someone else may have started doing the work they were going to do... which means it may no longer be important for them to be wherever they are.<br />
+- After completing their hauling job, colonists will attempt to resume their previous work. If they can't for any reason, you'll get an error message in Developer Mode. As far as I can tell these are ignorable, but there's a mod setting you can use to turn it off.<br />
+- If the game runs too slowly, While You're Up has an option in mod settings to search less aggressively, using less CPU.<br />
+- There's also an option in there to make bleeding colonists not look for these jobs (so they won't search for something to haul on their way to the hospital, for instance).</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=0">Snow Clearance Sanity</a> by MarvinKosh</h5>
+
+<p>This mod means that your colonists will avoid an endless loop of constantly clearing snow when it is currently snowing. It also reduces the priority of clearing snow so that cleaning dirt is taken care of first.<br />
+New in this version, if you need to, you can still order colonists to prioritise clearing snow.<br />
+[Version 1.0.1]</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1885186534">Auto-Cut Blight</a> by Razor 2.3</h5>
+
+<p>Automatically designate blighted plants to be cut.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1542424432">Please Haul Perishables</a> by MarvinKosh</h5>
+
+<p>Adds new WorkGivers for hauling, which prioritise hauling perishables or food over non-perishables. Items will be considered perishable if they would rot in less than a year or deteriorate to zero hitpoints in ten days or less.<br />
+Rain and water, which both cause higher deterioration rates, will be taken into account.<br />
+Perishable items will only be given priority for hauling if they are outside.<br />
+A check is made to see if the perishable has a large enough stack size. Things which have a maximum stack size of 1 (weapons and apparel for example) pass automatically. Other perishables must have a high enough stack count for that kind of item. The exact threshold depends on the hauler's current carrying capacity and the ideal carrying capacity for their race, but it only goes as high as 40. The perishable can still pass the check if there are other perishables of the same type nearby, or if it would deteriorate to zero hitpoints in ten days or less.<br />
+Food will also be hauled if it needs to go from low to high priority storage.<br />
+A new general hauling routine prefers valuable items like silver or big stacks of items for hauling, regardless of whether they are perishable or not. It will look at a square grid and a plus-shaped grid of cells to see if a big stack of the same type of item could be made. The normal general hauling routine picks up any leftovers.<br />
+New in this version, if Pick Up and Haul is active, the mod will use its hauling routine instead, but the order in which things will be hauled will still be decided by this mod.<br />
+Also, to improve performance, the lists of things to be hauled will be cached in memory and only updated when a certain number of in-game ticks have passed.<br />
+A debug mode exists and will give feedback when you right-click a haulable, so if it is not considered perishable or food or a big stack, that will show as a reason for not doing the job, in addition to still allowing you to manually prioritise hauling.<br />
+[Version 1.5.2]</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1561179433">Forbiddable Refuelables</a> by jsynacek</h5>
+
+<p>Make refuelable things forbiddable.<br />
+https://github.com/jsynacek/ForbiddableRefuelables<br />
+[v1.0]</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1542424055">Clear The Stockpiles</a> by MarvinKosh</h5>
+
+<p>Adds a new WorkGiver for hauling, which prioritises clearing stockpiles of blockages that may if there are extra products from doing a bill at a work table.<br />
+The behaviour of this WorkGiver is as follows:<br />
+If an item doesn't belong in a stockpile, first a check is made to see if there is a valid stockpile within a radius of 18 of the item. If so, the item will be taken there.<br />
+If no valid stockpile was found or no stockpile with enough space was found, the item will be dumped in a small radius of its original position. This position will not be next to or in a doorway or on top of a trap.<br />
+The clearing routine by default runs at a higher priority (85) than hauling corpses (corpses can block stockpiles, no reason not to haul those) but at a lower priority than burying and stripping corpses.<br />
+In the mod settings, you can configure the radius in which to search for matching stockpiles, between 1 and 25.<br />
+In this version, a bug was fixed, a little bit of optmisation was done, and a debug mode was added to the mod settings. The debug output can get a bit spammy in the output log, so only turn it on for troubleshooting.<br />
+[Version 1.0.7]</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1501832876">Color Coded Mood Bar</a> by semTex.</h5>
+
+<p>Color code each pawn's mood bar within the colonist bar based on their current mood.<br />
+Red: extreme mental break threshold<br />
+Orange: major mental break threshold<br />
+Yellow: minor mental break threshold<br />
+Gray: neutral mood<br />
+Light Blue: content<br />
+Green: happy<br />
+Updates:<br />
+24-9-2017: Removed unnecessary error log messages.<br />
+18-11-2017: Updated for RimWord version 0.18.1722, and added content and happy mood colors.<br />
+09-02-2018: Compatibility with 0.19<br />
+09-03-2018: Removed unnecessary dependencies. Cleanup.<br />
+09-05-2018: Resized colonist bar images slightly to improve mood visibility.<br />
+09-07-2018: Fixed offmap transparency. More B19 adjustments.<br />
+Original Mod: https://steamcommunity.com/sharedfiles/filedetails/?id=1136819681</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=963900121">Realistic Smokeleaf</a> by daedelus</h5>
+
+<p>Lowers Smokeleaf consciousness penalty to 10% and makes addiction effectively impossible.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1543745278">CrustyTextiles - 1.0</a> by Crustypeanut</h5>
+
+<p>Version 1.2. A quick and simple mod that adds material reclamation from old, tainted, and/or unwanted clothing into reusable fabric and changes the name of patchleather to patchwork leather.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1508341791">[FSF] Rain Washes Away Filth</a> by FrozenSnowFox</h5>
+
+<p>Changes filth so every type washes away with the rain</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1515278481">Shelf Renamer</a> by Teellox</h5>
+
+<p>Rename shelves and other storage buildings.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1541261044">Let's Trade! [1.0]</a> by EarthyTurtle</h5>
+
+<p>For Rimworld Version [1.0] | Mod Version [1.8.1]<br />
+'Let's Trade!' adds more variety to rimworld traders. A total of 25 new traders are added that use vanilla categories and trader tags that provide additional trade support for modded content.<br />
+Compatibility:<br />
+--- Placeable anywhere in your mod list below core.<br />
+--- 'Let's Trade!' plays nice with existing save files, there should be no issues installing. Uninstall at your own risk, recommended you remove all traces of 'Let's Trade!' from your save before uninstalling.<br />
+Has mod support for:<br />
+--- Combat Extended - (Removes alterations from vanilla items that affect their tradability, thus making Let's Trade compatible with Combat Extended. May still have persisiting issues.)<br />
+(Place Let's Trade below any of these mods)<br />
+'Let's Trade!' is under the creative commons license. Cite, learn and use aspects from this mod, credit optional but appreciated ;). Please do not outright copy this mod and/or re-upload without my consent.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1541360626">More Slaves [1.0]</a> by Ziehn</h5>
+
+<p>Increases amount of slaves for sale and removes population limits for slaver stock.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1542909561">Backup Generators</a> by DamnationLtd</h5>
+
+<p>Backup generators provide a stopgap to prevent black/brownouts when battery reserves are depleted.<br />
+REQUIREMENT: HugsLib<br />
+<size=24>Features</size><br />
+* Generators start producing power when connected reserves are critically low (&lt;= 200 Wd) and stop when reserves exceed 1000 Wd or their power is flicked off/on<br />
+* Brand new art! Uranium version! Thanks, Xsile!<br />
+* Configurable low and high reserve values in mod settings. Thanks, Herbiems89!<br />
+<size=24>Specifics</size><br />
+* Each generator type should appear in the Power category when the research requirements are fulfilled<br />
+* Generators consume some fuel even when idling, although less than power-producing Vanilla fueled generators<br />
+Wood:<br />
+* 1200W<br />
+* 75 capacity<br />
+* 5 days active<br />
+* 2 quadrums 7 days idle<br />
+* Electricity, Batteries to unlock<br />
+* 150 Steel, 6 Component, 2500 work to build<br />
+Chemfuel:<br />
+* 2100W<br />
+* 75 capacity<br />
+* 7 1/2 days active<br />
+* 1 year 2 quadrums idle<br />
+* Refining, Microelectronics Basics to unlock<br />
+* 200 Steel, 8 Component, 2500 work to build<br />
+Mobile Chemfuel:<br />
+* 900W<br />
+* 20 capacity<br />
+* 1 1/3 days active<br />
+* 12 1/2 days idle<br />
+* Refining, Microelectronics Basics to unlock<br />
+* 80 Steel, 4 Component, 1000 work to build<br />
+Uranium:<br />
+* 4000W<br />
+* 1 capacity<br />
+* 10 days active<br />
+* 2 years idle<br />
+* MultiAnalyzer and Fabrication to unlock<br />
+* 250 Plasteel, 150 Steel, 10 Component, 10 Uranium, 12000 work to build<br />
+Mobile Uranium:<br />
+* 1800W<br />
+* 1 capacity<br />
+* 5 days active<br />
+* 1 year idle<br />
+* MultiAnalyzer and Fabrication to unlock<br />
+* 80 Plasteel, 60 Steel, 6 Component, 5 Uranium, 7500 work to build<br />
+<size=24>Feedback Welcome</size><br />
+Let us know if there are bugs, balance issues, or features you'd like to see!<br />
+<size=24>Change Log</size></p>
+
+<h2>2018/10/19, 1.6.0: Release 1.0 support!</h2>
+
+<p>2018/10/19, 1.5.1: Requires work to build!</p>
+
+<h2>* Final planned B19 release; sets reasonable work requirements for all generator types (see above!)</h2>
+
+<p>2018/09/07, 1.5.0: B19 support!</p>
+
+<h2>* So many broken defs! Thanks for your support and patience!</h2>
+
+<p>2018/03/21, 1.4.1: Mod showcase video link, tuning<br />
+* Thanks to Fistandantillus7 for the research balancing!<br />
+* Lowered uranium build costs<br />
+* Documentation FINALLY shored up to be accurate <em>ashamed lemur</em></p>
+
+<h2>* Reversed this change log</h2>
+
+<p>2018/03/21, 1.4.0: B18 support, HugsLib added for configurable settings</p>
+
+<h2>* Special thanks to Herbiems89 for these updates!</h2>
+
+<p>2018/03/20, 1.4: B18 Support and Settings<br />
+* Adds support for B18</p>
+
+<h2>* Low and High Power Thresholds can now be configured via ingame Mod Settings Menu</h2>
+
+<p>2017/08/01, 1.3.1: Generators work without batteries!</p>
+
+<h2>* Also, TL;DR documentation</h2>
+
+<p>2017/07/30, 1.3: Updated size/graphics and tuning</p>
+
+<h2>* Thanks to Xsile for new graphics and adjustments!</h2>
+
+<p>2017/07/14, 1.2.2: A17 support</p>
+
+<h2>* Thanks to ProximityMicrowave for beating me to the punch!</h2>
+
+<p>2017/04/08, 1.2.1: Behavior additions<br />
+* Generators can now be minified, i.e. installed/uninstalled<br />
+* Since they generate some amount of heat, the heater hinting shows when placing generators<br />
+* Documentation flub on 1.2<br />
+<size=24>Roadmap</size><br />
+* Animations!<br />
+* Size and orientation changes, TBD<br />
+* Other options?<br />
+<size=24>License</size><br />
+Please feel free to pull this apart and make any derivative work you like as long as it's not a straight copy to claim this work as your own. Attribution is not required but is always appreciated.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1512534049">Warmer Power Armour</a> by MrBlazzar</h5>
+
+<p>Changes the thermal protection value of Power Armour to that of a good parka. Basically makes Power Armour viable on very cold maps using XPatching instead of Def editing. Original mod from Harry_Robinson1</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1530276152">Turn It On and Off v1.3 [1.0]</a> by Thom Blair III</h5>
+
+<p>HugsLib is required.<br />
+This makes many electrical machines use minimum possible power (1 watt) when not in use. In addition, many electrical machines from other mods should behave the same way.<br />
+Fully save compatible. Can be added or removed at any time. Please report any errors.<br />
+Credits:<br />
+Thom Blair III (Idea for the mod and programming)<br />
+Fluffy (Programming)<br />
+Xen (Programming)<br />
+NubsPixel (RePower B19 mod)<br />
+Texel (original RePower A16 mod)</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1546370684">[XND] AutoOwl</a> by XeoNovaDan &amp; Dazz Aephiex (original author)</h5>
+
+<p>This mod makes it so that colonists and prisoners with the Night Owl trait will have an alternative initial schedule to avoid working during the day and suffering -10 mood as a result.<br />
+Regular Colonists: sleep at 0-5 and 22-23<br />
+Night Owls: sleep at 11-18<br />
+This mod only changes the initial schedule upon pawn generation; existing Night Owls will NOT have their schedule changed.<br />
+Incompatibility: None<br />
+Old Save Compatible: Yes<br />
+Safely Removable: Yes</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1548975671">Disinfectant stand.</a> by BrokenValkyrie</h5>
+
+<p>A disinfectant stand that passively sterilise surrounding. It adds cleanliness for rooms. Great for makeshift hospital, addition to food area or bathroom(if you are using dubs hygiene.)<br />
+Adds a little beauty. 20 cleaniness to surrounding area.<br />
+Require Medicine Production research.<br />
+Cost 1 component, 40 silver, 4 medicine. And 40 material of choice.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1545708330">Outdoor Lighting</a> by Stormknight</h5>
+
+<p>Introduces a number of options for outdoor lighting.<br />
+Your colonists move slower and work slower when they are in the dark, but having a network of standing lamps around the gardens and outside of your base is a drain on power when they are busy working during the day.<br />
+Sure, you could flag them all to be turned off and a colonist could do that every morning, switching them back on again every evening, or .... you could have [b]lamps that automatically turn themselves off during the day![/b]<br />
+Clean and stackable, as it makes no changes to existing items in the game. All items are found on the furniture tab.<br />
+Includes:<br />
+- Garden Lanterns - including pumpkin lanterns!<br />
+- Garden Lamps - auto power-off during the day, in a variety of colours.<br />
+- Solar-powered Garden Lamps - auto power-off during the day, in a variety of colours.<br />
+- Lamp Posts / Street Lamps - also auto power-off during the day, in a variety of colours.<br />
+Garden Lanterns<br />
+There are three garden lanterns available that can be built without any research needed. Functionally, they are the same as a torch, but hold twice as much "fuel" lasting for 40 days without needing to be re-fuelled.<br />
+- Standard garden lantern - gives off a slightly yellow light.<br />
+- Garden lantern (blue) - the same as the standard lantern, but with slightly different graphics and a blue tint to the light.<br />
+- Pumpkin lantern - there are no pumpkins on the rim, so this is carved from wood and reinforced with a bit of steel.<br />
+Outdoor Lamps<br />
+A variant of the vanilla Standing Lamp..<br />
+- Alternative graphics for the lamps.<br />
+- Must research [i]Electricity[/i] before it is available to build.<br />
+- The outdoor lamps automatically turn off at 07:00 to save power during the day. They automatically turn back on at 17:00.<br />
+- Once [i]Colored Lighting[/i] has been researched, they can be built in a variety of colours, including: red, blue, green, purple, and orange.<br />
+Outdoor Solar Lamp<br />
+Identical to the Outdoor Lamp from this add-on, except:<br />
+- Must research [i]Solar Panels[/i] before it is available to build.<br />
+- No need to run power to these lamps - they power themselves by absorbing energy during the day! They can also be easily moved when needed.<br />
+- Visually different - the small solar panel can be seen by the lamp, making it easy to see which lamps are which.<br />
+Lamp Posts / Street Lamps<br />
+Taller and more powerful than the standard lamp:<br />
+- Larger pool of light, in a variety of colours (requires [i]Colored Lighting[/i] has been researched).<br />
+- Provides limited cover in a gun fight.<br />
+- Visually different to standards lamps - when placing, circle shows approximate area that will be lit.<br />
+Floodlights!<br />
+- 6x the power of a regular lamp, covering light in a radius of 15 squares.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1180719658">[KV] Trading Spot - 1.0</a> by Kiame Vivacity</h5>
+
+<p>A designated spot for traders to stop at.<br />
+Thank you to the translators!<br />
+-Ɲơɴɑɱɛ for German<br />
+-MossieuLeblanc for French<br />
+-Proxyer for Japanese<br />
+-Arex for Russian<br />
+-Fodnjs0811/Orange_Mushroom for Korean<br />
+-53N4 - Spanish<br />
+-adam0310 - Polish<br />
+Original Author: TheUbie</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1552461911">Expanded Incidents</a> by Linq</h5>
+
+<p>This mod increases the variety of incidents your colony faces. The new incidents are designed to be balanced, generally long-term events that you can mitigate or eliminate with proper planning or response, so long as they have any significant impact on your colony.<br />
+Expanded Incidents does not require a new save game. It's compatible with everything. It will use Psychology's systems if you have both installed.<br />
+<b>New Incidents</b>  <br />
+- Quarrel: Two pawns friendly towards each other have their relationship damaged by an argument until they make up.<br />
+- Homesick: One of your pawns is feeling homesick. They may spread it to other pawns through conversation, until they've made your whole colony unhappy!<br />
+- Cliques: Two pawns who dislike each other separate the colony into cliques of their friends. Members of each clique may come to blows.<br />
+- Sabotage: Keep a close eye on your colonists if you notice things malfunctioning in your base. Someone has to be to blame. But who?<br />
+- Thief: Colonists and pets may spot thieves attempting to sneak into your base and steal valuables, who won't leave without a fight!</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1552452572">Death Rattle</a> by Linq</h5>
+
+<p>This mod makes it so that people will no longer instantly die when their vital capacities reach zero. If one of your colonists has their liver destroyed by a charge lance, for instance, they will become severely ill and you will have a short window to get them a new liver before they die.<br />
+The time scales in this mod are not entirely realistic, because Rimworld's time scale makes it effectively impossible for a colonist to receive life-saving care in a realistic amount of time. Colonists move too slowly, and days pass too quickly, so the numbers have been fudged to make it difficult, but possible, to save someone if you have a donor organ on hand.<br />
+Be warned: Just because they survive, doesn't mean they won't suffer permanent brain injury as a result of their near-death experience.<br />
+Don't ask me about compatibility. It should be compatible with everything. Just try it, and let me know if it doesn't work, so I can fix it.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1552455241">Less Arbitrary Surgery</a> by Linq</h5>
+
+<p>This mod changes surgery success to be less arbitrary and random. It doesn't change your surgeon's chance of success, but it does change failures in the following ways:<br />
+-If they don't succeed, they get a second chance to succeed with non-lethal injuries.<br />
+-If they fail, they have a chance to only give non-lethal injuries based on their surgery skill (as they identify that the patient is dying and abort the surgery).<br />
+-If they fail that, then the death on failed surgery chance is reduced by their chance to successfully complete the surgery.<br />
+-If the surgery is not lethal, the difference between catastrophic and minor failure is based on the surgery success chance, instead of being a literal coin flip.<br />
+-Only impaired pawns will ever have ridiculous surgery injuries.<br />
+-Instead of doing 20 damage on a minor failure and 65 on a catastrophic failure, minor failures do 10-20 damage and catastrophic failures do 30-60. This makes it so that some surgeries (like on the head) are not disproportionately lethal even on minor failures.<br />
+-Instead of doing between 50-100% of a part's remaining health in damage per surgery injury, failures do between 10-25% of a part's remaining health, so that an injury is far less likely to kill or sever a part on a patient unless its total damage exceeds the part's remaining health.<br />
+-You will receive the body part or implant back on a minor failure.<br />
+Compatible with Psychology, EPOE, A Dog Said, DE Surgeries, and Mechanite Augmentation. If you've tested your mod with this and confirmed its compatibility, contact me to add it to the list.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1554149030">[RF] Rumor Has It.... [1.0]</a> by Rainbeau Flambe</h5>
+
+<p>(Last update: 11/03/2018)<br />
+Have you ever wondered why your pawns don't talk about each other? <br />
+Did no one wonder about sending that shifty cannibal Alex to bury the dead? How come Ray likes the abrasive psychopath who beat up her friend, just because she's never been insulted directly? And why is no one ever apologetic about anything they've done?<br />
+If you want more social complexity, or just enjoy gossip and intrigue in your stories, then look no further! "Rumor Has It" -- an update of SeveralPuffins' popular but sadly abandoned a17 mod, "Rumours and Deception" -- adds new social interactions, traits and thoughts that largely focus on people talking about people.</p>
+
+<h1>- Rainbeau Flambe (dburgdorf)</h1>
+
+<p>What It Adds:<br />
+(1) New Interactions!<br />
+- Chat About Other Pawns: Alice likes Bob. Bob hates Carol. Bob can now tell Alice this!<br />
+- Quarrel: Even friendly pawns can sometimes have their relationship damaged by an argument....<br />
+- Spread Rumor: Pawns will tell nasty, unsubstantiated tales to each other, particularly about pawns that neither of them like.<br />
+- Share Secret: A pawn can trust another enough to reveal something deep and personal, bringing them closer together.<br />
+- Reveal Secret: There's no guarantee that all trust is well placed! Pawns who have been told a secret can go and gossip about it to their friends!<br />
+- Apologize: Pawns can try to make up with others that they've insulted or hurt.<br />
+- Make Peace: Pawns may try and apologize on behalf of a third party.<br />
+- Culture Clash: Not all insults are intended! One pawn may insult another due to having a poor understanding of the other's cultural background. (Would you really expect a tribal pawn, for example, to understand glitterworld cultures?)<br />
+(2) New Traits!<br />
+- Compulsive Liar: Pawns with this trait just can't help themselves. Every conversation is an opportunity to make up some new, snide story about someone else.<br />
+- Gossip: Gossips talk about other people all the time. This extends to secrets, with which they simply can't be trusted.<br />
+- Gushing: Some pawns just cannot judge who to trust with their darkest secrets, exposing themselves to potential embarrassment.<br />
+- Manipulative: Pawns with this trait will use any social trick they know to make other people see things their way. They are great negotiators, but can be divisive and isolating within a colony.<br />
+- Peacemaker: Some pawns just can't stand to see their friends fighting. They will try to resolve other people's differences, and will get a mood boost if successful.<br />
+- Trustworthy: Trustworthy pawns keep secrets. They rarely spread rumors, and if they do, they feel terrible about it.<br />
+(3) New Events!<br />
+- Defection: Socially isolated pawns will suffer mood penalties and very regular mental breaks. If they remain friendless, they may, occasionally, walk off the map and join an ally.<br />
+- Splinter: In the unlikely event that a clique of friends forms within the colony that is largely hostile to its other members, they may choose to leave together and form a new map faction. They will take some of the colony's belongings with them as they go. <br />
+- Brawl:  Even if they don't leave, hostile cliques will start fights. Unless you patch up your fractured colony, mass brawls will break out. <br />
+NOTE: All of these events can be switched off in the mod's "Options" menu, but not entirely without consequence. Divided colonies, after all, are unhappy colonies.<br />
+(4) Negative Traits are Ameliorated for Those Who Share Them!</p>
+
+<h1>The negative impact of the Annoying Voice, Creepy Breathing, Disfigured, and Ugly traits is reduced for pawns who have any of those traits themselves. (This was originally a feature in SeveralPuffins' "Romance Diversified" mod, but I think it fits better here, in a mod that primarily focuses on what pawns think of each other.)</h1>
+
+<p>Compatibility:<br />
+"Rumor Has It" can safely be added to a game in progress. Removing it from a game in progress, however, could create problems.</p>
+
+<h1>This mod should be compatible with "Psychology," though you might notice that some traits or incidents overlap conceptually.</h1>
+
+<p>Credits:<br />
+Obviously, "Rumor Has It" owes a great deal to SeveralPuffins' "Rumours and Deception," inasmuch as it's pretty much just a direct update of that mod.</p>
+
+<h1>The "Quarrel" incident is taken from Linq/Word-Mule's "Expanded Incidents" mod.</h1>
+
+<p>License:</p>
+
+<h1>If you're a modpack maker and want to include "Rumor Has It" in your pack, or if you're a modder and want to use it as the basis of a derivative mod, please feel free to do so. I ask only that you let me know about it, and that you credit both me and SeveralPuffins.</h1>
+
+<p>If you have any (helpful) suggestions for improvement, please let me know!</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1545651917">One More Small Shelf</a> by Paladin</h5>
+
+<p>Small shelf is like normal shelf but 1x1 size without any default items specified.<br />
+Made of vanilla shelf textures so fits perfectly.<br />
+Translation included:<br />
+English, Russian</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1542650154">FFRocketstove</a> by forestfey</h5>
+
+<p>Adds an additional heat- and mealsource that doesn't use electricity and only little wood as fuel. The origin of this technology is unclear, as the superior draft-principle might have been invented or (re-)discovered by several people or cultures at different times and places in human history. Due to the elaborate proportions that are needed inside a rocketstove, more than only basic metal- and stoneworking knowledge is required to build it. Well, actually not at all, you might only need some crafty aptitude and common sense. But... balancing reasons!</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1544558250">ETRT: Tribal Apparel</a> by Evil Tactician</h5>
+
+<p>Stand-alone Release of Tribal Apparel<br />
+Part of:<br />
+<size=20>Evil Tactician's RimWorld Tweaks</size><br />
+<b>Tribal Apparel</b><br />
+- Added Fur Coat, Fur Hat, Desert Robe and Desert Head Wrap for Tribals in harsh conditions.<br />
+- Textures (with permission) from <b>spoonshortage's</b> <b>FashionRIMsta</b> mod.<br />
+- Compatible with FashionRIMsta if you want to use the full set, just load my mod <i>after</i> hers.<br />
+- Added Wolf Hood, Deer Hood, Megascarab Hood, Megaspider Hood and Spelopede Helm.<br />
+- Each have subtle bonuses for specific roles within the tribe to add some variety early game.<br />
+- Textures (with permission) from <b>Diana Kitty's</b> <b>Tribal Hoods</b> mod.<br />
+<size=20>Credits</size><br />
+<color=orange>spoonshortage</color> - Very talented graphics artist, for her awesome textures.<br />
+<color=orange>Diana (Kitty)</color> - Tribal Hoods Textures.<br />
+<size=20>Changelog</size><br />
+21-10-2018: Stand-alone Release</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1541281528">Pawns Paint! Restored</a> by Faeldray, original by Willelbini</h5>
+
+<p>Let your colonists paint!</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1545872070">[RF] Etched Stone Walls [1.0]</a> by Rainbeau Flambe</h5>
+
+<p>(Last update: 12/05/2018)<br />
+Since beta 19, vanilla RimWorld has allowed you to smooth natural stone walls. This allows you to have real walls in the rooms in your mountain hideaway, without needing to mine out rock and then immediately replace it with a wall built from scratch. But smoothed stone walls are, as you'd expect, smooth. They don't have the graphic patterning that constructed (block) walls have. <br />
+Some players prefer to have all their walls look exactly the same. And that's where this mod comes in. You can have your crafty pawns "etch" the smoothed stone walls, to give them a pattern that matches the brick pattern in constructed walls. Alternatively, you can have a pawn with artistic skill do decorative etching, in which case at least some of your wall tiles, in addition to a brick pattern, will end up randomly decorated with pictures.</p>
+
+<h1>- Rainbeau Flambe (dburgdorf)</h1>
+
+<p>Compatibility:<br />
+"Etched Stone Walls" adds a new capability, but doesn't change any existing things, so it should be compatible with pretty much any other mod. You should be able to add it to an existing saved game without trouble. Removing it from a game in progress, however, will make the game unplayable if you have any etched or decorated walls on the map.</p>
+
+<h1>"Etched Stone Walls" should be fully compatible with stone types added by other mods, at least as long as those mods follow vanilla's convention for walls' defNames, meaning that you'll be able to smooth walls of non-vanilla stone types as easily as you can those of vanilla stone types.</h1>
+
+<p>Credits:<br />
+Most of the images used for wall art came from the flaticon.com Web site.</p>
+
+<h1>The mod utilizes Pardeike's "Harmony Patch Library." (No additional download is required, as the library is included with the mod.)</h1>
+
+<p>License:</p>
+
+<h1>If you're a modpack maker and want to include "Etched Stone Walls" in your pack, or if you're a modder and want to use it as the basis of a derivative mod, please feel free to do so. I ask only that you let me know about it.</h1>
+
+<p>If you have any (helpful) suggestions for improvement, please let me know!</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1539313434">[RF] Rainbeau Flambe - Storyteller [1.0]</a> by Rainbeau Flambe</h5>
+
+<p>(Last update: 12/05/2018)<br />
+This mod adds a new storyteller, Rainbeau Flambe.<br />
+Rain shares Randy's love of the unpredictable, but tempers that love with a bit of Cassandra's storytelling flair. Still, he'll send big threats nearly as often as small ones. He seems to have a bit of a sadistic streak, and in any event, he has to keep his cat, Sabre, amused. He also likes to have a slightly larger cast of characters to work with than Cassandra does, and so will subtly encourage you to have more colonists.<br />
+The mod also slightly increases the base chance of orbital traders arriving, though the actual frequency of their arrival is not altered.<br />
+Some player testimonials:<br />
+"[Rainbeau is] real good on providing a constant supply of traders and challenges."<br />
+"Yep. Three events after one minute. And after that I had some time for my colonist. I like that challenge."<br />
+"I have to say I'm really satisfied with this storyteller.... Rain (on some challenge and later on rough) is heavy handed, but fair. The good flows in rapid succession just like challenges. I feel like if you survive the onslaught, he rewards you with a reasonable term of prosperity, and loves big colonies. He basically fits exactly how I like to play."<br />
+"Not sure if I just had bad luck.... But it feels like the game now spams bad events on me."<br />
+"Just into my second year in my current game using Rainbeau and I can say, 100%, that he is very fun, even on Some Challenge. XD Very fast paced and intent on being very kind or very brutal to my tiny colony. A+ Storyteller!"<br />
+"I've taken to calling this storyteller 'WHAT NOW?!'"<br />
+"He looks kinda like Shia Labeouf."</p>
+
+<h1>-- Rainbeau Flambe (dburgdorf) - the modder, not the storyteller ;)</h1>
+
+<p>A Note on Difficulty Levels:</p>
+
+<h1>Technically, Rain can be used at any difficulty setting, if only because there's no way to disable any of those settings. But as a matter of practicality, I wouldn't recommend trying to use him with "base builder" difficulty. Rain utilizes big threats as often as small ones, and tries to keep things going at a fair clip, while the "base builder" setting disables most big threats, and is intended to keep the game moving at a more leisurely pace. The inconsistency should be obvious.</h1>
+
+<p>Compatibility:</p>
+
+<h1>"Rainbeau Flambe - Storyteller" adds a new storyteller, but doesn't really change anything already in the game, so it should be compatible with pretty much any other mod, and you should be able to add it to an existing saved game without trouble. You should also be able to safely remove it from a game in progress, at least so long as Rain's not the currently active storyteller.</h1>
+
+<p>License:</p>
+
+<h1>If you're a modpack maker and want to include this mod in your pack, or if you're a modder and want to use it as the basis of a derivative mod, please feel free to do so. I ask only that you let me know about it.</h1>
+
+<p>Acknowledgement:</p>
+
+<h1>The image of Rainbeau Flambe was created with HeroMachine 3 (http://www.heromachine.com/heromachine-3-lab/), and then edited in Photoshop.</h1>
+
+<p>If you have any (helpful) suggestions for improvement, please let me know!</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1521844535">RimWriter - Books, Scrolls, Tablets, and Libraries</a> by Jecrell</h5>
+
+<p>1.20.0.2 (01-04-2019)<br />
+Add tablets, books, scrolls and more to your RimWorld playthroughs.<br />
+RimWriter is a mod that adds a lot of content focused on writing to supplement the standard vanilla RimWorld playthrough such as:<br />
+-Items<br />
+* Stone Tablets<br />
+* Leather Scrolls<br />
+* Journals<br />
+* Handwritten Books<br />
+* Typed Books and Journals<br />
+* Skillbooks for improving skills<br />
+-Furniture<br />
+* Stone shelves for tablets<br />
+* Scrollcases, tall and short<br />
+* Bookcases, tall and short<br />
+* Writer's tables<br />
+* A typewriter<br />
+-Features<br />
+* Customized text generation for tablets, books, and journals.<br />
+* Compatiblity with Lord of the Rims and Call of Cthulhu mods.<br />
+- Writing reduces sanity loss over time.<br />
+- Future compatability with storing Grimoires and Wizard textbooks inside bookcases/scrollcases.<br />
+Why create this mod?<br />
+I wanted to make a framework sort of mod that I could add to or use later in my current and future projects. I feel that tablets, scrolls, and books all have a clear place in RimWorld and future mods.<br />
+Thank you to my Patrons for supporting me in my efforts. Without you, none of this would be possible.<br />
+These are the most excellent rim dwellers who support me: </p>
+
+<h1>Maaxar, Shibby Says, TheJagermeister, Cory Bonifay, Kiya Nicoll, Matt Harris, Paul Fenwick, Grendalloffen, Martin K. Bonde, Bentley Alsup, Eric Idema, MasterScootie, GoSu, Josh McCabe, spook, Clifford Campbell, J, CrankyPeanut, E_T, Finwej, Jan Koutsky, Audrin Navarro, Михаил Юрченко, John Kanady, Luis Figueroa, Midgeman, Nate Haug, Nemuri Hime, Richard Paul, SilentWeirdo, Calum, Calhoun Cattell, Keith Thoma, Tim Stillson, Dick Jones, Patrick, Nathan Getman, Populous25, Sharp Spook, Steven James, Marcus Sireanu, Mark, Emily Shaw, Drachken, Zalson, Baron Xot, Nicholas Bateman, Christopher, Justin Andres, Luis Salvatierra, TinyFloatingTurtle, George Chong Chuang Ming, John Boehr, Oliver White, roxxploxx, Robin Hager, Brachiaraidos, That Guy, Toc Anastar, Karol Rybak, Allic, Austin Harbert, Yewty, Evan Hwang, Ryan Brock, Jonathan Holzinger, MC, Alexander, Kevin Reagan, Alex Mederer, Toss Antilles, Chelsea Archambeau, Aron Glasser, Dan Winn, Fredric Sundberg, Sarah Banks, ted stevens</h1>
+
+<h1>Changelog</h1>
+
+<h1>1.20.0.2 (01-04-2019)</h1>
+
+<p>Skillbooks now properly display graphics and authors</p>
+
+<h1>1.20.0.1 (10-30-2018)</h1>
+
+<p>Fixes for potential XML errors from inheritence from other mods.</p>
+
+<h1>1.20.0.0 (10-26-2018)</h1>
+
+<p>Available now for RimWorld 1.0.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1157085076">Locks</a> by Avius</h5>
+
+<p>Version 2.3.0<br />
+This addon adds Lock command on every door.<br />
+- Left-click to lock toggle.<br />
+- Right click for more options<br />
+- Alternatively you can use "Lock" inspector tab<br />
+Note: Door lock must be flicked by colonist.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1551734715">Safe Pause</a> by likeafox</h5>
+
+<p>Stop accidentally unpausing the game.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1541795281">Neutroamine craftable</a> by AmUnRA</h5>
+
+<p>Neutroamine craftable<br />
+Just unlocks Neutroamine for crafting. You have to research Neutroamine Synthesis (under regular drug production) before. <br />
+Cost: 10x Herbal Medicine, 10x Psychoid Leaves, 5x ChemFuel for 5x Neutroamine<br />
+Thanks to Selfarion for translation to russian.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1541893512">CleaningStation</a> by NavySeal</h5>
+
+<p>Adds a building to the game which automatically cleans its surroundings.<br />
+Requires Hugslib</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1542364782">Smoked meat</a> by Tammabanana, Orange_Mushroom, dismar</h5>
+
+<p>Meat can be preserved by drying and smoking it. Smoking meat takes a long time, but you can make a lot simultaneously.<br />
+* Smoked meat lasts 2 seasons. It's categorized under MeatRaw, so that it can be used in all recipes that use meat, like meals and kibble.<br />
+* The Smoked Meat recipe excludes itself as a possible ingredient, and disables human+insect meat from the ingredients used by default.<br />
+* The smokepit is the campfire, modified to use less wood, and more slowly; create much less heat; die faster in the rain; smoke meat.<br />
+* The smokehouse allows you to smoke much more meat simultaneously than the smokepit does. The original smokehouse author is Panggul<em>mas, https://ludeon.com/forums/index.php?topic=20387.0<br />
+* The smokehouse looks funky when you rotate it. Sorry. I'm not artist enough to fix this. Panggul</em>mas's version sets it non-rotatable, but I think sometimes the lay of the land makes that inconvenient, and have sacrificed beauty for function.<br />
+* I've made the delay agent on smokehouse-building the requirement for lots of construction materials instead of a Research prerequisite. You can usually get enough stone from deconstructing ruins.<br />
+Orange_Mushroom's B18 version :<br />
+https://ludeon.com/forums/index.php?topic=41511<br />
+Prior-alpha versions can be found on https://github.com/Tammabanana/Smoked-Meat/releases</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1537873717">Selectable Sculpture Graphic</a> by 民火</h5>
+
+<p>You can change sculpture graphic.<br />
+This MOD is powered by Harmony Patch Library.<br />
+彫刻の画像を選択できるようにします。<br />
+このMODはHarmony Patch Libraryを使用しています。<br />
+[License]<br />
+- CC BY-NC-SA<br />
+- MIT License<br />
+Copyright 2017 TammyBee<br />
+Twitter:@tammybee_tmb</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1545897249">[1.0] Cheap Mortar Shell</a> by Proxyer</h5>
+
+<p>Description:<br />
+This Mod will reduce the manufacturing cost of various mortar shell to 60%. And add a menu that making four various mortar shells collectively in the shell production recipe. To create four various mortar shells, the colonists need more than 4 Crafting skills. <br />
+Add Antigrain Warhead that can not be created in vanilla to the creation menu in machining table.<br />
+Antigrain Warhead production cost:<br />
+Steel x20<br />
+Component x2<br />
+AdvancedComponent x1<br />
+Need Skill: Crafting Lv12<br />
+Translation currently included:<br />
+English, German, Japanese, Korean, Simplified Chinese.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1558161673">RimBees</a> by Sarg</h5>
+
+<p>Breed bees to generate all kinds of resources!<br />
+<size=24>Features</size><br />
+- Beekeeping: find wild bees in all biomes, build beehouses to put them to work! A single beehouse won't do much, so prepare to build a few. Are you in an extreme biome? There are low-efficiency climatized beehouses available for you until you can get bees that modify allowed temperatures!<br />
+- Bee breeding: Mix two breeds of bees in a beehouse, and use a brood chamber to multiply them, and an hybridization chamber to get new species (more than 30)!<br />
+- Honey making: Centrifuge the combs produced by the bees to get honey and wax<br />
+- Cooking and building: honey can be used as an ingredient in cooking, and wax can be used as a building material<br />
+- Mead brewing: turn honey into mead to make your colonists happy (and drunk)<br />
+- Wax lighting: candles are a quaint and cheap way to light your base<br />
+- Resource gathering: many of the bees produce combs with more things than honey and wax. Will you find the Luciferium-producing bees?<br />
+- Research: discover new exciting bee combinations<br />
+- Pollination: plan your growing zones around your beehives and increase your crop production<br />
+<size=24>Issues</size><br />
+This mod is more complex than other mods I have worked on previously (Genetic Rim and Alpha Animals), so expect some weird issues from time to time. Please report them with an error log if possible.<br />
+Also, balance. Balance is always a work in progress!<br />
+The 2.0 update was HUGE, it may cause some glitches with old savegames, though I have tried to minimize them. If your save is beyond salvation, remember you can download a previous version of the mod from my GitHub<br />
+<size=24>Plans for the future</size><br />
+More bees!<br />
+<size=24>Credit</size><br />
+Building texture modified from Textures by Pixel Art World, http://yms.main.jp<br />
+Fancy Food Items by KanaX: https://forums.rpgmakerweb.com/index.php?threads/fancy-food-items.44398/<br />
+Honeyed Ice Pop by Game Developer Studio (Robert Brooks): https://opengameart.org/content/ice-pops<br />
+Wax floor textures from the Apini Mod: https://ludeon.com/forums/index.php?topic=31076.0<br />
+Thanks to TheSevenSins for helping on the 2.0 update<br />
+<size=24>Compatibility</size><br />
+Right now, the mod shouldn't give problems. In the future, I'll add patches to make new bee species that give modded materials<br />
+<size=24>Changelog</size><br />
+v2.04: Added mod options, including greenhouse bees, ignoring rain, night-time, etc. Adjusted bee insertion timeout to be three times previous (16/11/19)<br />
+v2.032: Added mushroom tree hives for the Mycotic Forest in Alpha Biomes (10/11/19)<br />
+v2.031: Fixed bug with mead fermenting barrels (4/11/19)<br />
+v2.03: Fixed bug with pollination were multiple plants were appearing. Increased temp range of wild beehives. Added metallic stuffing to beehouses and climatized beehouses (06/10/19)<br />
+v2.02: Fixed bug were advanced climatized beehouses were not working properly (30/09/19)<br />
+v2.01: Added properties to honeys so they transfer their special stats to meads and other food. Fixed adding chambers to beehouse blueprints. Added an option to automatically add a growing zone around beehouses (29/09/19)<br />
+v2.0: Updated everything. Beekeeping work type, queueing of bee jobs, externalization of most code on XML files, "extract from any comb" recipe, added 8 new bees, new combs, new honeys, new waxes. Seriously, check the changelog on GitHub because I almost rewrote the entire mod (26/09/19)<br />
+v1.02: Bugfixes (06/03/19)<br />
+v1.01: Bugfixes. Added rotatable workbenches (12/11/18)<br />
+v1.0: Release version (06/11/18)</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1557737647">Advanced Transport Pods</a> by crewd</h5>
+
+<p>ATP v1.2 for RimWorld 1.0<br />
+Adds new versions (50/275/400/525 kg) of the original transport pod to the game, including new research options for unlocking the larger ones.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1554012670">Regeneration Bay</a> by Yume</h5>
+
+<p>Build a specialized cryptosleep casket with gradual healing properties - including the ability to regrow destroyed body parts. Each healing operation takes around 6 in game days (8 for destroyed body parts); you will be notified by message when treatment has been finished. Ejecting the patient early will reset treatment progress.<br />
+HUGSLIB must be loaded before this mod.<br />
+To use:<br />
+- Research hospital beds and cryptosleep caskets<br />
+- Construct the "regeneration bay" (found in the "misc" category)<br />
+--- Note: Advanced components and glitterworld medicine are required for construction<br />
+- Select a colonist, right click on the bay, and click "enter regeneration bay"<br />
+Downed colonists can be rescued into a regeneration bay.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1879253940">Anti Infestation Machine</a> by jbox1</h5>
+
+<p>Protect your base with the anti infestation machine! By secreting chemicals into the air, insects will become unable to start infestations. It will need to be periodically refueled with chemfuel of course, and needs power to function. Enjoy peace of mind knowing that your infestation disasters are a thing of the past - until the chemfuel runs out or your power dies that is.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1558034969">SF More Steel from Slag</a> by SheiFoxy and Rainbeau Flambe</h5>
+
+<p>More steel from slag</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1323773476">Meals On Wheels</a> by Uuugggg</h5>
+
+<p>Colonists grab meals from animals or each other, if needed.<br />
+Check Steam page for any updated info.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1561769193">Common Sense</a> by avilmask</h5>
+
+<p>Allows your colonists to do things smarter. Check mod settings for more information.<br />
+Powerd by Harmony (included into mod).<br />
+Chenese simplified by chrisxlite.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1816385581">Simple Food Selection</a> by AndHobbes</h5>
+
+<p>Replaces the vanilla food searching algorithm with a better one.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1526335374">Simple Temps [1.0]</a> by Mulixman33</h5>
+
+<p>Ever built small shacks or rooms that needed cooling but dont want to waste resources on large coolers? If so, you got this.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1185281838">VGP Xtra Trees and Flowers</a> by dismarzero</h5>
+
+<p>Xtra Trees and Flowers  (Does not require Vegetable Garden)<br />
+Adds EVEN MORE flowers and trees! From the Xtra Plants mod from Igabod long ago! Art work from the great Spoonshortage.<br />
+Adds New Flowers:<br />
+-allium giganteum<br />
+-anthurium<br />
+-NymphHair<br />
+-PinkRimstalk<br />
+-Plumeria<br />
+-Sunflower<br />
+Adds new Trees:<br />
+-japanese maple<br />
+-cherry blossom<br />
+-camellia<br />
+-acacia</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1192504741">VGP More Veggies</a> by dismarzero</h5>
+
+<p>More Veggies! (Does not require Vegetable Garden)<br />
+Adds even MORE vegetables into the game for those who just want some new plants, this is a perfect mod for you! <br />
+Adds :<br />
+-Squash<br />
+-Tomato<br />
+-Pumpkin<br />
+-Carrot<br />
+-Eggplant</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1658712035">Variable Population</a> by Esoudiere</h5>
+
+<p>A simple mod to change the default population curves with mod settings. Enjoy! :)</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1823958161">Adaptive Cassie Storyteller</a> by newcolonist</h5>
+
+<p>Adaptive Cassie will try to knock you down, with a slight dose of unpredictability, and a sense of pity.<br />
+She rebalances the threat scale based on the story relevance of your colonists (a hidden game stat), much less on wealth.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1845154007">Vanilla Furniture Expanded - Security</a> by Oskar Potocki, Trunken, XeoNovaDan</h5>
+
+<p>Vanilla Furniture Expanded - Security module is a result of hours upon hours of hard work. It has been a long time since we began working on this mod, and with a team of brilliant programmers, I am not honored to present to you a Vanilla Expanded approach to base defenses. Every word and every stat in this mod have been carefully prepared to be as balanced and as “vanilla” as possible. <br />
+This module introduces 27 new defense structures, all neatly filling up the Security tab in the Architect menu. With research technologies spread out across all stages of the game, this mod itself is enough to provide you with hours of entertainment.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1880253632">Vanilla Furniture Expanded - Production</a> by Oskar Potocki, Trunken</h5>
+
+<p>Vanilla Furniture Expanded - Production module, is an ideal mod to fill that late game hole in production. Once you set up your vanilla workstations with tool cabinets scattered everywhere, you essentially got as far as you possibly can. This carefully designed, vanilla-fitting mod adds a new layer to workstation layout, hopefully allowing players to create manufacturing-designated rooms instead of one massive room with all the workbenches.<br />
+Linkables:<br />
+- Kitchen Sink Cabinet<br />
+- Tailor Cabinet<br />
+- Smithy Cabinet<br />
+- Machining Cabinet<br />
+- Drug Cabinet<br />
+- Fabrication Cabinet<br />
+Workbenches:<br />
+- Component Bench <br />
+- Fueled Smelter<br />
+- Electric Butcher<br />
+- Electric Drug Lab<br />
+- Electric Stonecutter<br />
+Manufacturing:<br />
+- Large Machining Table<br />
+- Large Electric Smithy<br />
+- Large Stove<br />
+- Large Tailoring Table</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1718191613">Vanilla Furniture Expanded - Medical Module</a> by OskarPotocki, Atlas</h5>
+
+<p>Vanilla Furniture Expanded - Medical module adds several new pieces of furniture to allow players for higher variety of medical beds and linkables. Sterile walls have also been added with color-coded line markings, allowing users to color-code the rooms.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1718190143">Vanilla Furniture Expanded</a> by OskarPotocki, Atlas</h5>
+
+<p>I have always found vanilla furniture to be lacking in depth and quantity. After researching Complex Furniture, the research tree for furniture pretty much ends, with a couple of odd technologies adding things like Vitals Monitors and Hospital Beds along the way. As part of the Vanilla Furniture Expanded mod, the team consisting of the Author of Android Tiers, Atlas, and me would like to add some sort of progression to the furniture of the rim, whilst also keeping it Vanilla friendly.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1814987817">Vanilla Apparel Expanded</a> by Oskar Potocki, Trunken</h5>
+
+<p>Vanilla Apparel Expanded is part of a series of mods expanding on everyday life on the Rimworld. When paired together with a brand new Vanilla Weapons Expanded and Vanilla Armours Expanded, you can bring something to your game that will keep you interested in it for days.<br />
+Apparel is distributed into several new technologies that need to be researched, expanding the life of the game and possibly leading to some interesting choices - research a way to get off this planet? Or maybe learn how to craft jeans and workwear?<br />
+This mod adds a wide selection of apparel with useful effects, including but not limited to:<br />
+Gas masks protecting from toxicity;<br />
+Jumpsuits and aprons for work speed boost;<br />
+Doctor scrubs and Chef’s uniforms.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1814988282">Vanilla Armour Expanded</a> by Oskar Potocki, Trunken</h5>
+
+<p>Vanilla Armour Expanded is part of a series of mods expanding on everyday life on the Rimworld. When paired together with a brand new Vanilla Weapons Expanded and Vanilla Apparel Expanded, you can bring something to your game that will keep you interested in it for days.<br />
+Armor is spread across several new technologies that need to be researched which in turn adds valuable game time before you achieve everything there is to achieve. New items cover all technological eras, from wooden armours of neolithic tribes, through chainmails and chestplates of medieval kingdoms, bulletproof vests and ghillie suits of the modern era combat all the way to two, brand new variants of a regular marine armor - one of them with an integrated ranged shield belt!</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1814383360">Vanilla Weapons Expanded</a> by Oskar Potocki, Trunken</h5>
+
+<p>Vanilla Weapons Expanded is part of a series of mods expanding on everyday life on the Rimworld. When paired together with a brand new Vanilla Apparel Expanded and Vanilla Armours Expanded, you can bring something to your game that will keep you interested in it for days.<br />
+Weapons are spread across the technology tree allowing for realistic and time-consuming progression, making the higher-tech weapons even more rewarding. Bear in mind, however, that all weapons are perfectly balanced in line with Vanilla weapons, which means that a Battle Rifle added by this mod might not necessarily be better than a standard assault rifle in some situations.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1836382920">Vanilla Furniture Expanded - Spacer Module</a> by OskarPotocki, Atlas</h5>
+
+<p>Vanilla Furniture Expanded - Spacer module adds several new pieces of furniture to allow players to witness better technological progress in regards to comfort and utility furniture. Repair shelves, Biolab sunlamps and reinforced walls will spice your colony up, whilst illuminated dressers and end tables as well as advanced beds will provide your pawns with highest possible comfort silver can buy.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1770268130">Grazing Lands</a> by avilmask</h5>
+
+<p>Animals don't destroy grass and eat according to their size.<br />
+Powerd by Harmony (included into mod).</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1697297227">Big Advanced Passive Cooler</a> by FLASHPOINT55</h5>
+
+<p>This Cooler will make your tribal life more comfortable.<br />
+Leave this on a rainy day outside. this cooler could refueled by rainwater, not only wood!</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1803445973">Vanilla Fences</a> by Nif</h5>
+
+<p>A fence mod that provides 8 types of fences that blends nicely with the vanilla aesthetic. All of which can be used as defense cover and can be easily modified with the mod settings, along with other options.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1857597307">[WD] Reinforced Doors 1.0</a> by Wemd</h5>
+
+<p>A small content mod which adds stronger versions of Vanilla doors and autodoors.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1790155285">Simple Turrets</a> by Neceros</h5>
+
+<p>Adds 8 unique turrets (and 2 manned emplacements) all meticulously designed for vanilla Rimworld, each with a specific role in mind. Three additional research projects are provided for the turrets. All eight turrets are reinstallable, while the emplacements are not.<br />
+Add it to an existing save. It will work just fine. Won't conflict with any other mods.<br />
+[h1]Turret Extension patch[/h1]<br />
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1798616048]Click here to get the Patch for XND Turret Extensions[/url]<br />
+[h1]Want to burrow your turrets?[/h1]<br />
+Add the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1827776743]Ground Turret Mod[/url] before Simple Turrets and you can burrow turrets, to force them to use lower power, and force enemies to ignore it!<br />
+[b]Here are the vanilla turrets for comparison:[/b]<br />
+[b]Mini-Turret[/b]<br />
+Range: 25<br />
+Damage: 10 x3 shot burst<br />
+Explodes: 4 squares<br />
+Power Needed: 80<br />
+Materials Needed: 40 steel, 60 metal, 3 components<br />
+[b]Autocannon[/b]<br />
+Range: 33<br />
+Minimum Range: 9<br />
+Damage: 40 x3 shot burst<br />
+Explodes: 6 squares<br />
+Power Needed: 150<br />
+Materials Needed: 350 steel, 40 plasteel, 3 components<br />
+[b]Uranium Turret[/b]<br />
+Range: 50<br />
+Minimum Range: 12<br />
+Damage: 75<br />
+Explodes: 6 squares<br />
+Power Needed: 150<br />
+Materials Needed: 300 steel, 60 uranium, 30 plasteel, 6 components<br />
+[h1]Less Lethal Turrets[/h1]<br />
+[b]Stunning Turret[/b]<br />
+Base HP: 100<br />
+Range: 20<br />
+Damage: Stuns for a very short time, x2 shot bursts<br />
+Explodes: No<br />
+Power Needed: 65<br />
+Materials Needed: 50 steel, 50 metal, 2 components<br />
+[list][<em>]Since the stunning turret doesn't do any damage, it's best used in conjunction with other turrets, like the tazing turret. This turret is built to humane standards, and isn't as ugly as the others.[/list]<br />
+[b]Tazing Turret[/b]<br />
+Base HP: 100<br />
+Range: 20<br />
+Damage: Tazes, which does a little damage, but lots of pain<br />
+Explodes: No<br />
+Power Needed: 125<br />
+Materials Needed: 60 steel, 80 metal, 2 components<br />
+[list][</em>]Tazing does a little damage, but it's less-lethal and designed to drop targets instead of kill them. This turret is built to humane standards, and isn't as ugly as the others.[/list]<br />
+[h1]Advanced Turrets[/h1]<br />
+[b]Shredder Turret[/b]<br />
+Base HP: 110<br />
+Range: 20<br />
+Damage: 6 x7 shot bursts<br />
+Explodes: 2 squares<br />
+Power Needed: 120<br />
+Materials Needed: 50 steel, 160 metal, 4 components<br />
+[list][<em>]Short ranged shooter that throws a lot of rounds that do a little damage. Great for taking out lots of weak stuff. This turret isn't as ugly as the others, but is still unsightly.[/list]<br />
+[b]Sniper Turret[/b]<br />
+Base HP: 200<br />
+Range: 50<br />
+Damage: 45<br />
+Explodes: 4 squares<br />
+Power Needed: 200<br />
+Materials Needed: 60 steel, 140 metal, 4 components<br />
+[list][</em>]Deals a lot of damage, accurate at long ranges. Long reload time between shots.[/list]<br />
+[b]Standard Turret[/b]<br />
+Base HP: 340<br />
+Range: 30<br />
+Damage: 12 x6 shot bursts<br />
+Explodes: 4 squares<br />
+Power Needed: 250<br />
+Materials Needed: 50 steel, 150 metal, 4 components<br />
+[list][<em>]Consider this the upgraded mini-turret. It's got more hp, it fires an extra bullet or two, and does a tiny bit more damage. It's the big brother.[/list]<br />
+[b]Heavy Turret[/b]<br />
+Base HP: 220<br />
+Range: 35<br />
+Damage: 17, continuously fires<br />
+Explodes: 6 squares<br />
+Power Needed: 370<br />
+Materials Needed: 280 steel, 180 metal, 60 plasteel, 6 components, 1 advanced component<br />
+[list][</em>]The heavy turret continuously fires heavy rounds in a steady and unforgiving rhythm. Designed to take on heavy targets.[/list]<br />
+[b]Concussion Turret[/b]<br />
+Base HP: 110<br />
+Range: 40<br />
+Minimum Range: 5<br />
+Damage: 40 explosive - 3 range<br />
+Explodes: 6 squares<br />
+Power Needed: 325<br />
+Materials Needed: 300 steel, 180 metal, 7 components, 1 advanced component<br />
+[list][<em>]The bullets explode. It does a lot of damage. Very nasty.[/list]<br />
+[h1]Energy Turret[/h1]<br />
+[b]Energy Turret[/b]<br />
+Base HP: 150<br />
+Range: 30<br />
+Damage: 3 burning, continuously fires<br />
+Explodes: 6 squares<br />
+Power Needed: 800<br />
+Materials Needed: 155 steel, 40 plasteel, 80 metal, 4 components, 2 advanced components<br />
+[list][</em>]This turret shoots lasers! Did you need anything else?? Doesn't stop firing and the shots don't do a lot of damage, but they cause burning which makes pawns panic.[/list]<br />
+[h1]Manned Emplacements[/h1]<br />
+[b]Rifle Emplacement[/b]<br />
+Base HP: 250<br />
+Range: 37<br />
+Damage: 18<br />
+Materials Needed: 120 steel, 5 components<br />
+[list][<em>]Manned turret - uses pawn's skills for accuracy. This emplacement has a Bolt-action rifle on top[/list]<br />
+[b]Machine Gun Emplacement[/b]<br />
+Base HP: 250<br />
+Range: 26<br />
+Damage: 11 x 6 burst shots<br />
+Materials Needed: 100 steel, 40 metal, 6 components<br />
+[list][</em>]Manned turret - uses pawn's skills for accuracy. This emplacement has a large machine gun on top[/list]<br />
+[h1]Translation[/h1]<br />
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1819597324]Japanese - by SET_SET[/url]<br />
+[h1]Need more power for your turrets?[/h1]<br />
+Try these mods:<br />
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1321849735]Rimfeller[/url]<br />
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1409449372]Higher Power[/url]<br />
+[h1]Thanks[/h1]<br />
+Thanks to [PC]Survivalmaster for insight into a better way to taze! Check out [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1745038195]RimTasers Reloaded[/url]<br />
+[h1]More immersive mods by Neceros:[/h1]<br />
+[b][url=http://steamcommunity.com/sharedfiles/filedetails/?id=1267149586]99 Percent[/url][/b]<br />
+Gain most of your resources back when you deconstruct.<br />
+[b][url=http://steamcommunity.com/sharedfiles/filedetails/?id=1245219876]More Steel[/url][/b]<br />
+Compacted steel gives more steel when mined, and increases the amount of ore that spawns on the map.<br />
+[b][url=http://steamcommunity.com/sharedfiles/filedetails/?id=1254969827]Balanced Eclipse and Solar Flare[/url][/b]<br />
+Cools down how often the moon and sun can interact with the planet.<br />
+[b][url=http://steamcommunity.com/sharedfiles/filedetails/?id=1254970979]More Components[/url][/b]<br />
+Compacted machinery gives 10 components instead of just 2.<br />
+[b][url=http://steamcommunity.com/sharedfiles/filedetails/?id=1798787901]Tier 2 Temperature[/url][/b]<br />
+Adds a second tier of technology to help manage your colony's temperature control.<br />
+[b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1807439023]Faster Smoothing[/url][/b]<br />
+Greatly improves wall and floor smoothing speeds for everyone.<br />
+[b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1825653111]Wall Sun Lamp[/url][/b]<br />
+Adds two wall mounted lights, for plant growing and normal light.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1845531445">RePowerReborn</a> by Texel (updated to 1.0 by NubsPixel, continued by EbonJaeger)</h5>
+
+<p><color=orange><b>Important: </b> This mod requires HubsLib to be loaded before it in the load order.</color><br />
+Rebalance power consumption based on when an object is in use.<br />
+Generally speaking, power consumers will use substantially reduced power when not in use, and substantively more power when in use. Power consumption will accordingly vary wildly based on usage, rather than the vanilla behaviour of simply how many worktables or doors you have.<br />
+Effected Buildings:<br />
+Electric Tailoring Bench (10W Idle, 500W Active)<br />
+Electric Smithy (10W Idle, 1000W Active)<br />
+Machining Table (10W Idle, 1400W Active)<br />
+Electric Stove (10W Idle, 1000W Active)<br />
+Electric Smelter (400W Idle, 4500W Active)<br />
+Biofuel Refinery (10W Idle, 1800W Active)<br />
+Fabrication Bench (10W Idle, 1800W Active)<br />
+Electric Crematorium (200W Idle, 750W Active)<br />
+Multi-Analyzer (10W Idle, 600W Active) (Active when an associated research table is in use)<br />
+Vitals Monitor (10W Idle, 1000W Active) (Active when the associated medical bed is in use)<br />
+HiTech Research Bench (100W Idle, 1000W Active)<br />
+AutoDoor (5W Idle, 500W Active) (Active when open, but not blocked or held)<br />
+Televisions (10W Idle, 400W Active) (Active when being watched)<br />
+Deep Drill (10W Idle, 500W Active)<br />
+<color=orange>This is an unofficial update</color></p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1836248672">Fuse Plus</a> by Neceros</h5>
+
+<p>Adds a few extra tiers to the RT Fuse mod, by Rytar??</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1875168898">Dynamic Diplomacy</a> by NilchEi</h5>
+
+<p>This mod allows several NPC faction related events which are processed automatically without any player input.<br />
+- NPC faction can become hostile or neutral to another NPC faction (permanently hostile factions excluded).<br />
+- NPC settlements can be captured by another hostile NPC faction.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1573465547">[WD] Simple Concrete 1.0</a> by Wemd</h5>
+
+<p>Adds reinforced concrete as a new strong and durable "Stony" material.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1367364766">Fueled Nuclear Power Generators</a> by James 76543</h5>
+
+<p>This mod adds two advanced RTG (Radioisotope thermoelectric generator) power sources. They use Uranium as its fuel requirement and produces a steady amount of power at all times.<br />
+Since it is an RTG, it also produces heat. You'll need to keep the room it is in cool otherwise it may cause fires.<br />
+The largest version produces 25kW of power, and uses uranium most efficiently.  The smaller version produces 4500W of power.<br />
+Credit to ItchyFlea, siso, and sulusdacor for making the original mod.  I wanted to incorporate the fuel system in this so the uranium didn't last forever, so I did some rough calculations based on uranium energy density, how the game handles wood and chemfuel, and rebalanced them.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1558009426">Antimatter Power Boost</a> by Thundercraft</h5>
+
+<p>This changes the Ship Reactor to produce 16 kW of power, require a lot more resources to build, and increases the research cost from 6000 to 7000.<br />
+The Ship reactor is end-game and requires considerable research, yet it only generates 1 kW? That's not enough to power a microwave oven, let alone a starship. That's only thirteen 75-watt lamps worth of electricity... yet it runs on antimatter?! What's more, the Ship Reactor has a long startup process that will attract raiders.<br />
+Also, before recent updates, building a Ship Reactor required a huge investment in resources. It used to require resources worth 9025 Silver (market value). But it has been nerfed to a worth 5205 Silver.<br />
+In my book, to make building a starship faster and easier would make winning the game feel cheaper. I'd rather have it be more of a challenge. And what part of a starship should be more of a challenge than an antimatter reactor?<br />
+With this mod, building a Ship Reactor requires 300 Steel (down from 350), 500 Plasteel (up from 280), 170 Uranium (up from 70) and 12 Advanced Components (up from 8), for a total market value of 8490 Silver (up from 3861).<br />
+With the cost of a single Ship Reactor at 8490 Silver, one could build more than 9.4 Geothermal generators, producing over 34 kW of power. With those facts in mind, I think having the Ship reactor generate 16 kW is more than fair.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1589124288">Effective Lumbering</a> by Vectorial1024</h5>
+
+<p>A very simple patch-mod that reduces the time required to sow trees. Work required to sow trees is now 2000.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1761270139">Underground Food</a> by RelaxedOtter</h5>
+
+<p>Various types of xenofungus that grow without needing any light (and will die when exposed to light). They are less efficient than outdoor varieties.<br />
+* Vanetike - vegetable<br />
+* Melrotus - Meat substitute. It bleeds.<br />
+* Helatrophica - a long-lived ugly light-producing plant, can only be planted in pots<br />
+* Cococazine - can be processed into chocolate<br />
+* Laeti - produces fibers that can be processed into Cloth or Synthread<br />
+* Scarik Orb - produces small amounts of milk<br />
+* Neutrophyria - can be processed into neutroamine<br />
+* Colossal Sanozite - a very large mushroom which can be processed into herbal medicine<br />
+* Xylem Tuber - produces a small amount of wood<br />
+* Frigia - produces crystals that can be used to cool down a room (but not to freezing)<br />
+* Pyrazite - produces crystals that can be burned to heat up a room (not as efficient as a campfire, but doesn't produce as much light)<br />
+There is a new drug recipe: Alcavorax. This blocks gut worms, muscle parasites, fibrous mechanites and sensory mechanites (works like penoxycyline so only blocks new infections). It lasts for 8 days, but has the drawback of giving a negative mood effect while active.<br />
+You can now place down low-fertility Fungal Soil on stone ground, allowing you to expand underground farms. This is under the Misc tab.<br />
+Everyone can plant Vanetike by default. Tribals start out with the Basic Xenofungus research already known, giving them access to Melrotus, Helatrophica and Xylem Tuber.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1525404710">Coal</a> by Agracore</h5>
+
+<p>Version: 3.0<br />
+The Updated version of the Coal mod, now with surface coal ore, deep coal ore, coal crematoriums, coal grills and more.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1874344070">Coal Expanded</a> by Neceros</h5>
+
+<p>Makes Coal more reliable for tribal and medieval play. Fixed some bugs, added some features! Load this below (after) Coal.<br />
+[h1]Changes[/h1]<br />
+[list]<br />
+[<em>]You get 2 charcoal per wood log (Rimworld counts charcoal and wood as the same as far as fuel goes, so this makes up for that)<br />
+[</em>]You can make charcoal in a campfire (so tribals can make it)<br />
+[<em>]Torches and vanilla fueled benches can be fueled by charcoal and coal, as well as wood<br />
+[</em>]Fixes the Coal Grill to work once more (a stove you can use outside)<br />
+[<em>]Adds a Coal Lamp, to shed light burning coal and charcoal. Last longer than a torch<br />
+[</em>]Adds an Active Cooler, which requires coal or charcoal to cool a room. Works better than a passive cooler<br />
+[/list]<br />
+[h1]Compatibility[/h1]<br />
+[list]<br />
+[*][b]Vanilla Furniture Expanded[/b]: Stone campfire can also make charcoal<br />
+[/list]</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=846222458">More Mechanoids</a> by Orion, JoeysLucky22, Erdelf</h5>
+
+<p>A new mechanical threat has risen! <br />
+Features:<br />
+- Crawler<br />
+- Skullywag<br />
+- Flamebot<br />
+- Mammoth<br />
+- Assaulter</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1266570759">Research Tree</a> by Fluffy</h5>
+
+<p>A better research tree.<br />
+<size=24>Features</size><br />
+automatically generated to maximize readability*. <br />
+shows research projects, buildings, plants and recipes unlocked by each research project.<br />
+projects can be queued, and colonists will automatically start the next project when the current research project completes.<br />
+search functionality to quickly find research projects.<br />
+<size=24>FAQ</size><br />
+<i>Can I add/remove this from an existing save?</i><br />
+You can add it to existing saves without problems. Removing this mod will lead to some errors when loading, but these should not affect gameplay - and will go away after saving.<br />
+<i>Why is research X in position Y?</i><br />
+Honestly, I have no idea. The placement of projects (nodes) is automated to minimize the number of crossings between dependancies (edges), and reduce the total length of these edges. There are many possible scenarios in which this can lead to placements that may appear non-optimal. Sometimes they really are non-optimal, sometimes they just appear to be so. See also the <i>technical</i> section below for more information.<br />
+<i>Can I use this with mod X</i><br />
+Most likely, yes. Added researches and their requirements are automatically parsed and the tree layout will be updated accordingly. ResearchPal implements a lot of the same functionality as this mod, and the research queue will likely not work correctly if both mods are loaded.<br />
+<i>This looks very similar to ResearchPal</i><br />
+Yep. ResearchPal is based on a legacy version of this mod that was kept up-to-date by SkyArkAngel in the HCSK modpack. I haven’t worked on this mod in a long time, but I recently had some spare time and decided to give it another go. Feel free to use whichever you like better (ResearchPal has an entirely different layout algorithm). You can run both mods side by side to check out the different tree layouts, but be aware that the research queue will not work correctly if both mods are loaded.<br />
+<size=24>Known Issues</size><br />
+The vertical labels for tech levels are drawn in the wrong location when UI scale is not 1. This is a known problem for me, the same issue appears in my Work Tab mod. As soon as I have a working solution, I’ll go and fix it.<br />
+Layouts are not perfect, if you have experience with graph layouts - please do feel free to look at the source code, and/or implement a Sugiyama layout algorithm for me that runs in C# .NET 3.5 (Mono 2.0).<br />
+<size=24>Technical</size><br />
+So how does this all work?<br />
+Creating an optimal layout is a known problem in the area of <i>Graph Theory</i>. There’s serious mathematicians who’ve spent years of their live trying to figure out this problem, and numerous solutions exist. The group of solutions most relevant to our research tree (a <i>directed acyclic graph</i>, or <i>DAG</i>) is that derived from Sugiyama’s work. Generally speaking, these algorithms have four steps;<br />
+layering (set the <i>x</i> coordinates of nodes, enforcing that follow-up research is always at a higher x position than any of its prerequisites, this is a fairly straightforward heuristic)<br />
+crossing reduction (set the <i>y</i> coordinates of nodes such that there is a minimal amount of intersections of connections between nodes)<br />
+edge length reduction (set the <i>y</i> coordinates of nodes such that the length of connections between nodes is minimal)<br />
+horizontal alignment (set the <i>y</i> coordinates of nodes such that the connections between nodes are straight as much as possible)<br />
+The final step is the hardest, but also the most important to create a visually pleasing tree. Sadly, I’ve been unable to implement two of the most well known algorithms for this purpose; <br />
+Brandes, U., &amp; Köpf, B. (2001, September). Fast and simple horizontal coordinate assignment.<br />
+Eiglsperger M., Siebenhaller M., Kaufmann M. (2005) An Efficient Implementation of Sugiyama’s Algorithm for Layered Graph Drawing.<br />
+Luckily, the crossing reduction and edge length reduction steps partially achieve the goals of the final step. The final graph is not as pretty as it could be, but it’s still pretty good - in most scenarios. <br />
+<size=24>Contributors</size><br />
+Templarr:    Russian translation<br />
+Temp:    <br />
+Suh. Junmin:    Korean translation<br />
+rw-chaos:    German translation<br />
+53N4:    Spanish translation<br />
+<size=24>Version</size><br />
+This is version 3.4.494, for RimWorld 1.0.2150.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1228227243">ActiveResponseTraining</a> by James76543</h5>
+
+<p>Version: 1.0<br />
+Combat threats are the biggest risk to your colony's survival! Shooting and Melee proficiency is no joking matter, and now you have a place to hone your shooting and melee skills to be prepared when the next raider, mechanoid, or ravaging horde of bloodthirsty squirrels comes looking for trouble.<br />
+This mod adds a modular shooting range and melee dummy to train combat skills. They utilise the bill system and give experience (skill gain) comparable but higher than manually training combat and other typical activities like smithing or sculpting.<br />
+Only colonists set as hunters will train at these new buildings.  The center of the shooting range must be accessible in order to train as well, so make sure the shooting range is in the zone for the pawns you want, otherwise they won't train and you won't be able to force training.  (If you know how to change that, let me know!  The interactionCellOffset doesn't fix it.)<br />
+This update is carefully balanced so that it takes a reasonable amount of time to gain skill and maintain that skill. A colonist at max skill should expect to spend about 2-3 hours a day training to maintain that max skill. This is comparable but higher than other skills. The bill system can be used wisely to keep your shooters sharp. <br />
+Set a bill to train forever and limit only those with skill 19 to use it. When their skills degrade to 19, they will go to train until they're above 20 again. If the bills are set right, they should spend their time wisely without any manual intervention and be ready when you need them.<br />
+Training is free for melee, and once CombatExtended is updated I will try to add a path to add a bullet cost, but for now shooting requires only time as well (after all you can just draft a colonist and shoot a wall).<br />
+This mod was created by ItchyFlea, but it hasn't been updated in a while. I made updates to it and have been using it myself for the last few versions, so I thought I would upload it because I haven't seen any comparable mods and defense is such an important part of the game. I took the most recent update and added a few features that I felt it needed:<br />
+1) Training for battle is serious, so no more joy from training. Previously I had people not capable of combat come and shoot a gun just for joy.<br />
+2) Dummy is uninstallable (minifiable).<br />
+3) More options for construction, and changed the textures slightly to pick up the 'stuff' colors.<br />
+4) Dummy can be made of any leather + hay, this picks up leathers from other mods.<br />
+5) Shooting range can be made of any woody, stony, or metallic stuff. This picks up materials from other mods too.<br />
+Lastly, this mod is super easy to customize if anyone wants to increase the skill gain rate. Navigate to the mod folder, and go to \Defs\RecipeDefs\AR-Recipe.xml and edit the file with NotePad++ (or equivalent editor). The workSkillLearnFactor and workAmount is what you want to change. The skill points gained per job = workAmount * .11 * workSkillLearnFactor. So the default number should be about 1144 skill points per job, which is about 1144 skill points per hour. If you want to decrease the time to complete a training job, decrease workAmount and you'll see a proportional decrease in the time. 2000 is about an hour, 1000 is about half an hour. My intention is to possibly add this as a scale bar in the mod options menu.<br />
+If anyone wants to contribute new art, please feel free to pm me. Art isn't my strong point!</p>
+
+<h1>Credits:</h1>
+
+<p>ItchyFlea:  Mod Creator<br />
+Shinzy: Texture Artist<br />
+James76543: Updater</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1841553735">Large Faction Bases</a> by newcolonist</h5>
+
+<p>Generate larger faction bases. Their size and manpower evolve with time. It also factors in the difficulty level, and some randomness.<br />
+Save game compatible.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1649368867">Electric Stonecutting Table</a> by Cocaine™ (Original: Thyme)</h5>
+
+<p>An electrically powered version of the stonecutting table that works at 175% of normal vanilla speed.<br />
+Power shortages will knock your stonecutting speed down below the unpowered bench.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1897234864">Medicine Expanded - Paracetamol</a> by StillUnnamed</h5>
+
+<p>The first part of my series of mods designed to enhance the experience of controlling and mitigating mental and physical disorders in Rimworld. This mod introduces Paracetamol, more commonly Aceitomenophen, as a non-addictive mild painkiller.<br />
+Mod version 0.1.3<br />
+Updated 10/24/2019</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1408863965">Labels on Floor</a> by Falconne</h5>
+
+<p>Draws the names of rooms, stockpiles and growing zones as labels on the floor, like Prison Architect does.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1904336011">Expectations Modifier</a> by Citrus</h5>
+
+<p>Replace Default Expectation Levels with Player Defined Ones using the Mod Menu.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1531640632">[1.0] Drugs are not Food</a> by czpetr</h5>
+
+<p>Changes some drugs so they are no longer considered to be food, your animals won't eat them anymore.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1613783924">Roads of the Rim</a> by Loconeko</h5>
+
+<p>This is still BETA - use at your own risk<br />
+Caravans can now create road construction sites to build roads between two neighbouring tiles on the world map. By using the "Work" action, caravans provide work and resources to the site until completion.<br />
+Building costs are based on the type of road to be built &amp; the terrain of both tiles. Roads cost wood, stones, steel &amp; chemfuel. If deemed too high, base costs can be reduced in the settings (but that's definitely OP).<br />
+Roads of the Rim changes the movement multipliers for existing roads as indicated in the "Terrain" tab under Movement difficulty. This can be switched off in the settings as well.<br />
+Feedback welcome on Steam and in the Forum thread : https://ludeon.com/forums/index.php?topic=47205.0<br />
+Changelog<br />
+2019-01-05 : Added conditional patching of Caravan comp for other mod compatibility (thanks Mehni for the tip)</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1464742390">CustomDeathRandomness</a> by Torann</h5>
+
+<p>Version 1.1.3<br />
+In vanilla RimWorld, human-like pawns that are not part of your colony have a chance to instantly die when downed. Animals have a 50% chance to die when downed.<br />
+This chance changes depending on the storyteller, current colony population, and difficulty.<br />
+This mod gives you options to tailor the death-on-down chance to your preference.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1833163132">[1.0] Ceramics</a> by N7Huntsman</h5>
+
+<p>Adds a variety of ceramics and other materials from across various tech level to the game.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1798787901">Tier 2 Temperature</a> by Neceros</h5>
+
+<p>Adds a second tier of technology yo help manage your colony's temperature.<br />
+[h1]More immersive mods by Neceros:[/h1]<br />
+[b][url=http://steamcommunity.com/sharedfiles/filedetails/?id=1267149586]99 Percent[/url][/b]<br />
+Gain most of your resources back when you deconstruct.<br />
+[b][url=http://steamcommunity.com/sharedfiles/filedetails/?id=1245219876]More Steel[/url][/b]<br />
+Compacted steel gives more steel when mined, and increases the amount of ore that spawns on the map.<br />
+[b][url=http://steamcommunity.com/sharedfiles/filedetails/?id=1254969827]Balanced Eclipse and Solar Flare[/url][/b]<br />
+Cools down how often the moon and sun can interact with the planet.<br />
+[b][url=http://steamcommunity.com/sharedfiles/filedetails/?id=1254970979]More Components[/url][/b]<br />
+Compacted machinery gives 10 components instead of just 2.<br />
+[b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1790155285]Simple Turrets[/url][/b]<br />
+Adds a few vanilla-like turrets. Immersive and made to Rimworld standards.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1907738055">Smoked meat : Coal patch</a> by slapMyMarsupial</h5>
+
+<p>Adds compatibility between Agracore's Coal and dismarzero's Smoked meat in that coal and charcoal can be used as refualable type for SmokeHouse and Smokepit. </p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1855069167">Metals Trader</a> by Big Veech</h5>
+
+<p>Adds Orbital Metals Trader to aid with late game steel problems. Thumbnail by Max McLaughlin. Copy editing by Austin Tindle</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1906760965">Carry Capacity Fix</a> by Doug</h5>
+
+<p>The behavior of carry capacity for pawns is 35 kg multiplied by a body type multiplier. This doesn't accurately reflect their "Carrying capacity" stat listed in their basic info.<br />
+This mod aims to fix that. The carry capacity now accurately affects how much the pawn can haul (best used with the PickUpAndHaul mod). It also affects the carry capacity that they contribute to a caravan.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1541721856">Alpha Animals</a> by Sarg, AFriend, milon, Skullywag and kaptain_kavern</h5>
+
+<p>Adds multiple unique new animals to Rimworld.<br />
+<size=24>Features</size><br />
+Adds 64 new, vanilla-friendly creatures to the diverse biomes of your Rimworlds. The philosophy of this mod is that every new creatures tries to bring some new mechanic into the game, whether it be walking tanks, living resource farm, indestructible plant monsters, night time stalkers, or plain speedy giant spiders. Some of the mechanics are simple, others much more complex.<br />
+These animals will spawn in certain biomes, some others will only be available via traders. You'll have to explore to find them all! The Alpha Biomes is a companion mod that adds several new alien biomes to house these weird creatures.<br />
+Bear in mind that spawn probabilities have been calculated with no other animal mods installed. If you have, for example, Animal Collab Project, less animals from this mod will appear, obviously.<br />
+The mod will also add new insects in a new faction, the Black Hive. Raids from that faction can be disabled via Mod Options.<br />
+<size=24>Issues</size><br />
+There shouldn't be any. Balance is obviously always a concern, although it has been playtested. Feel free to tell me if you think something is too wacky.<br />
+<size=24>Plans for the future</size><br />
+Obviously, more animals!<br />
+<size=24>Compatibility</size><br />
+Compatible with A Dog Said...<br />
+Compatible with the implants from Genetic Rim<br />
+Compatible with cloth production in Vegetable Garden Project (VGP)<br />
+Compatible with Alpha Biomes (duh)<br />
+Compatible with Nature's Pretty Sweet<br />
+Compatible with Advanced Biomes<br />
+Compatible with Rainbeau Realistic Planets<br />
+Compatible with Lords of the Rims - Elves (mallorn biome)<br />
+Uses Harmony (no need to download)<br />
+Uses ModCheck (no need to download)<br />
+<size=24>Credit</size><br />
+Original creature graphics: A<em>Friend, aka SentientLine<br />
+Original implementation and programming: milon, Skullywag and kaptain</em>kavern <br />
+Some sounds by Mike Koenig at http://soundbible.com<br />
+Some sounds by PsychoBird at http://soundbible.com<br />
+Some sounds by Stephan Schutze at http://soundbible.com<br />
+Fireball Graphic created by StarsteelGaming at OpenGameArt.org (2018)<br />
+Using the AnimalVariation DLL from AnimalCollabProject<br />
+Using NocturnalAnimals DLL by XeoNovaDan<br />
+<size=24>Changelog</size><br />
+v1.807: Added options toggle for latest animals, and an option to remove all animal particles (gasses) to reduce lag (08/11/19)<br />
+v1.806: Minor bugfixing (22/10/19)<br />
+v1.8: Added 6 new animals. Added Meadow Ave sounds. Added floating behaviour. Added crepuscular behaviour (18/10/19)<br />
+v1.701: Typo fixing. (17/09/19)<br />
+v1.7: Added 4 new animals for the new Alpha Biomes biome. (16/09/19)<br />
+v1.6: Added 2 new animals for the new Alpha Biomes biome. Changed nocturnal animal code (thanks XND!). Some bugfixing. (09/09/19)<br />
+v1.5: Added 7 new animals to populate the newly released Alpha Biomes mod. (21/08/19)<br />
+v1.402: Hopefully last change to mod options. Changed Sky Eel min temp (14/06/19)<br />
+v1.401: Fixed mod options. Updated Modcheck to make it compatible with new RW version (31/05/19)<br />
+v1.4: Added mod settings to select which animals should or shouldn't appear on the map as wild spawns (18/05/19)<br />
+v1.301: Bugfixing and balance tweaks. Full changelog on GitHub (16/05/19)<br />
+v1.3: Added five new animals. Bugfixing and balance tweaks. Full changelog on GitHub (16/04/19)<br />
+v1.2: Added four new animals. Added compatibility with Advanced Biomes Mod (06/04/19)<br />
+v1.1: Added visual Giddy-Up! saddles to mosty rideable creatures. The Meadow Ave is not being rendered correctly so it will need a later update (02/04/19)<br />
+v1.096: Bugfixing and balance tweaks. Full changelog on GitHub (06/03/19)<br />
+v1.094: Small bugfix to re-balance Meadow Aves (05/02/19)<br />
+v1.093: Bugfixing and balance tweaks. Full changelog on GitHub (31/01/19)<br />
+v1.09: Four new animals added! Bugfixing and balance tweaks. Full changelog on GitHub (01/12/18)<br />
+v1.08: Bugfixing and balance tweaks. Full changelog on GitHub (12/11/18)<br />
+v1.07: Two new animals added! Bugfixing and balance tweaks. Full changelog on GitHub (04/11/18)<br />
+v1.06: Bugfixing and balance tweaks. Full changelog on GitHub (31/10/18)<br />
+v1.05: Bugfixing and balance tweaks. Full changelog on GitHub (29/10/18)<br />
+v1.04: Bugfixing and balance tweaks. Full changelog on GitHub (24/10/18)<br />
+v1.03: Five new animals added! Bugfixing and balance tweaks. Full changelog on GitHub (23/10/18)<br />
+v1.02: Bugfixing and balance tweaks. Full changelog on GitHub (22/10/18)<br />
+v1.0: Rimworld 1.0 version (17/10/18)<br />
+v0.1: Prerelease</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1572158508">Hairy Coos</a> by Dnicho</h5>
+
+<p>Adds hairy coos to Rimworld</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1541525119">Miraffe (1.0)</a> by SickBoyWi</h5>
+
+<p>A very tall, long-necked animal. Prefers arid environments, and foliage for feed.<br />
+Features:<br />
+A wild animal intended to add some additional flavor to the game. Really, it is a giraffe; I just named it miraffe as a tip of the cap to the muffalo.<br />
+Throw me a bone if you like this content: https://www.patreon.com/SickBoyWI</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=949283405">AnimalCollabProj</a> by Ekksu / Xen / Cucumpear / Thirite / Whizzard / Lindseyrie / Walking Problem</h5>
+
+<p>Adds over fifty animals into the game for every biome and environment! From Ice Sheets to Extreme Deserts, bring your game to life with some more critters!<br />
+You can find us on Ludeon Forums and Steam with more information and fun extras!<br />
+Special thanks to Lex124 for contributing textures!<br />
+v1.1s</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1545044618">AlbinoFluffies</a> by Rihlsul</h5>
+
+<p>This mod makes big fluffy white rabbits (hares). This mutant Hare is easily spotted since it is huge and white, possible arising from some strange things involving a rabbit, rum, and a Megasloth. The extra fluff makes them sturdy in the cold and the duller under-fluff can be sheared.  They're strangely bright and can be trained.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1566635741">Rimbirds</a> by HawkC120</h5>
+
+<p>V1.0<br />
+Ever felt that Rimworld lacked some birds, like the popular Conure or the majestic Hawk? Well this mod adds them, and overtime will add more!!</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1055485938">Megafauna</a> by Spino</h5>
+
+<h2>Version: 1.4.1</h2>
+
+<p><size=20>Description</size><br />
+Thanks to the wonders of today's technology, the small group of scientists that was previously known for bringing the Megatherium-<br />
+Uh, I mean, the Megasloth back to life, was able to make the Megafauna Project a reality! <br />
+This time around, they were able to recreate 38 different species of animals that used to inhabit planet Earth thousands to millions years ago. <br />
+...Was that a wise move? Who cares! Now we all can feast our eyes on those glorious beasts as they will slowly inevitably turn all the ecosystems we know upside-down!<br />
+<size=20>Features</size><br />
+38 new species of animals, all able to spawn naturally in different biomes:<br />
+- Arthropleura,<br />
+- Doedicurus,<br />
+- Daeodon,<br />
+- Gigantopithecus,<br />
+- Paraceratherium,<br />
+- Titanis,<br />
+- Titanoboa,<br />
+- Woolly Mammoth,<br />
+- Elasmotherium,<br />
+- Smilodon,<br />
+- Chalicotherium,<br />
+- Megaloceros,<br />
+- Procoptodon,<br />
+- Megalania,<br />
+- Gomphotaria,<br />
+- Diprotodon,<br />
+- Short-faced Bear,<br />
+- Dinocrocuta,<br />
+- Sivatherium,<br />
+- Andrewsarchus,<br />
+- Dinornis,<br />
+- Macrauchenia,<br />
+- Quinkana,<br />
+- Deinotherium,<br />
+- Aurochs,<br />
+- Megalochelys,<br />
+- Palaeeudyptes,<br />
+- Josephoartigasia,<br />
+- Gigantophis,<br />
+- Meganeura,<br />
+- Zygolophodon,<br />
+- Platybelodon,<br />
+- Purussaurus,<br />
+- Uintatherium,<br />
+- Pulmonoscorpius,<br />
+- Dinopithecus,<br />
+- Castoroides,<br />
+- Enhydriodon.<br />
+These animals are quite rare, and should be a good challenge to either tame or slay. <br />
+A lot of them can also be used as pack animals for a caravan (with paraceratherium being your new best caravan buddy!).<br />
+Wooly mammoth, elasmotherium, and josephoartigasia are shearable, and arthropleura, titanis, titanoboa, megalania, dinornis, quinkana, megalochelys, palaeeudyptes, gigantophis, meganeura, and purussaurus do lay eggs. Sivatherium, macrauchenia, aurochs cows, and uintatherium are milkable - sivatherium's milk is very nutritious and quite valuable!<br />
+Megafauna will automatically detect and patch both A Dog Said... by SpoonShortage and Giddy-up! by Roolo, so make sure to make it load after those mods.<br />
+<size=20>Languages</size><br />
+English, Polish,<br />
+<size=20>Credits</size><br />
+Roolo - for great help with making Megafauna compatible with his Giddy-up mod.<br />
+Nightinggale - for his immensely useful ModCheck.<br />
+<size=20>Changelog</size><br />
+03.11.2018 - Update #6:<br />
+- changed the name of the "ScorpionLike" body type to fix compatibility issues with AnimalCollabProject,<br />
+- changed the intelligence level of smilodon and dinocrocuta to advanced, to match the change made to vanilla's cougar and panther,<br />
+- changed the intelligence level of pulmonoscorpius to advanced.<br />
+01.11.2018 - Update #5:<br />
+- updated to be compatible with Rimworld 1.0,<br />
+- all animals now have unique dessicated sprites,<br />
+- a lot of small changes intended to help with the balance, like lower hunger rates for predators or sizes of groups some of the animals can spawn in,<br />
+- added 15 (!) more animals.<br />
+06.04.2018 - Update #4:<br />
+- there is a simple official megafauna wiki now: http://megafaunarimworld.wikia.com!<br />
+- actually made all the animals less rare - turns out that the last time I made the spawn chances about 5-8 times lower than I intended, oops,<br />
+- minor changes to some of the animals' stats,<br />
+- woolly mammoth's name is no longer misspelled.<br />
+20.12.2017 - Update #3:<br />
+- updated to be compatible with Rimworld Beta 18,<br />
+- no longer requires an additional patch to be compatible with A Dog Said..., it will now automatically detect it and patch all the necessary stuff in,<br />
+- also comes with a built-in patch for Giddy-up!,<br />
+- daeodon, titanis, titanoboa, smilodon, procoptodon, gomphotaria, short-faced bear, and dinocrocuta are no longer pack animals (can't be used to carry stuff in caravans),<br />
+- very minor tweaks to a few animals in regards to their body size and meat/leather yield,<br />
+- some of the animals can now spawn in the new swamp-type biomes (titanoboa's no longer exclusive to the tropical rainforest!),<br />
+- some of the older animals such as arthropleura and doedicurus now have their own body types instead of using unfitting vanilla ones,<br />
+- some of the older animals won't be sold by traders anymore, in order to make obtaining them feel more special, those being: paraceratherium, titanoboa, elasmotherium, megalania, gomphotaria, and short-faced bear.<br />
+- added 4 more animals.<br />
+22.08.2017 - Update #2:<br />
+- fixed problems with breeding arthropleura (hopefully...?),<br />
+- reduced meat/leather yield of almost all the animals,<br />
+- finally added the max body sizes of prey the predators will hunt,<br />
+- slight changes as to what biomes the animals can spawn in,<br />
+- changed entelodont's name to daeodon as it is more specific and therefore more fitting.<br />
+- added 5 more animals.<br />
+01.08.2017 - Update #1:<br />
+- dropped support for A Dog Said... Easy Patcher (now requires a separate compatibility patch for A Dog Said..., which adds the feature of healing old wounds on animals)<br />
+- reduced spawn rates of the creatures,<br />
+- reduced meat/leather yield of paraceratherium/titanoboa,<br />
+- slightly reduced size of giganthopithecus/titanoboa,<br />
+- fixed problems with selling items to traders,<br />
+- fixed some herbivores not being able to eat live plants,<br />
+- removed unfertilized eggs of arthropleura/titanis/titanoboa,<br />
+- increased size of baby animals,<br />
+- increased market value of the mammoth wool,<br />
+- all the leathers now have different stats as well as market value,<br />
+- added 6 more animals.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1556099860">Yorkshire Terrors</a> by kagypoo</h5>
+
+<p>All credit goes to the original author Serpy, all I did was bungle my way through updating the files to (hopefully) get it working properly for 1.0, hope everyone enjoys the big monster terriers.<br />
+Original mod:</p>
+
+<h1>https://steamcommunity.com/sharedfiles/filedetails/?id=1404316051</h1>
+
+<p>"A large behemoth of a dog derived from crossbreeding yorkshire terriers with wargs. They are loyal, strong, and have been known to protect their owners to the bitter end."<br />
+Yorkshire terrors are similar to wargs in many aspects, except they cannot handle the cold as much as their wargen ancestors can. They are predators and will hunt on their own if not given food directly, and have been seen hunting deer, ibex, boar and even smaller animals. Unlike wargs, they are not restricted to solely eating corpses and kibble (who even thought that was a good idea) and will eat meals, animal products like milk and eggs, and even nutrient paste!</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1700683323">Vanilla Animals Expanded — Livestock</a> by Oskar Potocki</h5>
+
+<p>V1.2.1<br />
+Vanilla Animals Expanded is a modular mod. It means it will come out in several modules allowing people to subscribe to only the animals they want in the game. The first part of this update is the Livestock variant. This mod adds 9 new creatures to perfectly fit vanilla game, with custom vanilla artwork, sounds and balancing. With this variant you are finally able to keep an army of ducks at your disposal, or ride bisons into battle due to base support for Giddy-up.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1849184079">Vanilla Animals Expanded — Extreme Desert</a> by Oskar Potocki</h5>
+
+<p>V1.0.0<br />
+Vanilla Animals Expanded is a modular mod. It means it will come out in several modules allowing people to subscribe to only the animals they want in the game. This part is the Extreme Desert biome expansion. It adds 4 new animals that will spawn in the Extreme Desert, but some of them also spawn in other biomes. They have vanilla artwork, sounds and balancing.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1823540489">Vanilla Animals Expanded — Cats and Dogs</a> by Oskar Potocki</h5>
+
+<p>Vanilla Animals Expanded is a modular mod. It means it will come out in several modules allowing people to subscribe to only the animals they want in the game. This part is the Cats and Dogs variant. This mod adds 21 new breeds of dogs and cats to perfectly fit vanilla game, with custom vanilla artwork, sounds and balancing. With this variant you are finally able to send your maine coons on the enemies, run a farm with an old german shepherd or run a dog show with all your sweet poodles.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1895364585">Vanilla Animals Expanded — Tundra</a> by Oskar Potocki, Sarg Bjornson</h5>
+
+<p>V1.0.0<br />
+Tundra biome always felt devoid of any actual unique animals. With this module, we have introduced Musk oxen and a moose - a beautiful symbol of Canada, which can be milked every couple of days just like an already existing in the game Elk. Porcupines are tiny rodents, similar in a lot of ways to Capybaras, with sharp quills used to repel predators. Beware of the Megawolverines though! They are genetically modified experiment out of control, by many described as just large balls of fur and claws. Taming one could be a challenge, but having one ready for combat is a huge advantage.<br />
+Vanilla Animals Expanded is a modular mod. It means it will come out in several modules allowing people to subscribe to only the animals they want in the game. This part is the Tundra biome expansion. It adds 4 new animals that will spawn in the Tundra, but some of them also spawn in other biomes. They have vanilla artwork, sounds and balancing.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1895364782">Vanilla Animals Expanded — Ice Sheet</a> by Oskar Potocki, Sarg Bjornson</h5>
+
+<p>V1.0.0<br />
+What this mod series was certainly lacking is some Ice Sheet animals. Adding them was quite difficult as the biome itself hardly supports any plant life - and whilst I can feel free to add animals, they need to be able to sustain themselves. Additionally, I needed to make sure that the Sea Ice biome gets enough treatment to be unique, whilst still being extremely difficult to play in. With this mod you are able to fend off the flocks of penguins and hunt walruses for their precious tusks! Not only that, as penguins will periodically dig for fish, so if you’re particularly unlucky, you can scavenge their leftovers!<br />
+Vanilla Animals Expanded is a modular mod. It means it will come out in several modules allowing people to subscribe to only the animals they want in the game. This part is the Ice Sheet biome expansion. It adds 3 new animals that will spawn in the Ice Sheet, but some of them also spawn in other biomes. They have vanilla artwork, sounds and balancing.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1836900626">Vanilla Animals Expanded — Arid Shrubland</a> by Oskar Potocki</h5>
+
+<p>V1.0.0<br />
+A giraffe is probably the most recognizable african animal. For some reason, it’s not in the vanilla base game, and your african tribe immersion is forever ruined. Crocodiles can never hunt you around the river bank, hippopotami can’t rip your arms off with a single bite and you can’t hear coyotes around the campfires. Except, now you can.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1849183875">Vanilla Animals Expanded — Desert</a> by Oskar Potocki</h5>
+
+<p>V1.0.0<br />
+No animal mod, or in this instance, mod series, can be complete without Lions. This mod, albeit being smaller to not overpopulate the desolate deserts of the planet, contains some of the most popular and requested - and dangerous - animals that can most often be found in the desert. With this particular mod you can hear hyena’s laughter echo through the night, train your own pack of lions, tackle a desert tortoise and die due to venom injected by the feared gila monster.<br />
+Vanilla Animals Expanded is a modular mod. It means it will come out in several modules allowing people to subscribe to only the animals they want in the game. This part is the Desert biome expansion. It adds 4 new animals that will spawn in the Desert, but some of them also spawn in other biomes. They have vanilla artwork, sounds and balancing.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1895364938">Vanilla Animals Expanded — Boreal Forest</a> by Oskar Potocki, Sarg Bjornson</h5>
+
+<p>V1.0.0<br />
+Boreal forest is a biome drastically needing some new, unique animals. With this module, you can see famous american black bears - smaller cousins of the grizzly bears, as well as arctic coyotes and tiny otters.<br />
+Vanilla Animals Expanded is a modular mod. It means it will come out in several modules allowing people to subscribe to only the animals they want in the game. This part is the Boreal Forest biome expansion. It adds 3 new animals that will spawn in the Boreal Forest, but some of them also spawn in other biomes. They have vanilla artwork, sounds and balancing.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1907283935">Vanilla Animals Expanded — Tropical Swamp</a> by Oskar Potocki, Sarg Bjornson</h5>
+
+<p>Tropical swamp never really had this “oh, this zone is dangerous” feel. It felt just like any other swamp. This very module, albeit only adding 3 new animals, is our way to remedy this. Alligators and Anacondas will now actively hunt in the tropical swamp biome, and they are a force to be reckoned with. To ease things up, we have also added Indian elephants - smaller versions of their african counterparts, with no tusks that can be sold. They are significantly easier to hunt and tame, and are a useful pack animal.<br />
+Vanilla Animals Expanded is a modular mod. It means it will come out in several modules allowing people to subscribe to only the animals they want in the game. This part is the Tropical Swamp biome expansion. It adds 3 new animals that will spawn in the Tropical Swamp, but some of them also spawn in other biomes. They have vanilla artwork, sounds and balancing.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1907283872">Vanilla Animals Expanded — Tropical Rainforest</a> by Oskar Potocki, Sarg Bjornson</h5>
+
+<p>After having my first Spaceship launch in the tropical rainforest biome, I have noticed it actually didn’t feel as tropical as I would like it to feel. Monkeys, tortoises, an elephant here and there, it doesn’t really give away that unique, diverse environment vibe. Sarg and I have decided to expand on it with a range of new, unique animals, which include gorillas and mandrills - possibly the most “jungle” animals there are. It is absolutely possible to tame your own army of tigers and send them off to hunt down the enemies, just as it is possible to have a peaceful tapir farm on the outskirts of the jungle!<br />
+Vanilla Animals Expanded is a modular mod. It means it will come out in several modules allowing people to subscribe to only the animals they want in the game. This part is the Tropical Rainforest biome expansion. It adds 6 new animals that will spawn in the Tropical Rainforest, but some of them also spawn in other biomes. They have vanilla artwork, sounds and balancing.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=705924057">Xeva's Rimhair</a> by Orion</h5>
+
+<p>Adds more hair styles.<br />
+Also works for previous versions.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1498706339">[SS]Lovely Hair Style</a> by BJInternetSupervision</h5>
+
+<p>Adding lovely hair styles.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1541890712">Ponytail is Kawaii</a> by PRNS_hegel</h5>
+
+<p>add KAWAII ponytail and NOT ponytail hair!</p>
+
+<h2>there are kinds of 15 hairstyle: 6 for female, 4 for male and 5 for anything.</h2>
+
+<p>ポニーテール（かわいい）とポニーテールジャナイ髪型を追加します！<br />
+女性用は6つ、男性用は4つ、共用は5つの、計15種があります。</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1346113625">gloomy_hair</a> by Gloomylynx</h5>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=725949967">Rimsenal - Rimhair</a> by rooki1</h5>
+
+<p>Adds more hair styles.</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1541531035">[CP] Chicken Mitchell - Hairstyles (1.0)</a> by Chicken Plucker</h5>
+
+<p>Hand-drawn hairsyles taken from various video games by famous hairstylist "Chicken Mitchell".<br />
+3D models used for reference.<br />
+Credits to:<br />
+Croix3D - model reference<br />
+LordAardvark - model reference<br />
+RedMenaceKun - model reference<br />
+Barbell - model reference<br />
+Alan13 - model reference<br />
+LamitrizShow - model reference</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1508171889">[Ods] Mens Hair </a> by Odstriman</h5>
+
+<p>Tired of the lack of mens Vanilla hair? Or the mods that are too wild? want something more realistic? Something that people actually have in real life? Well look no more!</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1886150617">Won hair<em>women </a> by JI</em>Won</h5>
+
+<p>Add 36 female hairs</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1879950403">Won hair<em>men</a> by JI</em>Won</h5>
+
+<p>32 male hairstyles</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1909713308">Manly Hairstyles</a> by riprusse</h5>
+
+<p>This mod adds ten new hairstyles for men! Recommended to use with the mod, "Show Hats with Hair".</p>
+
+<h5><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1888705256">Vanilla Hair Expanded</a> by Oskar Potocki, XeoNovaDan</h5>
+
+<p>We have all been there, with a colony of a hundred pawns where everyone looks somewhat the same. Starting colonists with no character to their looks. This mod is our attempt at fixing that.<br />
+We have worked hard to create a hundred new hairstyles that fit vanilla RimWorld perfectly! From tribals to space refugees, every possible pawn receives a set of new, fitting styles that add much needed character and soul to them, and with so many new possibilities, it’s unlikely two of your pawns will look the same!<br />
+And in case they do, one of our major features is a barber’s table - a workbench available to be built from the very start of the game, that allows you to change the hairstyle, colour and beard style of your pawns. Yes, you heard me right. We’re also adding 15 beards, which have a solid 20% chance to spawn on any male colonist! If, however, beards are not something you’re into, you can disable them in the mod settings!</p>
+</body></html>
