@@ -41,7 +41,7 @@ drive-forward:
 drive-backward:
   - image_path: /imgs/ksp-settings-input-vessel-drive-backwards-key.png
     alt: "KSP: Input Settings (Drive Back)"
-    url: /imgs/ksp/ksp-settings-input-vessel-drive-backwards-key.png
+    url: /imgs/ksp/2017/ksp-settings-input-vessel-drive-backwards-key.png
 
 ---
 
