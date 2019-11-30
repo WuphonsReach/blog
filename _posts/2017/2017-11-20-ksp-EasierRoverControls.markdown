@@ -19,9 +19,9 @@ pitch-down:
     url: /imgs/ksp/2017/ksp-settings-input-flight-pitch-down-key.png
 
 pitch-up:
-  - image_path: /imgs/ksp/2017/ksp-settings-input-flight-pitch-up-key.png.png
+  - image_path: /imgs/ksp/2017/ksp-settings-input-flight-pitch-up-key.png
     alt: "KSP: Input Settings (Pitch Up)"
-    url: /imgs/ksp/2017/ksp-settings-input-flight-pitch-up-key.png.png
+    url: /imgs/ksp/2017/ksp-settings-input-flight-pitch-up-key.png
 
 yaw-left:
   - image_path: /imgs/ksp/2017/ksp-settings-input-flight-map-yaw-left-key.png
