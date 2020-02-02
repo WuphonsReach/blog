@@ -23,15 +23,15 @@
 
 ## Recommended Options (2019 version)
 
-- Horse Speed Fix:
-- Horse Culling:
-- Battle Continuation: 
-- Charge When Dead:
-- Terrain Advantages:
-- Lords Returning From Exile:
-- AI Changes:
-- Economics & Behavioral: 
-- Prejudice Level:
-- Disable Companions Complaints:
-- Disguise System:
-- Cheat Mode:
+- Horse Speed Fix: ON
+- Horse Culling: 1
+- Battle Continuation: ON
+- Charge When Dead: ON
+- Terrain Advantages: ON
+- Lords Returning From Exile: ON (you may want to turn this off towards end-game)
+- AI Changes: HIGH
+- Economics & Behavioral: HIGH
+- Prejudice Level: DEFAULT
+- Disable Companions Complaints: ON
+- Disguise System: ON
+- Cheat Mode: OFF
