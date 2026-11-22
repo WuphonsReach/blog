@@ -15,6 +15,18 @@ gallery1:
   - image_path: /imgs/mbw/warband/hideout-locations/tundra-bandit-lair/20190124052942_1.jpg
     url: /imgs/mbw/warband/hideout-locations/tundra-bandit-lair/20190124052942_1.jpg
     alt: "Mount & Blade: Warband - Tundra Bandit Lair Locations"
+  - image_path: /imgs/mbw/warband/hideout-locations/tundra-bandit-lair/20200202193420_1.jpg
+    url: /imgs/mbw/warband/hideout-locations/tundra-bandit-lair/20200202193420_1.jpg
+    alt: "Mount & Blade: Warband - Tundra Bandit Lair Locations"
+  - image_path: /imgs/mbw/warband/hideout-locations/tundra-bandit-lair/20200203095118_1.jpg
+    url: /imgs/mbw/warband/hideout-locations/tundra-bandit-lair/20200203095118_1.jpg
+    alt: "Mount & Blade: Warband - Tundra Bandit Lair Locations"
+  - image_path: /imgs/mbw/warband/hideout-locations/tundra-bandit-lair/20200204092607_1.jpg
+    url: /imgs/mbw/warband/hideout-locations/tundra-bandit-lair/20200204092607_1.jpg
+    alt: "Mount & Blade: Warband - Tundra Bandit Lair Locations"
+  - image_path: /imgs/mbw/warband/hideout-locations/tundra-bandit-lair/20200207013414_1.jpg
+    url: /imgs/mbw/warband/hideout-locations/tundra-bandit-lair/20200207013414_1.jpg
+    alt: "Mount & Blade: Warband - Tundra Bandit Lair Locations"
 
 ---
 

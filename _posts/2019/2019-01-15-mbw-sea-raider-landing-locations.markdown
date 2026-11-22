@@ -15,6 +15,15 @@ gallery1:
   - image_path: /imgs/mbw/warband/hideout-locations/sea-raider-landing/20190126075423_1.jpg
     url: /imgs/mbw/warband/hideout-locations/sea-raider-landing/20190126075423_1.jpg
     alt: "Mount & Blade: Warband - Sea Raider Landing Locations"
+  - image_path: /imgs/mbw/warband/hideout-locations/sea-raider-landing/20200203095639_1.jpg
+    url: /imgs/mbw/warband/hideout-locations/sea-raider-landing/20200203095639_1.jpg
+    alt: "Mount & Blade: Warband - Sea Raider Landing Locations"
+  - image_path: /imgs/mbw/warband/hideout-locations/sea-raider-landing/20200207013414_1.jpg
+    url: /imgs/mbw/warband/hideout-locations/sea-raider-landing/20200207013414_1.jpg
+    alt: "Mount & Blade: Warband - Sea Raider Landing Locations"
+  - image_path: /imgs/mbw/warband/hideout-locations/sea-raider-landing/20210102064605_1.jpg
+    url: /imgs/mbw/warband/hideout-locations/sea-raider-landing/20210102064605_1.jpg
+    alt: "Mount & Blade: Warband - Sea Raider Landing Locations"
 
 ---
 
