@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Diplomacy 4.3+ Options"
+permalink: /res/mount-blade-warband/
+---
+
 # Diplomacy 4.3+ Options
 
 - [Diplomacy 4.3+ Options](#diplomacy-43-options)

@@ -1,12 +1,28 @@
-# External gems
-# See http://ixti.net/software/2013/01/28/using-jekyll-plugins-on-github-pages.html for making `jekyll archives` work.
-gems:
-#  - jekyll-archives # Sorry, not GitHub pages friendly!
+# Plugins (built by GitHub Actions, see .github/workflows/jekyll.yml,
+# so any gem in the Gemfile can be used here)
+plugins:
   - jekyll-sitemap
   - jekyll-paginate
 
 exclude:
-  - "/vendor/"
+  - vendor/
+  - README.md
+  - serve-jekyll.sh
+
+# Build in UTC so post dates/URLs match no matter where the site is built
+timezone: UTC
+
+# Dart Sass: no source maps, and hush the deprecation warnings coming from
+# the bundled Bourbon 4 / Neat 1 libraries (they still compile fine; the
+# locked sass-embedded version keeps it that way until it is upgraded)
+sass:
+  sourcemap: never
+  silence_deprecations:
+    - import
+    - global-builtin
+    - color-functions
+    - slash-div
+    - if-function
 
 # Site settings
 title: "WuphonsReach Blog"

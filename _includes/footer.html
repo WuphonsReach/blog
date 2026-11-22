@@ -52,11 +52,15 @@
 
 <!-- Scripts -->
 <script
-  src="https://code.jquery.com/jquery-1.12.4.min.js"
-  integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ="
+  src="https://code.jquery.com/jquery-4.1.0.min.js"
+  integrity="sha384-UGSi5euAzE1p4sK41+yKs3vtdPcidmaW6fY2NUITZkjIPyMVUUYB/BV4A5Oa8uu2"
   crossorigin="anonymous"></script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.5/highlight.min.js"></script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/lightbox2/2.10.0/js/lightbox.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.12.0/highlight.min.js"
+  integrity="sha384-wjfDDhOPPdjtva8vWBhWeVprSpmxisEu5aYT3q1JyACqXpdKpo3PWZTMVq24MBix"
+  crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.12.0/js/lightbox.min.js"
+  integrity="sha384-ozVfEl7G9fvG33Be/P4bZ/CFk4T6TaqBQlD7olDgT1iyzAJEO6YQ7CwZp4OATxnH"
+  crossorigin="anonymous"></script>
 <script>
     lightbox.option({
       'fadeDuration': 150,
@@ -70,10 +74,13 @@
 <script type="text/javascript">
 $(document).ready(function() {
   // Default syntax highlighting
-  hljs.initHighlightingOnLoad();
+  // (code blocks arrive pre-tokenised by Jekyll's Rouge; hljs re-highlights
+  // their text, so skip its "unescaped HTML" console warning)
+  hljs.configure({ ignoreUnescapedHTML: true });
+  hljs.highlightAll();
 
   // Header
-  var menuToggle = $('#js-mobile-menu').unbind();
+  var menuToggle = $('#js-mobile-menu').off();
   $('#js-navigation-menu').removeClass("show");
   menuToggle.on('click', function(e) {
     e.preventDefault();
